@@ -1,0 +1,29 @@
+.journal{max-width:1040px;margin:auto;padding:72px 32px 36px;color:#202823}
+.intro{max-width:640px;margin:0 auto 76px}
+.eyebrow{font-size:10px;letter-spacing:.2em;color:#68766c;margin-bottom:16px}
+.intro h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(46px,7vw,76px);font-weight:400;line-height:1.08;letter-spacing:-.045em;margin:0 0 22px}
+.subtitle{font-size:16px;line-height:1.8;color:#647067;max-width:380px}
+.entryHeading{border-top:1px solid #dce2dc;padding-top:28px;display:flex;justify-content:space-between;gap:40px;margin-bottom:32px}
+.entryHeading h2{font-family:Georgia,'Times New Roman',serif;font-size:32px;line-height:1.2;font-weight:400;letter-spacing:-.025em}
+.entryNote{max-width:285px;font-size:14px;line-height:1.85;color:#647067;padding-top:5px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:44px 28px;align-items:start}
+.lead{grid-column:1/-1;width:min(100%,640px);justify-self:center;margin:0 0 12px}
+.photo{margin:0}
+.imageButton{position:relative;display:block;width:100%;cursor:zoom-in;background:#eef0ed;border:0;padding:0;text-align:left}
+.imageButton img{display:block;width:100%;height:auto}
+.imageButton:focus-visible,.controls button:focus-visible,.close:focus-visible{outline:3px solid #719681;outline-offset:5px}
+.enlarge{position:absolute;bottom:12px;right:12px;background:#fff;color:#25372c;width:32px;height:32px;display:grid;place-items:center;border-radius:50%;font-size:20px}
+.grid figcaption{display:flex;justify-content:space-between;gap:12px;margin-top:12px;font-size:12px;color:#647067;line-height:1.6}
+.number{font-size:10px;letter-spacing:.1em;color:#88918a}
+.footer{border-top:1px solid #dce2dc;margin-top:64px;padding-top:24px;color:#79847c;font-size:12px}
+.lightbox{margin:auto;border:0;padding:0;background:#121714;color:white;max-width:96vw;max-height:96dvh;width:min(1000px,96vw)}
+.lightbox::backdrop{background:rgba(8,14,11,.92)}
+.viewer{padding:16px 24px 20px}
+.close{display:block;margin-left:auto;background:none;border:0;color:white;padding:10px 0 16px;cursor:pointer;font-size:13px}
+.fullImage{position:relative;height:calc(90dvh - 145px);min-height:140px}
+.fullImage img{object-fit:contain}
+.controls{display:flex;justify-content:space-between;align-items:center;gap:16px;padding-top:20px;font-size:12px}
+.controls button{background:none;border:0;color:white;cursor:pointer;min-height:44px;padding:8px}
+.controls p{text-align:center;color:#ced7d0;font-size:11px}
+.controls p span{display:block;margin-top:4px}
+@media(max-width:640px){.journal{padding:44px 24px 28px}.intro{margin-bottom:48px}.entryHeading{display:block;padding-top:24px}.entryHeading h2{font-size:29px}.entryNote{margin-top:18px;max-width:100%;padding:0}.grid{grid-template-columns:1fr;gap:30px}.lead{margin:0}.viewer{padding:12px}.controls{gap:4px}.controls p span{max-width:140px}.footer{margin-top:40px}}
