@@ -2,7 +2,7 @@ import { config } from '@/lib/config'
 
 export default function About() {
     return (
-      <div className="max-w-2xl mx-auto px-6 py-20">
+      <div className="reading-page">
   
         {/* Page title */}
         <h1 className="text-3xl font-bold mb-10">About</h1>
@@ -16,11 +16,11 @@ export default function About() {
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
             Before finance I spent a lot of time doing competition mathematics — BMO distinction,
-            BPhO Top Gold — and before that growing up in Wallington, Surrey.
+            BPhO Top Gold - and before that growing up in Wallington, Surrey.
           </p>
           <p className="text-gray-700 leading-relaxed">
             This site is a place for my writing, projects, and whatever else I feel like putting here.
-            Not everything here is professional — some of it is just personal.
+            Not everything here is professional - some of it is just personal.
           </p>
         </section>
   
@@ -54,7 +54,7 @@ export default function About() {
             GitHub
           </a>
           {'. '}For anything else, reach me at{' '}
-          <a href={'mailto:${config.email}'} className="underline hover:text-gray-900">
+          <a href={'mailto:' + config.email} className="underline hover:text-gray-900">
             {config.email}
           </a>
           .

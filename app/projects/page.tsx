@@ -19,7 +19,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <div className="max-w-2xl mx-auto px-6 py-20">
+    <div className="reading-page">
 
       <h1 className="text-3xl font-bold mb-2">Projects</h1>
       <p className="text-gray-500 mb-10">
