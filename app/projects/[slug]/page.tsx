@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 const projects: Record<string, { title: string; description: string; tags: string; note: string }> = {
-  'agentic-hedge-fund': { title: 'Agentic Hedge Fund', description: 'A multi-pod backtesting system with AI agents across macro, FX, commodities, and volatility strategies.', tags: 'PYTHON / AI / FINANCE', note: 'A fuller project write-up is on its way.' },
   'personal-website': { title: 'Personal Website', description: 'This site — built with Next.js, Tailwind, and deployed on Vercel.', tags: 'NEXT.JS / TAILWIND / VERCEL', note: 'A home for projects, writing, and a photo journal of travel and life in between.' },
 }
 type Props = { params: Promise<{ slug: string }> }

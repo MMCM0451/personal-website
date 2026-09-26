@@ -2,13 +2,6 @@ import Link from 'next/link'
 
 const projects = [
   {
-    slug: 'agentic-hedge-fund',
-    title: 'Agentic Hedge Fund',
-    date: '2026',
-    description: 'A multi-pod backtesting system with AI agents across macro, FX, commodities, and volatility strategies.',
-    tags: ['Python', 'AI', 'Finance'],
-  },
-  {
     slug: 'personal-website',
     title: 'Personal Website',
     date: '2026',
