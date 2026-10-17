@@ -1,5 +1,7 @@
 # Vision evaluation
 
+**Current repair results:** see [RECOGNITION_STATUS.md](RECOGNITION_STATUS.md). One supplied real scoreboard now yields ten correct reviewed proposals; two non-lineup fixtures yield no slots. The new scoreboard detector and browser measurements supersede the initial baseline below. Confidence calibration, held-out generalisation and Android timing remain absent. The following is the historical starting-point evaluation.
+
 No real user screenshots were supplied at project start. Real-world accuracy, skin robustness and phone latency are **unmeasured**. Two seconds warm / five seconds fallback are targets, not achieved benchmarks.
 
 Baseline pipeline: local decode -> user identifies layout/crop -> resize/normalise portrait -> template distances -> confidence/gap gate -> top candidates -> explicit confirmation -> structured draft. Automatic slot/layout detection is deferred until representative examples exist. Official roster images are portrait cards rather than guaranteed in-client icons; expect domain mismatch. Low texture/partial crops and ambiguous matches must remain unknown. No hidden enemy inference.

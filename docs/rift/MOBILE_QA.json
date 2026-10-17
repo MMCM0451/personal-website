@@ -1,0 +1,32 @@
+[
+  {
+    "actionTop": 683,
+    "brokenImages": 0,
+    "clientWidth": 345,
+    "height": 740,
+    "minimumChampionHeight": 46,
+    "purchaseBottom": 803.71875,
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "actionTop": 787,
+    "brokenImages": 0,
+    "clientWidth": 375,
+    "height": 844,
+    "minimumChampionHeight": 46,
+    "purchaseBottom": 779.78125,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "actionTop": 875,
+    "brokenImages": 0,
+    "clientWidth": 430,
+    "height": 932,
+    "minimumChampionHeight": 46,
+    "purchaseBottom": 766.5859375,
+    "scrollWidth": 430,
+    "width": 430
+  }
+]

@@ -63,6 +63,7 @@ export interface Profile {
   queue: "solo" | "duo" | "team";
   duoPartner: string | null;
   pool: PoolEntry[];
+  bootTiming?: "core-first" | "earlier-tier2";
 }
 export interface Draft {
   allies: (string | null)[];
@@ -74,6 +75,15 @@ export interface Draft {
   gameMinutes: number;
   gold: number;
   owned: string[];
+  buildChoice?: string | null;
+  slotEvidence?: Partial<Record<"allies" | "enemies", (SlotEvidence | null)[]>>;
+}
+export interface SlotEvidence {
+  source: "manual" | "screenshot";
+  corrected: boolean;
+  sourceHash?: string;
+  similarity?: number;
+  recognizerVersion?: string;
 }
 export interface AppState {
   schema: 1;

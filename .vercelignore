@@ -1,1 +1,3 @@
 lib/rift/data/*/sources/
+private/
+__pycache__/

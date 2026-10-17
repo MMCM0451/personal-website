@@ -9,6 +9,7 @@
     "lint": "eslint",
     "test:rift": "tsx --test tests/rift/*.test.ts",
     "benchmark:rift": "tsx scripts/benchmark-rift.ts",
+    "evaluate:rift-vision": "tsx scripts/evaluate-rift-vision.ts",
     "typecheck": "tsc --noEmit",
     "verify:rift-data": "node scripts/verify-rift-data.mjs"
   },

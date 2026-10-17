@@ -42,3 +42,6 @@ next-env.d.ts
 
 # Retained acquisition evidence stays local; normalized facts/manifests are versioned.
 /lib/rift/data/*/sources/
+/private/
+__pycache__/
+*.pyc

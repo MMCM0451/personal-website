@@ -5,7 +5,6 @@ import {
   GRID,
   recognise,
   validateCrop,
-  VISION_VERSION,
   type Crop,
   type Descriptor,
   type Recognition,
@@ -83,7 +82,27 @@ export async function decodeScreenshot(file: File): Promise<HTMLCanvasElement> {
     file.size > 15_000_000
   )
     throw Error("Use PNG, JPEG or WebP below 15 MB.");
-  const bitmap = await createImageBitmap(file);
+  const header = new Uint8Array(await file.slice(0, 12).arrayBuffer());
+  const png =
+    header[0] === 137 &&
+    header[1] === 80 &&
+    header[2] === 78 &&
+    header[3] === 71;
+  const jpg = header[0] === 255 && header[1] === 216 && header[2] === 255;
+  const webp =
+    String.fromCharCode(...header.slice(0, 4)) === "RIFF" &&
+    String.fromCharCode(...header.slice(8, 12)) === "WEBP";
+  if (
+    !(
+      (file.type === "image/png" && png) ||
+      (file.type === "image/jpeg" && jpg) ||
+      (file.type === "image/webp" && webp)
+    )
+  )
+    throw Error("DECODE_FAILURE: image bytes do not match the file type.");
+  const bitmap = await createImageBitmap(file, {
+    imageOrientation: "from-image",
+  });
   if (bitmap.width * bitmap.height > 30_000_000) {
     bitmap.close();
     throw Error("Image exceeds 30 megapixels.");
@@ -190,7 +209,7 @@ export function saveCorrection(
     ...record,
     id: crypto.randomUUID(),
     confirmedAt: new Date().toISOString(),
-    algorithm: VISION_VERSION,
+    algorithm: record.recognition.algorithm,
     dataVersion: DATA_VERSION,
     labelSource: "user-confirmed",
   };

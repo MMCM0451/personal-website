@@ -1,8 +1,16 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import RiftApp from "../rift-app";
+import QuickMode from "../quick-mode";
 
-const views = ["dashboard", "draft", "build", "history", "settings"] as const;
+const views = [
+  "dashboard",
+  "draft",
+  "build",
+  "history",
+  "settings",
+  "quick",
+] as const;
 export const dynamicParams = false;
 export function generateStaticParams() {
   return [{ section: [] }, ...views.slice(1).map((v) => ({ section: [v] }))];
@@ -25,5 +33,6 @@ export default async function RiftPage({
     !views.includes(view as (typeof views)[number])
   )
     notFound();
-  return <RiftApp view={view as (typeof views)[number]} />;
+  if (view === "quick") return <QuickMode />;
+  return <RiftApp view={view as Exclude<(typeof views)[number], "quick">} />;
 }

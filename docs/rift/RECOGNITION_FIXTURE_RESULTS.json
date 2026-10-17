@@ -1,0 +1,144 @@
+{
+  "scope": "One development scoreboard, one website negative and one single-character fixture; no held-out or draft/loading validation.",
+  "evaluations": [
+    {
+      "kind": "scoreboard-proposals",
+      "fixture": "scoreboard_5v5_redacted",
+      "expectedScreenType": "postgame_scoreboard",
+      "predictedScreenType": "postgame_scoreboard",
+      "layoutCorrect": true,
+      "visibleTruthSlots": 10,
+      "correctSlots": 10,
+      "wrongSlots": 0,
+      "unknownSlots": 0,
+      "extraUnexpectedSlots": [],
+      "top1AccuracyAcrossVisibleSlots": 1,
+      "recognizedCoverage": 1,
+      "autoAcceptThreshold": 0.85,
+      "confidentAcceptedSlots": 0,
+      "confidentWrongSlots": 0,
+      "autoAcceptPrecision": null,
+      "autoAcceptCoverage": 0,
+      "exactCompleteLineup": true,
+      "errors": []
+    },
+    {
+      "kind": "scoreboard-accepted-before-review",
+      "fixture": "scoreboard_5v5_redacted",
+      "expectedScreenType": "postgame_scoreboard",
+      "predictedScreenType": "postgame_scoreboard",
+      "layoutCorrect": true,
+      "visibleTruthSlots": 10,
+      "correctSlots": 0,
+      "wrongSlots": 0,
+      "unknownSlots": 10,
+      "extraUnexpectedSlots": [],
+      "top1AccuracyAcrossVisibleSlots": 0,
+      "recognizedCoverage": 0,
+      "autoAcceptThreshold": 0.85,
+      "confidentAcceptedSlots": 0,
+      "confidentWrongSlots": 0,
+      "autoAcceptPrecision": null,
+      "autoAcceptCoverage": 0,
+      "exactCompleteLineup": false,
+      "errors": [
+        {
+          "slot": "ally 0",
+          "expected": "Teemo",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "ally 1",
+          "expected": "Xin Zhao",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "ally 2",
+          "expected": "Zed",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "ally 3",
+          "expected": "Jinx",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "ally 4",
+          "expected": "Swain",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "enemy 0",
+          "expected": "Varus",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "enemy 1",
+          "expected": "Nunu & Willump",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "enemy 2",
+          "expected": "Zyra",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "enemy 3",
+          "expected": "Miss Fortune",
+          "prediction": "UNKNOWN"
+        },
+        {
+          "slot": "enemy 4",
+          "expected": "Veigar",
+          "prediction": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "kind": "website-negative",
+      "fixture": "site_ui_not_game_redacted",
+      "expectedScreenType": "unsupported",
+      "predictedScreenType": "unsupported",
+      "layoutCorrect": true,
+      "visibleTruthSlots": 0,
+      "correctSlots": 0,
+      "wrongSlots": 0,
+      "unknownSlots": 0,
+      "extraUnexpectedSlots": [],
+      "top1AccuracyAcrossVisibleSlots": null,
+      "recognizedCoverage": null,
+      "autoAcceptThreshold": 0.85,
+      "confidentAcceptedSlots": 0,
+      "confidentWrongSlots": 0,
+      "autoAcceptPrecision": null,
+      "autoAcceptCoverage": null,
+      "exactCompleteLineup": false,
+      "errors": [],
+      "nonLineupScreenshotHandledCorrectly": true,
+      "unsupportedScreenshotAcceptedCorrectly": true
+    },
+    {
+      "kind": "single-results",
+      "fixture": "postgame_single_champion_redacted",
+      "expectedScreenType": "postgame_performance_single",
+      "predictedScreenType": "postgame_performance_single",
+      "layoutCorrect": true,
+      "visibleTruthSlots": 0,
+      "correctSlots": 0,
+      "wrongSlots": 0,
+      "unknownSlots": 0,
+      "extraUnexpectedSlots": [],
+      "top1AccuracyAcrossVisibleSlots": null,
+      "recognizedCoverage": null,
+      "autoAcceptThreshold": 0.85,
+      "confidentAcceptedSlots": 0,
+      "confidentWrongSlots": 0,
+      "autoAcceptPrecision": null,
+      "autoAcceptCoverage": null,
+      "exactCompleteLineup": false,
+      "errors": [],
+      "nonLineupScreenshotHandledCorrectly": true,
+      "singleChampionScreenHandledCorrectly": true
+    }
+  ]
+}

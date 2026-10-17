@@ -148,6 +148,7 @@ export function purchasePlan(
   support: boolean,
   mode: Mode,
   owned: string[] = [],
+  options: { urgentStasis?: boolean; earlierTier2?: boolean } = {},
 ): PurchaseStep[] {
   const inventory = [...owned];
   let total = 0;
@@ -201,7 +202,20 @@ export function purchasePlan(
   const tier2 = items[bootId].minMinute
     ? items[bootId].recipe.find((id) => items[id].kind === "boots")!
     : bootId;
-  majorIds.forEach((id, index) => {
+  if (options.earlierTier2)
+    acquire(
+      tier2,
+      "Earlier Tier 2 preference. This delays the first completed major item.",
+    );
+  const ordered =
+    options.urgentStasis && majorIds.includes("zhonyas-hourglass")
+      ? [
+          majorIds[0],
+          "zhonyas-hourglass",
+          ...majorIds.slice(1).filter((id) => id !== "zhonyas-hourglass"),
+        ]
+      : majorIds;
+  ordered.forEach((id, index) => {
     if (support && index === 4) {
       const at = inventory.indexOf("relic-shield");
       if (at >= 0) {
@@ -217,13 +231,19 @@ export function purchasePlan(
         });
       }
     }
-    const component = items[id].recipe.find(
+    const recipes =
+      id === "zhonyas-hourglass" && options.urgentStasis
+        ? [...items[id].recipe].reverse()
+        : items[id].recipe;
+    const component = recipes.find(
       (c) => !inventory.includes(c) && inventory.length < 6,
     );
     if (component)
       acquire(
         component,
-        `Recall option toward ${items[id].name}; complete when the remaining gold is affordable.`,
+        id === "zhonyas-hourglass" && options.urgentStasis
+          ? "Accelerated survival path. Armguard is a component, not an active Stasis; finish Hourglass before the next greedy AP spike if burst is decisive."
+          : `Recall option toward ${items[id].name}; complete when the remaining gold is affordable.`,
       );
     acquire(
       id,
@@ -236,7 +256,7 @@ export function purchasePlan(
         tier2,
         "Intermediate boots: upgrade for the matchup before continuing the core.",
       );
-    if (index === 1 && tier2 !== bootId)
+    if (index === 3 && tier2 !== bootId)
       acquire(
         bootId,
         mode === "ranked" || mode === "pvp"
@@ -460,7 +480,17 @@ function builds(
       };
       if (warnings.length === 0) {
         // Owned inventory is a separate next-purchase aid. The canonical full plan starts from zero.
-        candidate.purchase = purchasePlan(ids, boots, support, profile.mode);
+        candidate.purchase = purchasePlan(
+          ids,
+          boots,
+          support,
+          profile.mode,
+          [],
+          {
+            urgentStasis: enemy.burst >= 2,
+            earlierTier2: profile.bootTiming === "earlier-tier2",
+          },
+        );
         candidate.totalGold = candidate.purchase.at(-1)?.total ?? 0;
       }
       return candidate;

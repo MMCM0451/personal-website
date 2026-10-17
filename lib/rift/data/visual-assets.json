@@ -1,0 +1,2022 @@
+{
+  "patch": "7.3b",
+  "version": "wr-circles-2026-10-17",
+  "retrievedAt": "2026-10-17T17:10:41.824Z",
+  "records": {
+    "item:aether-wisp": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-aether-wisp.webp",
+      "url": "https://www.wildriftfire.com/images/items/aether-wisp.png",
+      "sha256": "a0be5b48fa22d18c1df04a6585238624fc2ef3c48600321d9cb3022e8e06da6c",
+      "bytes": 2288,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:amaranths-twinguard": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-amaranths-twinguard.webp",
+      "url": "https://www.wildriftfire.com/images/items/amaranths-twinguard.png",
+      "sha256": "ceda4f8f738a9a096f87c5021a52e6c5535ccf973b0974ad545ce2781a4589e7",
+      "bytes": 4032,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:b-f-sword": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-b-f-sword.webp",
+      "url": "https://www.wildriftfire.com/images/items/b-f-sword.png",
+      "sha256": "813f8f9fe2fb5b20562d6c05ec11e5a6e0deeaccacff5ce5e448eb98e0e1720e",
+      "bytes": 2892,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:amplifying-tome": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-amplifying-tome.webp",
+      "url": "https://www.wildriftfire.com/images/items/amplifying-tome.png",
+      "sha256": "da0f8db466c28f252183a7d852156fd18547901f20d0e54f723b22f31d5c050b",
+      "bytes": 3004,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:berserkers-greaves": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-berserkers-greaves.webp",
+      "url": "https://www.wildriftfire.com/images/items/berserkers-greaves.png",
+      "sha256": "5ccaabd8b2724247b3aa6d315261fec5f5fdd0bd0cb9b63bb4f70d47dc72ffe9",
+      "bytes": 3352,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:bamis-cinder": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-bamis-cinder.webp",
+      "url": "https://www.wildriftfire.com/images/items/bamis-cinder.png",
+      "sha256": "a5889eeb08ba85578d7c9b579e449ddcf19120b3f4eb39285bd6863db09fd39d",
+      "bytes": 2948,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:blasting-wand": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-blasting-wand.webp",
+      "url": "https://www.wildriftfire.com/images/items/blasting-wand.png",
+      "sha256": "af60abe8643f6ffd51c1b41ed4f7a1f431bcc74ba7087b94642cface37beda24",
+      "bytes": 2532,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:bloodletters-curse": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-bloodletters-curse.webp",
+      "url": "https://www.wildriftfire.com/images/items/bloodletters-curse.png",
+      "sha256": "47bd8b5f7e34e23f37c609be6a2e15dd98441748d9433ffa49de969bf5dbeed2",
+      "bytes": 4034,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:banshees-veil": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-banshees-veil.webp",
+      "url": "https://www.wildriftfire.com/images/items/banshees-veil.png",
+      "sha256": "5542d333196aa2006b72030b694851c53e6b2f4687df315f48e8c12f85470a06",
+      "bytes": 3178,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:bloodthirster": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-bloodthirster.webp",
+      "url": "https://www.wildriftfire.com/images/items/bloodthirster.png",
+      "sha256": "f4cde6fdb02c2c5d12895a4c2bc1d73a4a0088e89a62ea725eab951ec8d00db6",
+      "bytes": 3710,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:catalyst-of-aeons": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-catalyst-of-aeons.webp",
+      "url": "https://www.wildriftfire.com/images/items/catalyst-of-aeons.png",
+      "sha256": "d07db7de41b3638221e6516d050eb7cc09923981c17dae372a8b5bff24264b08",
+      "bytes": 2950,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:boots-of-mana": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-boots-of-mana.webp",
+      "url": "https://www.wildriftfire.com/images/items/boots-of-mana.png",
+      "sha256": "0cb230b1e70dad32207952552268bc71034a373be59a04b95cdf1cc4e9949d8e",
+      "bytes": 2556,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:boots-of-speed": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-boots-of-speed.webp",
+      "url": "https://www.wildriftfire.com/images/items/boots-of-speed.png",
+      "sha256": "fc1ef71da7d6e35201bb565b83c887fa452875cb499ee9f3e4ced755eb95af66",
+      "bytes": 2242,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:chain-vest": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-chain-vest.webp",
+      "url": "https://www.wildriftfire.com/images/items/chain-vest.png",
+      "sha256": "3e27515d073d95eb22afcbf0c34bd887948efc3626f0ff0ca711ed07038608d9",
+      "bytes": 3370,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:brawlers-gloves": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-brawlers-gloves.webp",
+      "url": "https://www.wildriftfire.com/images/items/brawlers-gloves.png",
+      "sha256": "c1de27ca5a230c44f77f6f372b0ea9a4b474c9eaccd45f7fc2e3f5bc9f682796",
+      "bytes": 2596,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:bramble-vest": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-bramble-vest.webp",
+      "url": "https://www.wildriftfire.com/images/items/bramble-vest.png",
+      "sha256": "8dd2f9daa39cdd24ef304b6acc30b701b3872ed256ccc23271b7048c498deea8",
+      "bytes": 3784,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:fiendish-codex": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-fiendish-codex.webp",
+      "url": "https://www.wildriftfire.com/images/items/fiendish-codex.png",
+      "sha256": "60b3052b18e0b1fa11d177e12db0f2f83abbee3de6442ca656bbc691044c90c2",
+      "bytes": 3226,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:giants-belt": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-giants-belt.webp",
+      "url": "https://www.wildriftfire.com/images/items/giants-belt.png",
+      "sha256": "92cd76c1f55c5cc85aa6a85addf6a7753edf167edee9f0a65d1f14645afa59cb",
+      "bytes": 3138,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:executioners-calling": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-executioners-calling.webp",
+      "url": "https://www.wildriftfire.com/images/items/executioners-calling.png",
+      "sha256": "cfecf384bb98920b7cf620db16e19b44978c8c1b71704de039fb0cc9b7586673",
+      "bytes": 3268,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:dagger": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-dagger.webp",
+      "url": "https://www.wildriftfire.com/images/items/dagger.png",
+      "sha256": "f13cd1ca795c490a4fa0bb3744efa8639923d876c1925d19dcdd826131fce2ff",
+      "bytes": 2098,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:cloth-armor": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-cloth-armor.webp",
+      "url": "https://www.wildriftfire.com/images/items/cloth-armor.png",
+      "sha256": "70a962de242f1ed9c42a8b792127c38edc546860af2265018c8cea0861b5b209",
+      "bytes": 2556,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:fated-ashes": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-fated-ashes.webp",
+      "url": "https://www.wildriftfire.com/images/items/fated-ashes.png",
+      "sha256": "f7417ce62063bd6c706644e060c57eb46c90a276e4387de1a71d149264529d0b",
+      "bytes": 2992,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:force-of-nature": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-force-of-nature.webp",
+      "url": "https://www.wildriftfire.com/images/items/force-of-nature.png",
+      "sha256": "bcd73cb987d7a9b86e09c4c693781393727d7fe50c9fe20f0e4a8bf8f4b08660",
+      "bytes": 3722,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:hextech-rocketbelt": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-hextech-rocketbelt.webp",
+      "url": "https://www.wildriftfire.com/images/items/hextech-rocketbelt.png",
+      "sha256": "6c9ca47da99da2c2bb465e2a06c028d567718be264ac36b081d941723537f41b",
+      "bytes": 4708,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:heartsteel": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-heartsteel.webp",
+      "url": "https://www.wildriftfire.com/images/items/heartsteel.png",
+      "sha256": "9e7bc1a60833c962eb568f59d105112ca64757b411cb9c7aaf514e0a8255f1ea",
+      "bytes": 4692,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:haunting-guise": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-haunting-guise.webp",
+      "url": "https://www.wildriftfire.com/images/items/haunting-guise.png",
+      "sha256": "34fba7027da6fd4ed0657fc4b064038057031b441d6f86c0a24d193cbe6aad2f",
+      "bytes": 3596,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:infinity-orb": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-infinity-orb.webp",
+      "url": "https://www.wildriftfire.com/images/items/infinity-orb.png",
+      "sha256": "be194c643eec86da42109d5ac997b75db90b3e0e8cbdcb609f1efc1f2b7596b8",
+      "bytes": 3806,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:infinity-edge": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-infinity-edge.webp",
+      "url": "https://www.wildriftfire.com/images/items/infinity-edge.png",
+      "sha256": "9fc21e90c852a89934afd5bc6bf91e521c5e195d81cacdb590e07476f0183be6",
+      "bytes": 4042,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:hextech-alternator": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-hextech-alternator.webp",
+      "url": "https://www.wildriftfire.com/images/items/hextech-alternator.png",
+      "sha256": "c5ff264a5d4d43fb8b48774c23670004fc42ca36477123c5c7b3647616555117",
+      "bytes": 2934,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:guardian-angel": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-guardian-angel.webp",
+      "url": "https://www.wildriftfire.com/images/items/guardian-angel.png",
+      "sha256": "6eb66a3f4909d2273f37438814812c0a3c75406a1767426a341a0a49beb0945a",
+      "bytes": 3414,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:long-sword": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-long-sword.webp",
+      "url": "https://www.wildriftfire.com/images/items/long-sword.png",
+      "sha256": "e1820eae381937b2f9aa53c3c332b6eb250d4af30b19d9b76a2dfddb859b8005",
+      "bytes": 2538,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:kindlegem": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-kindlegem.webp",
+      "url": "https://www.wildriftfire.com/images/items/kindlegem.png",
+      "sha256": "1ed293671d8d5444687a24d61ebd82d805a06274247e7ab3af4035a113e40fa1",
+      "bytes": 3190,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:last-whisper": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-last-whisper.webp",
+      "url": "https://www.wildriftfire.com/images/items/last-whisper.png",
+      "sha256": "26e2bd01d8026dfd8b5427edd61fd5811c913a95c0174ffd235b25c99abc5218",
+      "bytes": 2598,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:kircheis-shard": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-kircheis-shard.webp",
+      "url": "https://www.wildriftfire.com/images/items/kircheis-shard.png",
+      "sha256": "2137bd6ec48591bbbcaa5960144964f2fcde3fbdeddfa9e0b0845fde97947784",
+      "bytes": 3464,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:jaurims-fist": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-jaurims-fist.webp",
+      "url": "https://www.wildriftfire.com/images/items/jaurims-fist.png",
+      "sha256": "a9d6f7a786b90243da6487632186317a225ec7ed04daba8cb1518456b6db6806",
+      "bytes": 2976,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:lich-bane": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-lich-bane.webp",
+      "url": "https://www.wildriftfire.com/images/items/lich-bane.png",
+      "sha256": "1be5e1596487a064c12f4f098fc8d12cf9fc47e47a01d66146340a40b57ca073",
+      "bytes": 3276,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:ionian-boots-of-lucidity": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-ionian-boots-of-lucidity.webp",
+      "url": "https://www.wildriftfire.com/images/items/ionian-boots-of-lucidity.png",
+      "sha256": "43700c94e73f0a1d9854dd5209048aa84336af818740a8a1c746d9261ad09ecb",
+      "bytes": 3296,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:liandrys-torment": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-liandrys-torment.webp",
+      "url": "https://www.wildriftfire.com/images/items/liandrys-torment.png",
+      "sha256": "61dbfed81cb1f75d700f5ce3d1e38083d5169b67de9f2de62f26b24d63a37ffe",
+      "bytes": 3736,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:needlessly-large-rod": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-needlessly-large-rod.webp",
+      "url": "https://www.wildriftfire.com/images/items/needlessly-large-rod.png",
+      "sha256": "3aca6cf36d13257c028da338a7bd57c494df666e7f6ed1154f948c18a9b527a5",
+      "bytes": 3614,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:morellonomicon": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-morellonomicon.webp",
+      "url": "https://www.wildriftfire.com/images/items/morellonomicon.png",
+      "sha256": "47108eca2f90ea237da0560523e0f6d9c3c293641357ab39647ee68cbaecd1bd",
+      "bytes": 3764,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:lost-chapter": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-lost-chapter.webp",
+      "url": "https://www.wildriftfire.com/images/items/lost-chapter.png",
+      "sha256": "510b926bb82d82685a725bf1c02d30317dfef5bbdc6de55ecf31800e42adfd19",
+      "bytes": 3452,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:malignance": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-malignance.webp",
+      "url": "https://www.wildriftfire.com/images/items/malignance.png",
+      "sha256": "24631277ddab92be4360991b57765341378d2163a48d6d75124ec19152d70758",
+      "bytes": 3022,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:mortal-reminder": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-mortal-reminder.webp",
+      "url": "https://www.wildriftfire.com/images/items/mortal-reminder.png",
+      "sha256": "119b936f845c543d11bf26c57b7cb8e3af890602c4138b1bd0c2039b1884524b",
+      "bytes": 3318,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:ludens-echo": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-ludens-echo.webp",
+      "url": "https://www.wildriftfire.com/images/items/ludens-echo.png",
+      "sha256": "7563cadf492f0df1b97ac0ae9b501cbdcd9c7a4636f51f5b78a6110fe136d76a",
+      "bytes": 3454,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:mercurys-treads": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-mercurys-treads.webp",
+      "url": "https://www.wildriftfire.com/images/items/mercurys-treads.png",
+      "sha256": "5612524c53c7f83b6f5801ed06055c2d3f60bb1b924ad62c85bceb15c427e048",
+      "bytes": 3596,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:negatron-cloak": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-negatron-cloak.webp",
+      "url": "https://www.wildriftfire.com/images/items/negatron-cloak.png",
+      "sha256": "d603d5b5f8d0e722fda8de5b6926e5909c065cfbfaf4cf4c2e7f7f653b5b5a3d",
+      "bytes": 3412,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:plated-steelcaps": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-plated-steelcaps.webp",
+      "url": "https://www.wildriftfire.com/images/items/plated-steelcaps.png",
+      "sha256": "ebef528bb67939a9fa4c90c323f7ec810c1bee876851222137fabde68bb2ff9b",
+      "bytes": 3340,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:relic-shield": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-relic-shield.webp",
+      "url": "https://www.wildriftfire.com/images/items/relic-shield.png",
+      "sha256": "679156c67e4a357ec033591b8d36f70d977ed9ff297dab70db14d22414e7caeb",
+      "bytes": 2688,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:rapid-firecannon": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-rapid-firecannon.webp",
+      "url": "https://www.wildriftfire.com/images/items/rapid-firecannon.png",
+      "sha256": "da5aa2bfe9e82e12fdee65b218f56df45fa9b5789788940f3f8cc1ec87dd32d0",
+      "bytes": 3468,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:pickaxe": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-pickaxe.webp",
+      "url": "https://www.wildriftfire.com/images/items/pickaxe.png",
+      "sha256": "74297e8f51b8911f029d27d9829424e65d769ae71a17868f83f8857183befd1e",
+      "bytes": 2246,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:oblivion-orb": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-oblivion-orb.webp",
+      "url": "https://www.wildriftfire.com/images/items/oblivion-orb.png",
+      "sha256": "45755263e6a1c3f4ab4ff7e68a94aa2f0272ab10ab9d1f59953a493c9600ea5f",
+      "bytes": 2918,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:oceanids-trident": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-oceanids-trident.webp",
+      "url": "https://www.wildriftfire.com/images/items/oceanids-trident.png",
+      "sha256": "d96631fde6fa4d7b66b93486d4e6ee74e92676602b91500b0fc548806cde1c4b",
+      "bytes": 3076,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:null-magic-mantle": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-null-magic-mantle.webp",
+      "url": "https://www.wildriftfire.com/images/items/null-magic-mantle.png",
+      "sha256": "7f723e6c59e8fedaa3e3f0fb631e3d293debd0983000874bc8d53e55df015eb2",
+      "bytes": 3126,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:rabadons-deathcap": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-rabadons-deathcap.webp",
+      "url": "https://www.wildriftfire.com/images/items/rabadons-deathcap.png",
+      "sha256": "52260480a074647435fd1060d1582bc86251d2cc19276adb3bd603cd67a41800",
+      "bytes": 3204,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:ruby-crystal": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-ruby-crystal.webp",
+      "url": "https://www.wildriftfire.com/images/items/ruby-crystal.png",
+      "sha256": "fc830359af7d06bb5630f8d441e04ba31dac6ce413c9dcfcfe7aedfd287ac4e0",
+      "bytes": 2520,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:rylais-crystal-scepter": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-rylais-crystal-scepter.webp",
+      "url": "https://www.wildriftfire.com/images/items/rylais-crystal-scepter.png",
+      "sha256": "a24af773294a92fed774e07b3ddc6711e44c306efad1d25f5d0c4cc932625532",
+      "bytes": 3478,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:ring-of-revelation": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-ring-of-revelation.webp",
+      "url": "https://www.wildriftfire.com/images/items/ring-of-revelation.png",
+      "sha256": "4d05ba3b116e4974278b116bc5fdf355aeb56d18f0a87d9343c91f79027c52f3",
+      "bytes": 2540,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:rod-of-ages": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-rod-of-ages.webp",
+      "url": "https://www.wildriftfire.com/images/items/rod-of-ages.png",
+      "sha256": "a0fd01a6d3be540a8eb99aa14c691c90b4318d34756bee0c7747c23dcee13aca",
+      "bytes": 3110,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:riftmaker": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-riftmaker.webp",
+      "url": "https://www.wildriftfire.com/images/items/riftmaker.png",
+      "sha256": "66850ada5dcea6284776d0cdfe1cb6b3c099a2cda71f25e3471b074e3f30981f",
+      "bytes": 4328,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:sheen": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-sheen.webp",
+      "url": "https://www.wildriftfire.com/images/items/sheen.png",
+      "sha256": "013134f9aced117ba7319e69b25f778871f2c2f9184c3bdd387c6702ce341d88",
+      "bytes": 3018,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:seekers-armguard": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-seekers-armguard.webp",
+      "url": "https://www.wildriftfire.com/images/items/seekers-armguard.png",
+      "sha256": "779b89056a8ea83ed4080d772ae1886e7181cfa0068a10d8b23d3ef85a570b82",
+      "bytes": 3312,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:runaans-hurricane": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-runaans-hurricane.webp",
+      "url": "https://www.wildriftfire.com/images/items/runaans-hurricane.png",
+      "sha256": "dfb89bae833439866e3401375a65f188622d8da732e17c6cb345df9ad6e929aa",
+      "bytes": 3776,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:winged-moonplate": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-winged-moonplate.webp",
+      "url": "https://www.wildriftfire.com/images/items/winged-moonplate.png",
+      "sha256": "d48643e6cb2bb25462ea98cb69621b3a59c51ca95072f5353ba16963b18d899e",
+      "bytes": 3932,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:warmogs-armor": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-warmogs-armor.webp",
+      "url": "https://www.wildriftfire.com/images/items/warmogs-armor.png",
+      "sha256": "8413683d75d7ec824662f5155a16414b7faf48753530cda1bc3fd2fbed2cecae",
+      "bytes": 4378,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:sunfire-aegis": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-sunfire-aegis.webp",
+      "url": "https://www.wildriftfire.com/images/items/sunfire-aegis.png",
+      "sha256": "20b14c18fc83cefde6094a84a5a467143e915fffbcc6116179f371812640603a",
+      "bytes": 3974,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:thornmail": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-thornmail.webp",
+      "url": "https://www.wildriftfire.com/images/items/thornmail.png",
+      "sha256": "f52d832fcab68c1b89fbbad4bede53946c8858c352e5c2ec779292d94c069fd1",
+      "bytes": 3920,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:titanic-hydra": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-titanic-hydra.webp",
+      "url": "https://www.wildriftfire.com/images/items/titanic-hydra.png",
+      "sha256": "d98b266893b4bb6c5e414cd349fa731a7d516c5fc92d8b561b7cc2eca839d954",
+      "bytes": 3758,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:verdant-barrier": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-verdant-barrier.webp",
+      "url": "https://www.wildriftfire.com/images/items/verdant-barrier.png",
+      "sha256": "e825896a95a8612c563fab1b1108d7c816d62d5e12f0c223cb2da8676378bd8a",
+      "bytes": 3204,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:vampiric-scepter": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-vampiric-scepter.webp",
+      "url": "https://www.wildriftfire.com/images/items/vampiric-scepter.png",
+      "sha256": "a5c03f094d9ecaaed95b670f014ca59b62fd7d01f352783e2e57bc4aa29bd5e3",
+      "bytes": 2794,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:conqueror": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-conqueror.webp",
+      "url": "https://www.wildriftfire.com/images/runes/conqueror.png",
+      "sha256": "40b8136ca72db3857bd313c040818f74bae6ff6b8dccd8c9242be13e373bd983",
+      "bytes": 6602,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:legend-haste": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-legend-haste.webp",
+      "url": "https://www.wildriftfire.com/images/runes/legend-haste.png",
+      "sha256": "b7887b08bd0a965a018ede59b6707d5d2a7763e26538a86ff254d3535f98708b",
+      "bytes": 5490,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:zhonyas-hourglass": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-zhonyas-hourglass.webp",
+      "url": "https://www.wildriftfire.com/images/items/zhonyas-hourglass.png",
+      "sha256": "f165ed6d2d71444c2fb99f8b44a7a4c0ef010d89da0bf38833d2463186417b23",
+      "bytes": 4608,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:yun-tal-wildarrows": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-yun-tal-wildarrows.webp",
+      "url": "https://www.wildriftfire.com/images/items/yun-tal-wildarrows.png",
+      "sha256": "6bd1a2393dcd77ae55d33cdea9c74d90e59b7c6090460dab114b2ff17984f07b",
+      "bytes": 3258,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:axiom-arcanist": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-axiom-arcanist.webp",
+      "url": "https://www.wildriftfire.com/images/runes/axiom-arcanist.png",
+      "sha256": "bcb5ab37f59be542d330ecc1b92e3537547d784f2c33cd35b0e3cb74e50d18a4",
+      "bytes": 4850,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:nimbus-cloak": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-nimbus-cloak.webp",
+      "url": "https://www.wildriftfire.com/images/runes/nimbus-cloak.png",
+      "sha256": "285c43922b9870d302d630e408f1a45a6301514c584168f1e057a01f602bc341",
+      "bytes": 1908,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "item:zeal": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-zeal.webp",
+      "url": "https://www.wildriftfire.com/images/items/zeal.png",
+      "sha256": "247f26be08975ffdb0999b933d0c091edf22a0228f0ac37fc806c79ece270c44",
+      "bytes": 3488,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:transcendence": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-transcendence.webp",
+      "url": "https://www.wildriftfire.com/images/runes/transcendence.png",
+      "sha256": "6efdc51aeb208119a25217e2c27ebfaa2046122571025687d56edcbab2f2ee8b",
+      "bytes": 3210,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:electrocute": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-electrocute.webp",
+      "url": "https://www.wildriftfire.com/images/runes/electrocute.png",
+      "sha256": "5436bd650cf159dd5967ec26c84afc0760e59acab4aa2de167035959df781ee5",
+      "bytes": 6816,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:grasp-of-the-undying": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-grasp-of-the-undying.webp",
+      "url": "https://www.wildriftfire.com/images/runes/grasp-of-the-undying.png",
+      "sha256": "a68b1e18417943e530c77f4944c3bd775ed288e6d51c05fc2a1f46edc90da6ac",
+      "bytes": 7056,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:demolish": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-demolish.webp",
+      "url": "https://www.wildriftfire.com/images/runes/demolish.png",
+      "sha256": "bce2d238ba3bc58368ff341a55729e35971bdf4c50f03838c50a3b048ce19b80",
+      "bytes": 4994,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:second-wind": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-second-wind.webp",
+      "url": "https://www.wildriftfire.com/images/runes/second-wind.png",
+      "sha256": "922f8d54d3794f3ee3a5ddfc76cbd978533a9b9341bedd066c55d4f00dec3331",
+      "bytes": 3334,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:last-stand": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-last-stand.webp",
+      "url": "https://www.wildriftfire.com/images/runes/last-stand.png",
+      "sha256": "216794b9606bd7f4fe2aff7ea14e8e5fb0f9c4697938f4d397c8e699a10b5076",
+      "bytes": 4810,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:phase-rush": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-phase-rush.webp",
+      "url": "https://www.wildriftfire.com/images/runes/phase-rush.png",
+      "sha256": "5f538a3227f32a1e7e033f546cd28d5f0ce16d866ca26b5d1ed680c05b7629ab",
+      "bytes": 6032,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:overgrowth": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-overgrowth.webp",
+      "url": "https://www.wildriftfire.com/images/runes/overgrowth.png",
+      "sha256": "96de13f8725201e20e784d255cb55b1f6dd30877f6144057df0b3dc84f5cc8df",
+      "bytes": 4860,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:battle-zeal": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-battle-zeal.webp",
+      "url": "https://www.wildriftfire.com/images/runes/battle-zeal.png",
+      "sha256": "c188de9921d92c35e584207a179179941050958e8abde43e069264d25f36a689",
+      "bytes": 4536,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:absolute-focus": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-absolute-focus.webp",
+      "url": "https://www.wildriftfire.com/images/runes/absolute-focus.png",
+      "sha256": "102e637390a1bbde2117bbc4efadcc4594ddd2dd03104228be5932f7a126571a",
+      "bytes": 4402,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:chain-assault": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-chain-assault.webp",
+      "url": "https://www.wildriftfire.com/images/runes/chain-assault.png",
+      "sha256": "03385d9a2dedb81cba3fe00871582c3b6042c945fef360108e08ea0986b1fd6c",
+      "bytes": 4536,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:bone-plating": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-bone-plating.webp",
+      "url": "https://www.wildriftfire.com/images/runes/bone-plating.png",
+      "sha256": "07814e3add2ca875d95e686bff9e21f1f5d8b12cc555997bb0a462a08b0eb10f",
+      "bytes": 4120,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:lethal-tempo": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-lethal-tempo.webp",
+      "url": "https://www.wildriftfire.com/images/runes/lethal-tempo.png",
+      "sha256": "59447ed3b458fae8e637e94dd1427a9399cd157390eb69c9175bdf1fa832d04a",
+      "bytes": 6578,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:empowered-attack": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-empowered-attack.webp",
+      "url": "https://www.wildriftfire.com/images/runes/empowered-attack.png",
+      "sha256": "dac3509bd114b83e0e4fc42c2c607963816a21451f4ac1906bee42843d0de33c",
+      "bytes": 3560,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:brutal": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-brutal.webp",
+      "url": "https://www.wildriftfire.com/images/runes/brutal.png",
+      "sha256": "6890737ecd69a8fdbc91e9436dcbf2dbb0f72172670f63abb0665f61f4a00294",
+      "bytes": 3430,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:eyeball-collector": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-eyeball-collector.webp",
+      "url": "https://www.wildriftfire.com/images/runes/eyeball-collector.png",
+      "sha256": "5a4761e69afb2a5cd18e111aab46a287b17937bc98fe05cd4ac879e44a93f6c5",
+      "bytes": 4612,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:sudden-impact": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-sudden-impact.webp",
+      "url": "https://www.wildriftfire.com/images/runes/sudden-impact.png",
+      "sha256": "1a4f6a778010b2b40595d07be05c4176e646f79d224f8ecdffc5133762eee3aa",
+      "bytes": 4570,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:legend-bloodline": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-legend-bloodline.webp",
+      "url": "https://www.wildriftfire.com/images/runes/legend-bloodline.png",
+      "sha256": "9174cef80e84f599e075ca7e25c4ff6ee6e076341ab08193d092e8b5a8b30a73",
+      "bytes": 3646,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "rune:cut-down": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/rune-cut-down.webp",
+      "url": "https://www.wildriftfire.com/images/runes/cut-down.png",
+      "sha256": "371cb9890eb6cb5c7fbc49c5a3989f19afdfd130f486d46af41c562b7dc09440",
+      "bytes": 4376,
+      "scope": "WildRiftFire Wild Rift imagery; mechanics remain governed by the existing patch snapshot."
+    },
+    "wr:ahri": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ahri.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ahri_OriginalCircle_WR.png?ce783",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ahri_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.255Z",
+      "sha256": "05337f3d5e0f489ff4ddadb0e608e55594dc72ddb2efc4cea649d53ef5407d34",
+      "bytes": 3992,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ambessa": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ambessa.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_OriginalCircle_WR.png?bdda1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ambessa_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.438Z",
+      "sha256": "cbd9528aee3b68c092a1ac38576e1ba53f2917020ec0bb822003c9f94e9574d2",
+      "bytes": 3310,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:aatrox": {
+      "path": "/rift/assets/wr-circles-2026-10-17/aatrox.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_OriginalCircle_WR.png?7b772",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Aatrox_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.439Z",
+      "sha256": "1e26b46f9533ab28995474bd10ef59d613a59862f5345dba6e2fdcca9107ec60",
+      "bytes": 3400,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:alistar": {
+      "path": "/rift/assets/wr-circles-2026-10-17/alistar.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Alistar_OriginalCircle_WR.png?543b1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Alistar_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.518Z",
+      "sha256": "3e01aa6347dbb4dacc60b6d472e2ec1bd8529a8ae9129c7b67fe83bd1927b569",
+      "bytes": 3660,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:akshan": {
+      "path": "/rift/assets/wr-circles-2026-10-17/akshan.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Akshan_OriginalCircle_WR.png?c5ccb",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Akshan_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.662Z",
+      "sha256": "2e6141a76738126f5c0a7c245d1e869b8559b936208166f23df6bd94e0ac61b3",
+      "bytes": 3942,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:akali": {
+      "path": "/rift/assets/wr-circles-2026-10-17/akali.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Akali_OriginalCircle_WR.png?6e07e",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Akali_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.694Z",
+      "sha256": "8d2107b8e6dd6d1505b9d4ff067aee9fb251baa299401d1fbffdd015b49e14bc",
+      "bytes": 3504,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ashe": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ashe.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ashe_OriginalCircle_WR.png?24f0b",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ashe_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.866Z",
+      "sha256": "5bd116290c40b7e1bd8ea3e688bea6a6bd9ff9a96e33c6ec38d47829b53e7fb7",
+      "bytes": 5100,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:aurora": {
+      "path": "/rift/assets/wr-circles-2026-10-17/aurora.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Aurora_OriginalCircle_WR.png?c29af",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Aurora_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.911Z",
+      "sha256": "244d04c0745c5c858f96906430cbfbeaf882b94fd4a840aac1c77a14fc00e5f3",
+      "bytes": 3842,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:aurelion-sol": {
+      "path": "/rift/assets/wr-circles-2026-10-17/aurelion-sol.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_OriginalCircle_WR.png?797ce",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Aurelion_Sol_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.936Z",
+      "sha256": "90276e7432ed87f762af485881c5fbca299c9472dd7ab222fa5cde934138b493",
+      "bytes": 4534,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:amumu": {
+      "path": "/rift/assets/wr-circles-2026-10-17/amumu.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Amumu_OriginalCircle_WR.png?cf5f8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Amumu_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:32.984Z",
+      "sha256": "eda8184b7a5ff595988292734b712903bd316e247881ee8d23889552ce376cf6",
+      "bytes": 4376,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:bard": {
+      "path": "/rift/assets/wr-circles-2026-10-17/bard.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Bard_OriginalCircle_WR.png?10d6d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Bard_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.024Z",
+      "sha256": "be0dadee88324765b54670731bd5b0a3e222f87fdc8863e492393709229d5632",
+      "bytes": 3884,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:annie": {
+      "path": "/rift/assets/wr-circles-2026-10-17/annie.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Annie_OriginalCircle_WR.png?8ed3a",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Annie_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.143Z",
+      "sha256": "2fbe6211cb2bfd94180c0ed52b4b8032e150903043ed3bdd955dd142a5a08b8e",
+      "bytes": 4324,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:blitzcrank": {
+      "path": "/rift/assets/wr-circles-2026-10-17/blitzcrank.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_OriginalCircle_WR.png?7a370",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Blitzcrank_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.372Z",
+      "sha256": "71088b5a4127aa7be6f51b89231388a9e9c79a47c0825b47b1cc32a4d4cbaa6e",
+      "bytes": 4116,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:brand": {
+      "path": "/rift/assets/wr-circles-2026-10-17/brand.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Brand_OriginalCircle_WR.png?0ccda",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Brand_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.405Z",
+      "sha256": "1258c162fcd6031d2b450528c3b22c6d7fe9b9602f0f769e06f2221f1746cc46",
+      "bytes": 4634,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:caitlyn": {
+      "path": "/rift/assets/wr-circles-2026-10-17/caitlyn.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_OriginalCircle_WR.png?7433e",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Caitlyn_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.408Z",
+      "sha256": "846913c16da8ca335a83f8eef555cb54de08ad969a508085d0e005b20a1f661a",
+      "bytes": 2666,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:braum": {
+      "path": "/rift/assets/wr-circles-2026-10-17/braum.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Braum_OriginalCircle_WR.png?c0f23",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Braum_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.438Z",
+      "sha256": "4963efdf2e96b54c7f68ef79550435a3547ea7d0dd39aeeac5fbcef8a3517e53",
+      "bytes": 3680,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:camille": {
+      "path": "/rift/assets/wr-circles-2026-10-17/camille.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Camille_OriginalCircle_WR.png?474f2",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Camille_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.473Z",
+      "sha256": "468f679d51ecfd4da7136ae60195e7672a87bdd075e7f5847a6d60b0cc9628ed",
+      "bytes": 4174,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:chogath": {
+      "path": "/rift/assets/wr-circles-2026-10-17/chogath.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_OriginalCircle_WR.png?64623",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Cho%27Gath_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.478Z",
+      "sha256": "218a28becce49d48ef5969cadb3a6ad60f8ab9dab0f1371545fc5fd5d67c2086",
+      "bytes": 4656,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ekko": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ekko.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ekko_OriginalCircle_WR.png?54ca1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ekko_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.539Z",
+      "sha256": "6e41cc5f212e6f49b02fef1db18e654cbbf7ee8d6b8f9c201b0660eceb3bdc32",
+      "bytes": 3576,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:draven": {
+      "path": "/rift/assets/wr-circles-2026-10-17/draven.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Draven_OriginalCircle_WR.png?4f790",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Draven_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.540Z",
+      "sha256": "80a493a603b9d69bdbff1e28fdd1bdcb87213b2bba1e04c7f2e8df3d277ac7e0",
+      "bytes": 4202,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:darius": {
+      "path": "/rift/assets/wr-circles-2026-10-17/darius.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Darius_OriginalCircle_WR.png?32d66",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Darius_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.645Z",
+      "sha256": "1ac0dc7efe4bf7cec4fa3f24f2d569e9e4ada3a07c6fa9f4a99d33d77d2edc44",
+      "bytes": 4432,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:dr-mundo": {
+      "path": "/rift/assets/wr-circles-2026-10-17/dr-mundo.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_OriginalCircle_WR.png?ebb45",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Dr._Mundo_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.687Z",
+      "sha256": "f8253ecf0af4083d912d28b15e105556f6895c1c4af346b612419db341dc88aa",
+      "bytes": 3554,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:diana": {
+      "path": "/rift/assets/wr-circles-2026-10-17/diana.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Diana_OriginalCircle_WR.png?e6d20",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Diana_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.691Z",
+      "sha256": "bf2f8b29a35734cdecc4e1daa02e6225a0996ea85bc99920a304c3b3aabf26d7",
+      "bytes": 3554,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:corki": {
+      "path": "/rift/assets/wr-circles-2026-10-17/corki.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Corki_OriginalCircle_WR.png?6f417",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Corki_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.816Z",
+      "sha256": "c66c48663d227198c61e3c36991354689c1f5b51ae398804585e02d46c71ad80",
+      "bytes": 5278,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ezreal": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ezreal.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_OriginalCircle_WR.png?becc0",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ezreal_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.902Z",
+      "sha256": "bc0a37622aae57fad1286bab97d08e5d695488474fa1e0c880eb7617f1e7aefa",
+      "bytes": 4400,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:evelynn": {
+      "path": "/rift/assets/wr-circles-2026-10-17/evelynn.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_OriginalCircle_WR.png?52657",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Evelynn_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:33.974Z",
+      "sha256": "e6e7d9a3c1bebe69b785330501aff95f8d001e8b6559d033164fc08f55cbd4e4",
+      "bytes": 3572,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:galio": {
+      "path": "/rift/assets/wr-circles-2026-10-17/galio.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Galio_OriginalCircle_WR.png?b2643",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Galio_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.045Z",
+      "sha256": "fd875a94654def13d611867f6b2814135216d250849601dd0dd32e0aaace825c",
+      "bytes": 4936,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:fiora": {
+      "path": "/rift/assets/wr-circles-2026-10-17/fiora.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Fiora_OriginalCircle_WR.png?d807e",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Fiora_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.081Z",
+      "sha256": "f7170656f851357d05c219cbaaa62f4d99fcc53dbcdde9926e6216d24df9aede",
+      "bytes": 4288,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:fizz": {
+      "path": "/rift/assets/wr-circles-2026-10-17/fizz.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Fizz_OriginalCircle_WR.png?2deaa",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Fizz_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.147Z",
+      "sha256": "2f9718553d98267336d670663320ad78b68ca2856740af33fb16e8cffb963f87",
+      "bytes": 5228,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:fiddlesticks": {
+      "path": "/rift/assets/wr-circles-2026-10-17/fiddlesticks.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_OriginalCircle_WR.png?80be5",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Fiddlesticks_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.324Z",
+      "sha256": "8d877682e2442dd91e872c3ed35b802fe63a7e437ba625dab03a99056195c9af",
+      "bytes": 4002,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:gwen": {
+      "path": "/rift/assets/wr-circles-2026-10-17/gwen.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Gwen_OriginalCircle_WR.png?5b7c8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Gwen_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.476Z",
+      "sha256": "f0199a2747869afa8aaf522aa88b8e334a2f5295ab906615ffcee2d5e8f79e25",
+      "bytes": 4044,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:garen": {
+      "path": "/rift/assets/wr-circles-2026-10-17/garen.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Garen_OriginalCircle_WR.png?c9a87",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Garen_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.518Z",
+      "sha256": "98f0f995c232e8420ea4374ad033726a5eebc85e5da034828b7d9e15523e3da6",
+      "bytes": 4336,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:gnar": {
+      "path": "/rift/assets/wr-circles-2026-10-17/gnar.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Gnar_OriginalCircle_WR.png?924cb",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Gnar_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.560Z",
+      "sha256": "0432e35951b780332064effc1a2f1b3fff15d4deca5c7b4753f0d8ca0d42855e",
+      "bytes": 3890,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:hecarim": {
+      "path": "/rift/assets/wr-circles-2026-10-17/hecarim.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_OriginalCircle_WR.png?e2394",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Hecarim_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.585Z",
+      "sha256": "cde89e8f540fb7c40c32de7d6a9c08a0c7a43f2e33cbd4b34d0bed6e2efd323b",
+      "bytes": 4104,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:gragas": {
+      "path": "/rift/assets/wr-circles-2026-10-17/gragas.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Gragas_OriginalCircle_WR.png?d93c7",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Gragas_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.615Z",
+      "sha256": "a1cc976510be169f170ff45e0cf02fb9df472d2fa91068c2dab73a897b2d25fc",
+      "bytes": 4376,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:graves": {
+      "path": "/rift/assets/wr-circles-2026-10-17/graves.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Graves_OriginalCircle_WR.png?b530d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Graves_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.622Z",
+      "sha256": "954e408f104dbd472f2fbbacb2d6ab9cd56377a2af1ced3145057772d2b6e1c4",
+      "bytes": 4138,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:hwei": {
+      "path": "/rift/assets/wr-circles-2026-10-17/hwei.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Hwei_OriginalCircle_WR.png?6f66a",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Hwei_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.659Z",
+      "sha256": "2ee8991b0abb7f4fd07b982b78395896009240162a3f4a07a9d1d374d702a80c",
+      "bytes": 3324,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:irelia": {
+      "path": "/rift/assets/wr-circles-2026-10-17/irelia.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Irelia_OriginalCircle_WR.png?f1ea8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Irelia_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.784Z",
+      "sha256": "3e163753fc8c2a554d0ee6be95b6738e942f63ecc59a5c9110a5a4610e7fddce",
+      "bytes": 4578,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:janna": {
+      "path": "/rift/assets/wr-circles-2026-10-17/janna.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Janna_OriginalCircle_WR.png?2fa73",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Janna_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.878Z",
+      "sha256": "8469799572f97a14676ce5616b9a157ba8d6a7dddac8e7a495fd16f3a9d37c76",
+      "bytes": 3970,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:heimerdinger": {
+      "path": "/rift/assets/wr-circles-2026-10-17/heimerdinger.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_OriginalCircle_WR.png?7956c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Heimerdinger_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:34.982Z",
+      "sha256": "efbb6ae329d19b7ec7240cab40a4bfd1b0c8eb48760a74f775f9a5a252c3ce20",
+      "bytes": 4712,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:jinx": {
+      "path": "/rift/assets/wr-circles-2026-10-17/jinx.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Jinx_OriginalCircle_WR.png?d72b6",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Jinx_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.263Z",
+      "sha256": "0751ff1eedf2027a5f6a365ed27b900934ee16dd3395efd73cd28058b3170e22",
+      "bytes": 3706,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:jax": {
+      "path": "/rift/assets/wr-circles-2026-10-17/jax.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Jax_OriginalCircle_WR.png?bc818",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Jax_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.282Z",
+      "sha256": "1ca1bd32a429706cdda3ad3a97a9092b4e4458049660e041931b6d1bc48dbbef",
+      "bytes": 4066,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:jarvan-iv": {
+      "path": "/rift/assets/wr-circles-2026-10-17/jarvan-iv.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_OriginalCircle_WR.png?e60de",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Jarvan_IV_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.298Z",
+      "sha256": "15fc98c273f1092e4ddb6b58ccb3b88e6952ab25073ca17f48225f04b11ffe61",
+      "bytes": 4518,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ksante": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ksante.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_OriginalCircle_WR.png?d0472",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:K%27Sante_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.326Z",
+      "sha256": "eb1c02de09b32af97702dfe04c7084c0fc99d08c9335ad2304193ad2c5421a0c",
+      "bytes": 2996,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:jayce": {
+      "path": "/rift/assets/wr-circles-2026-10-17/jayce.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Jayce_OriginalCircle_WR.png?6f399",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Jayce_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.328Z",
+      "sha256": "f3573aeaba2ae30302671451587f74e232d9d281cad74b548893469b7e48be39",
+      "bytes": 3790,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:jhin": {
+      "path": "/rift/assets/wr-circles-2026-10-17/jhin.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Jhin_OriginalCircle_WR.png?0ede1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Jhin_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.362Z",
+      "sha256": "f0aa0d1444bb3cce2907df84b7e6fefad1ac2a4c515a2c4c13d2c404b3996ede",
+      "bytes": 4174,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kayle": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kayle.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kayle_OriginalCircle_WR.png?8d3a0",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kayle_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.410Z",
+      "sha256": "8f49dcfb7309d4bb65804cf3fc60aef28274c253f7b8afc250b0538790370bce",
+      "bytes": 3466,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:katarina": {
+      "path": "/rift/assets/wr-circles-2026-10-17/katarina.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Katarina_OriginalCircle_WR.png?b7487",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Katarina_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.427Z",
+      "sha256": "1229bbb7ed5c5164f3eff5f14e879983d04ab8666f2ee77a533c520c8dd4665e",
+      "bytes": 4220,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kaisa": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kaisa.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_OriginalCircle_WR.png?ac67e",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kai%27Sa_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.539Z",
+      "sha256": "84c05b488a56a78e470ddc602e23b3c60d4e996b265951d55d1570f246675739",
+      "bytes": 2930,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:karma": {
+      "path": "/rift/assets/wr-circles-2026-10-17/karma.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Karma_OriginalCircle_WR.png?2061c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Karma_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.632Z",
+      "sha256": "2eb2344fec474652518c299cb1a9a60137c4358af353b16e2c41a7cafe6d1aaf",
+      "bytes": 4240,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kalista": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kalista.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kalista_OriginalCircle_WR.png?19513",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kalista_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:35.749Z",
+      "sha256": "7969d3ec92bf24b3a270e24f247f93fca931812cccf0dd8348de76f85cb6770c",
+      "bytes": 3410,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kassadin": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kassadin.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_OriginalCircle_WR.png?97276",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kassadin_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.007Z",
+      "sha256": "4e8c30740670efe8fe41ffd618629da25941612e0d19708596b7607496fb065f",
+      "bytes": 3910,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kayn": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kayn.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kayn_OriginalCircle_WR.png?6c0f5",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kayn_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.058Z",
+      "sha256": "ab83e52a2fdf9b6164611de4901ba696509129a0e7e95dd33d42a20ec486361e",
+      "bytes": 3342,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lee-sin": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lee-sin.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_OriginalCircle_WR.png?b3321",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lee_Sin_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.058Z",
+      "sha256": "03f17e7a2bd41f9a36acf289654b03052aa44fdbe2b5e749aba22a452527f626",
+      "bytes": 3868,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kogmaw": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kogmaw.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_OriginalCircle_WR.png?347b3",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kog%27Maw_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.105Z",
+      "sha256": "68e3db0e8fb34ffaf03b3a88706dc91c4a54a0021ee028688ef0089fa7b2e8b0",
+      "bytes": 3044,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kennen": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kennen.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kennen_OriginalCircle_WR.png?7915a",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kennen_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.258Z",
+      "sha256": "24a0d8b6779f600735577abd0deadd0c165ab22b98d4e737d2c9398b1d6df584",
+      "bytes": 3778,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:khazix": {
+      "path": "/rift/assets/wr-circles-2026-10-17/khazix.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_OriginalCircle_WR.png?950b8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kha%27Zix_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.340Z",
+      "sha256": "f4ac69a1881dd8a60f348595ea574fc84d4136ea0401724e4cea50c5b701bf35",
+      "bytes": 3382,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:kindred": {
+      "path": "/rift/assets/wr-circles-2026-10-17/kindred.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Kindred_OriginalCircle_WR.png?deb36",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Kindred_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.618Z",
+      "sha256": "dbb16de07a55ff100917213bd0153c8b4eab272824b9dc7afde59f9b891539aa",
+      "bytes": 3514,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lulu": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lulu.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lulu_OriginalCircle_WR.png?ae6f6",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lulu_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.816Z",
+      "sha256": "49f466d8b21a1b70c559279b04e753dcee80c8f7dea982ab5edecb28084c53b0",
+      "bytes": 4860,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:leona": {
+      "path": "/rift/assets/wr-circles-2026-10-17/leona.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Leona_OriginalCircle_WR.png?aa594",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Leona_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.865Z",
+      "sha256": "27ff1f9d47e44c9c29707a064ea1da985730034f68bf942b53ad89860fe30f8b",
+      "bytes": 4676,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lillia": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lillia.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalCircle_WR.png?c302c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lillia_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.878Z",
+      "sha256": "4f695a08758c5bb79dfe3cce4ee82ddf8fc995e283a858c7e1765edd922185fd",
+      "bytes": 3812,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lissandra": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lissandra.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_OriginalCircle_WR.png?69c5c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lissandra_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.886Z",
+      "sha256": "1130bbda1e0c4d7c329ac446b5f69b116a00abfb76f6dabdf0594719cf28a72b",
+      "bytes": 3140,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lucian": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lucian.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lucian_OriginalCircle_WR.png?f6331",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lucian_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.908Z",
+      "sha256": "51a6065916bd9f052d283aa347e7e8521bb5a13bb1380a827f58a6c818826191",
+      "bytes": 2978,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:lux": {
+      "path": "/rift/assets/wr-circles-2026-10-17/lux.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Lux_OriginalCircle_WR.png?9e0bd",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Lux_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.929Z",
+      "sha256": "576d2fd8d0059aafea5f21a7d4d6ddf9753cb609ce5cf3315c5557e7d76d0540",
+      "bytes": 4408,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:milio": {
+      "path": "/rift/assets/wr-circles-2026-10-17/milio.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Milio_OriginalCircle_WR.png?9b13c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Milio_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:36.974Z",
+      "sha256": "e8e5f8033470891f5b200ac53ac9cdbbc592163e876608bf5c729497059a1376",
+      "bytes": 3922,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:maokai": {
+      "path": "/rift/assets/wr-circles-2026-10-17/maokai.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Maokai_OriginalCircle_WR.png?90956",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Maokai_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.080Z",
+      "sha256": "463005989b9d6eb53868f169d223ff2a0944be673268270831eab355ab615ea1",
+      "bytes": 3526,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:master-yi": {
+      "path": "/rift/assets/wr-circles-2026-10-17/master-yi.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_OriginalCircle_WR.png?27657",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Master_Yi_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.142Z",
+      "sha256": "5eee8f278aca5b3314e497cee77695be2fefe764e55ff797a3ceb296d7385b29",
+      "bytes": 4766,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:mel": {
+      "path": "/rift/assets/wr-circles-2026-10-17/mel.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Mel_OriginalCircle_WR.png?3b5bf",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Mel_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.142Z",
+      "sha256": "0d75e5fea2d3bc897d5a1ebad6460bc10a4d5af680fcf5f964211151cbf5f6f5",
+      "bytes": 3406,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:malphite": {
+      "path": "/rift/assets/wr-circles-2026-10-17/malphite.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Malphite_OriginalCircle_WR.png?79ef0",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Malphite_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.200Z",
+      "sha256": "60d7de754d04859f08579fbdbe275ac6a73334a273ae9434a52ddca56cf1d721",
+      "bytes": 4482,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:miss-fortune": {
+      "path": "/rift/assets/wr-circles-2026-10-17/miss-fortune.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_OriginalCircle_WR.png?f7b88",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Miss_Fortune_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.358Z",
+      "sha256": "6298374cb47ac65e3efc29abc2ce364cad5bdc405047a7f37f235587b2c819d1",
+      "bytes": 3512,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nidalee": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nidalee.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_OriginalCircle_WR.png?cf3e4",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nidalee_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.451Z",
+      "sha256": "bcd12482287ca4f761aac515715105f844ab25d9daf1eb51d1ed5ee0b6b1403e",
+      "bytes": 3238,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nasus": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nasus.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nasus_OriginalCircle_WR.png?95b9b",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nasus_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.498Z",
+      "sha256": "3fd0e6f38ec97c18d300919075b9b3546572fe8e1d99defb7bd2f1103b8163c7",
+      "bytes": 4630,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:mordekaiser": {
+      "path": "/rift/assets/wr-circles-2026-10-17/mordekaiser.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_OriginalCircle_WR.png?03cc0",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Mordekaiser_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.551Z",
+      "sha256": "f17a9574ab93ee5c174964f9fd866b87e0bcf8890e2bed6d2db94bdc9dd52cd1",
+      "bytes": 3162,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nami": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nami.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nami_OriginalCircle_WR.png?01335",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nami_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.569Z",
+      "sha256": "e4c6f5b3fcbd9b11bf1b68209788c0f70dc5742f97c5698ce0f1dcde826fca2f",
+      "bytes": 4472,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nautilus": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nautilus.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_OriginalCircle_WR.png?73c8c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nautilus_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.658Z",
+      "sha256": "498d0e0aa99d336fc5ec1e3e434414ddb4ce8aa3ce64b1bab534349c62ed113a",
+      "bytes": 3208,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:morgana": {
+      "path": "/rift/assets/wr-circles-2026-10-17/morgana.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Morgana_OriginalCircle_WR.png?e59db",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Morgana_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.759Z",
+      "sha256": "3576c20cded6be2d3a35f9da5aa17285f1b21371ce77ab25863c77c2f069f5b3",
+      "bytes": 2580,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:norra": {
+      "path": "/rift/assets/wr-circles-2026-10-17/norra.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Norra_OriginalCircle_WR.png?90925",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Norra_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.942Z",
+      "sha256": "35257615ea075f39a9cacc4a31391a9444c9fc4bf019de845652e8102fc3be68",
+      "bytes": 4770,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nocturne": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nocturne.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_OriginalCircle_WR.png?81838",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nocturne_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:37.982Z",
+      "sha256": "5fcdb140bda2d58ddcd729b40f2f3642179c470090dabe11bc7a8ecf9e6e0719",
+      "bytes": 3586,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nilah": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nilah.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nilah_OriginalCircle_WR.png?eaa7c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nilah_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.013Z",
+      "sha256": "6930304f550d9164bee9c15b24fe7ed0e4d1883064cfbadbc5b09cf241b79636",
+      "bytes": 3870,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:nunu-and-willump": {
+      "path": "/rift/assets/wr-circles-2026-10-17/nunu-and-willump.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Nunu_OriginalCircle_WR.png?51c33",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Nunu_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.048Z",
+      "sha256": "f811d0f343d2c3fcb8a880d7d88c774e8e9ef9f60f29a9d976df7551a08ba01a",
+      "bytes": 3960,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:olaf": {
+      "path": "/rift/assets/wr-circles-2026-10-17/olaf.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Olaf_OriginalCircle_WR.png?fba91",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Olaf_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.179Z",
+      "sha256": "bdfbe1a0d579c97c202192063a5df4a4224fac32d304f9ef23d30711757e5bfc",
+      "bytes": 4826,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:pyke": {
+      "path": "/rift/assets/wr-circles-2026-10-17/pyke.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Pyke_OriginalCircle_WR.png?998bc",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Pyke_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.387Z",
+      "sha256": "80e0b390fb3b16aba7200ad627cda13ca2e8d005dc66bec913af353b9c296d49",
+      "bytes": 2710,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:orianna": {
+      "path": "/rift/assets/wr-circles-2026-10-17/orianna.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Orianna_OriginalCircle_WR.png?090c9",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Orianna_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.389Z",
+      "sha256": "297faadc5a8b988d82333ca873285c8a82f01d9585ba4955b45d5b5f9e879887",
+      "bytes": 3702,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ornn": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ornn.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ornn_OriginalCircle_WR.png?741ef",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ornn_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.429Z",
+      "sha256": "463957d4aecae1310ff102497c62d02e11f77f13874b6308cdbba4376f1b0023",
+      "bytes": 3918,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:poppy": {
+      "path": "/rift/assets/wr-circles-2026-10-17/poppy.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Poppy_OriginalCircle_WR.png?324eb",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Poppy_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.479Z",
+      "sha256": "3d2d265e1663b477dadaa429d9adde496b42d2d93ea860f0f5a684b1d2a29381",
+      "bytes": 4010,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:pantheon": {
+      "path": "/rift/assets/wr-circles-2026-10-17/pantheon.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_OriginalCircle_WR.png?967ec",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Pantheon_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.562Z",
+      "sha256": "468035caead2fee6430c7ccf5830791173e4c37308a3bc74f737bd4e3ce9e292",
+      "bytes": 3596,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:rengar": {
+      "path": "/rift/assets/wr-circles-2026-10-17/rengar.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Rengar_OriginalCircle_WR.png?d202d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Rengar_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.753Z",
+      "sha256": "aa928bf0f23f3d119ea72678b9db30d603805d997af1cdae9ce9fa8d2cb1d5c8",
+      "bytes": 4214,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:rell": {
+      "path": "/rift/assets/wr-circles-2026-10-17/rell.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Rell_OriginalCircle_WR.png?f3e1d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Rell_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.778Z",
+      "sha256": "865e30f986622e4213328013dcd549c2ac2e20c2088214a6c7bd2534ee2a9649",
+      "bytes": 4182,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:renekton": {
+      "path": "/rift/assets/wr-circles-2026-10-17/renekton.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Renekton_OriginalCircle_WR.png?4439d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Renekton_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.791Z",
+      "sha256": "2fab047a30250e2adc0278217397a50e663cf70b5eb9054ea44db906fb97508a",
+      "bytes": 4808,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:rakan": {
+      "path": "/rift/assets/wr-circles-2026-10-17/rakan.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Rakan_OriginalCircle_WR.png?befe9",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Rakan_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.849Z",
+      "sha256": "45d57038d3352f9cb7efb239ca69ec16f519bbc8af5ab04f937189583b3276c3",
+      "bytes": 4448,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:rammus": {
+      "path": "/rift/assets/wr-circles-2026-10-17/rammus.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Rammus_OriginalCircle_WR.png?c79a1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Rammus_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:38.881Z",
+      "sha256": "6b732d20b2b651fc621961a81c09f340ea86139c1ad815f76631274392aa7f8b",
+      "bytes": 4514,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:riven": {
+      "path": "/rift/assets/wr-circles-2026-10-17/riven.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Riven_OriginalCircle_WR.png?8a987",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Riven_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.070Z",
+      "sha256": "cbc6fd8b92bc13807a4b7c1264a4db5c9690281b9ec402a5288730f0fcd3a9a0",
+      "bytes": 4236,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:sett": {
+      "path": "/rift/assets/wr-circles-2026-10-17/sett.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Sett_OriginalCircle_WR.png?670f1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Sett_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.127Z",
+      "sha256": "f697b10ddac2d2a56ca5c3aad472fc2f3a1aca79d41cb5491d9c6775a55f961f",
+      "bytes": 3562,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ryze": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ryze.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ryze_OriginalCircle_WR.png?e5429",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ryze_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.254Z",
+      "sha256": "57ac4e23a893d1f5ddb16616c9ba78c57cfd397b8f61229830d62086326b5edb",
+      "bytes": 3392,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:seraphine": {
+      "path": "/rift/assets/wr-circles-2026-10-17/seraphine.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_OriginalCircle_WR.png?b945b",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Seraphine_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.303Z",
+      "sha256": "1be6cc41ba1d2d6cf6283e36e6ad4b8018b0bbe52e106006e9a15c73ca2d73c7",
+      "bytes": 4632,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:rumble": {
+      "path": "/rift/assets/wr-circles-2026-10-17/rumble.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Rumble_OriginalCircle_WR.png?5e04d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Rumble_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.347Z",
+      "sha256": "3adc39721afe8bca80abd618f08012366e76035c3eddd128fb8ce6909038b0e4",
+      "bytes": 4390,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:senna": {
+      "path": "/rift/assets/wr-circles-2026-10-17/senna.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Senna_OriginalCircle_WR.png?96148",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Senna_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.525Z",
+      "sha256": "1be7f1f09e983c0a96ec53762f53b1f58a557e854447876b9dd6a23e58b7aba8",
+      "bytes": 3382,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:samira": {
+      "path": "/rift/assets/wr-circles-2026-10-17/samira.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Samira_OriginalCircle_WR.png?9d4db",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Samira_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.626Z",
+      "sha256": "3b2369be9124a3f9061f66058c97c4d586088640a2b7fcbb4a8eba2b88834d7b",
+      "bytes": 3376,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:sivir": {
+      "path": "/rift/assets/wr-circles-2026-10-17/sivir.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Sivir_OriginalCircle_WR.png?a24f8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Sivir_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.677Z",
+      "sha256": "c418744e6a471c3400cabfeeee4b11f826bfceeed52d7ffa669867014b6d2892",
+      "bytes": 4106,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:shen": {
+      "path": "/rift/assets/wr-circles-2026-10-17/shen.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Shen_OriginalCircle_WR.png?80304",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Shen_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.779Z",
+      "sha256": "e338dfcbd0fb1648b8d30fd96e3328ac93e0ea25e94de9743945b25e7baa5570",
+      "bytes": 3120,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:singed": {
+      "path": "/rift/assets/wr-circles-2026-10-17/singed.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Singed_OriginalCircle_WR.png?97537",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Singed_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.854Z",
+      "sha256": "73feb40a0e38fdd3cbd7ff91217388faedc957b9c57c2d5b6357081d5a847dff",
+      "bytes": 4164,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:sion": {
+      "path": "/rift/assets/wr-circles-2026-10-17/sion.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Sion_OriginalCircle_WR.png?c1c8f",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Sion_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.866Z",
+      "sha256": "6a1195b19e84306030ac220d703f0b9fea4506d52bbbc358758620d8ad9d9cef",
+      "bytes": 2978,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:shyvana": {
+      "path": "/rift/assets/wr-circles-2026-10-17/shyvana.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_OriginalCircle_WR.png?d4dc2",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Shyvana_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.935Z",
+      "sha256": "17772254be0f2b10441176c730342e34cd9d7030f1c74f6dea59249dcb775e3b",
+      "bytes": 4674,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:skarner": {
+      "path": "/rift/assets/wr-circles-2026-10-17/skarner.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Skarner_OriginalCircle_WR.png?1b0f8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Skarner_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:39.994Z",
+      "sha256": "8a5099af8720eba5404f7e621cc0b42c106be91e29cc5f855e1d4f708ba5b34a",
+      "bytes": 3712,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:taliyah": {
+      "path": "/rift/assets/wr-circles-2026-10-17/taliyah.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_OriginalCircle_WR.png?717cb",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Taliyah_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.046Z",
+      "sha256": "fcbfcf0193c65670426e183bc1cd49b196b928facdea1561f26f702810390145",
+      "bytes": 3700,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:swain": {
+      "path": "/rift/assets/wr-circles-2026-10-17/swain.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Swain_OriginalCircle_WR.png?7cdd0",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Swain_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.153Z",
+      "sha256": "7b4558803955a1190f21edcc030b464991ffbb67523ea6d62a219eba42124fa7",
+      "bytes": 3252,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:smolder": {
+      "path": "/rift/assets/wr-circles-2026-10-17/smolder.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Smolder_OriginalCircle_WR.png?38359",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Smolder_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.175Z",
+      "sha256": "3d7e8491b61e78a527359a48bd76b177e3bf3793048c18bed3dd32de473c776d",
+      "bytes": 4358,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:sona": {
+      "path": "/rift/assets/wr-circles-2026-10-17/sona.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Sona_OriginalCircle_WR.png?ea09a",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Sona_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.176Z",
+      "sha256": "a300eb5dc291d5df618e10b157e3b841d412904a216a94d56e1785ea5688a611",
+      "bytes": 3936,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:soraka": {
+      "path": "/rift/assets/wr-circles-2026-10-17/soraka.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Soraka_OriginalCircle_WR.png?70ecf",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Soraka_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.233Z",
+      "sha256": "1367a0e81d6d400b9617e7ca9b8ffb7dfb105f2c8acd13b50ae2c1e03f015a8f",
+      "bytes": 4732,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:syndra": {
+      "path": "/rift/assets/wr-circles-2026-10-17/syndra.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Syndra_OriginalCircle_WR.png?825f8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Syndra_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.256Z",
+      "sha256": "740d52f2fa006fe0920148adf60f7e438d427d503630f7ae718a9c015081f053",
+      "bytes": 4222,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:thresh": {
+      "path": "/rift/assets/wr-circles-2026-10-17/thresh.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Thresh_OriginalCircle_WR.png?b5fd3",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Thresh_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.355Z",
+      "sha256": "95a01b233094f35c0d49eac4228fba33497dd17c42f79bd5af1c8838ed5175a1",
+      "bytes": 3898,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:tristana": {
+      "path": "/rift/assets/wr-circles-2026-10-17/tristana.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Tristana_OriginalCircle_WR.png?e3de8",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Tristana_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.543Z",
+      "sha256": "0f7d77a152a763608e1faee11f9afa05588432cf32e105a00ac7c20f3dc27282",
+      "bytes": 4398,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:tryndamere": {
+      "path": "/rift/assets/wr-circles-2026-10-17/tryndamere.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_OriginalCircle_WR.png?578f4",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Tryndamere_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.557Z",
+      "sha256": "cb38d4dedcfebd0c716930b80cd11bb928080f30440a6b7e1943613a50255706",
+      "bytes": 4810,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:talon": {
+      "path": "/rift/assets/wr-circles-2026-10-17/talon.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Talon_OriginalCircle_WR.png?b9ec6",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Talon_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.597Z",
+      "sha256": "1504f8d97aa8b2c078a4c832233f5ddc93f04da6ad287f9072e232b1e602247c",
+      "bytes": 3930,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:teemo": {
+      "path": "/rift/assets/wr-circles-2026-10-17/teemo.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Teemo_OriginalCircle_WR.png?182fe",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Teemo_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.597Z",
+      "sha256": "68df2b6f6708a58b187916d8e8e4887f9347ac22d540923fb67cb90ddc76a9e2",
+      "bytes": 5216,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:twisted-fate": {
+      "path": "/rift/assets/wr-circles-2026-10-17/twisted-fate.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_OriginalCircle_WR.png?096d6",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Twisted_Fate_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.601Z",
+      "sha256": "4286045a9944cc5848ca06ac634fd531080e0e5d183500ad7b99341835ba83fb",
+      "bytes": 4256,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:vayne": {
+      "path": "/rift/assets/wr-circles-2026-10-17/vayne.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Vayne_OriginalCircle_WR.png?330e6",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Vayne_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.672Z",
+      "sha256": "01042cc8ad6fda644976a0eb4687850a6bf85a87a66e4c03f882c96a46b07d0a",
+      "bytes": 4516,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:urgot": {
+      "path": "/rift/assets/wr-circles-2026-10-17/urgot.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Urgot_OriginalCircle_WR.png?d062b",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Urgot_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.863Z",
+      "sha256": "7ac959ec802b6fad2a9db53828e48d1807813dc0b19ede1a47d7dbe25188bddc",
+      "bytes": 3680,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:twitch": {
+      "path": "/rift/assets/wr-circles-2026-10-17/twitch.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Twitch_OriginalCircle_WR.png?106e1",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Twitch_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.920Z",
+      "sha256": "846dd1994891bd839356bfd7ec20599eae893d9c526fcd0af58c0f9937f4bcff",
+      "bytes": 3800,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:varus": {
+      "path": "/rift/assets/wr-circles-2026-10-17/varus.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Varus_OriginalCircle_WR.png?34723",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Varus_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:40.952Z",
+      "sha256": "4dfa7cfe9ed506b8b580aaf349ba33dc53ef96ff5b30d4a85490d42862ce05bc",
+      "bytes": 3350,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:viktor": {
+      "path": "/rift/assets/wr-circles-2026-10-17/viktor.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Viktor_OriginalCircle_WR.png?01cef",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Viktor_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.058Z",
+      "sha256": "b241e37376443ef2bfa039cee9194abb3db25317496c4cd900c9fb84e9f53066",
+      "bytes": 3968,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:velkoz": {
+      "path": "/rift/assets/wr-circles-2026-10-17/velkoz.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_OriginalCircle_WR.png?12e7d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Vel%27Koz_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.079Z",
+      "sha256": "92f910261bf70eb20d29355a7716c04609ad5b3be57c5780b7192e7489cc3678",
+      "bytes": 3730,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:veigar": {
+      "path": "/rift/assets/wr-circles-2026-10-17/veigar.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Veigar_OriginalCircle_WR.png?384a5",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Veigar_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.256Z",
+      "sha256": "63a7a9ac445e61542d3d0a1677f7bfb4665faf2bde3432166fd00283a712d54c",
+      "bytes": 3858,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:vi": {
+      "path": "/rift/assets/wr-circles-2026-10-17/vi.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Vi_OriginalCircle_WR.png?b253e",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Vi_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.283Z",
+      "sha256": "bec44ea05a95b7131981f6258094759f4f69d62d1634bd647d687822a927e63b",
+      "bytes": 4334,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:viego": {
+      "path": "/rift/assets/wr-circles-2026-10-17/viego.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Viego_OriginalCircle_WR.png?28e1c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Viego_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.318Z",
+      "sha256": "a4adf5cd20d2d740efe68f81f2410615643a70f6f8208d4e337df1193dd63f3c",
+      "bytes": 4296,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:vex": {
+      "path": "/rift/assets/wr-circles-2026-10-17/vex.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Vex_OriginalCircle_WR.png?19e16",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Vex_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.411Z",
+      "sha256": "e51f73258be178c9a18e4e56311605f7a8f26b29b216552fe179ba42451fb1a8",
+      "bytes": 3426,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:warwick": {
+      "path": "/rift/assets/wr-circles-2026-10-17/warwick.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Warwick_OriginalCircle_WR.png?d0279",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Warwick_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.462Z",
+      "sha256": "0f4e0ceecf3600863e92b0509b9f43042f884d9e6fefbe4e3a1e0c1bda1ba847",
+      "bytes": 2986,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:wukong": {
+      "path": "/rift/assets/wr-circles-2026-10-17/wukong.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Wukong_OriginalCircle_WR.png?3147f",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Wukong_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.566Z",
+      "sha256": "3f11c4b33fedfd40ef8d263600f1901f641a2328143dd5ac350b9a1773f992bf",
+      "bytes": 4204,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:vladimir": {
+      "path": "/rift/assets/wr-circles-2026-10-17/vladimir.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_OriginalCircle_WR.png?4b5cf",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Vladimir_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.633Z",
+      "sha256": "383464c05ef6d837cb9893d257b2a20bd95a90ba5a3b04b2963f84552a72d38a",
+      "bytes": 4074,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:xin-zhao": {
+      "path": "/rift/assets/wr-circles-2026-10-17/xin-zhao.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_OriginalCircle_WR.png?9f1e4",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Xin_Zhao_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.784Z",
+      "sha256": "4526004184a33171ff847ab0bf75558e540bf8dd4b86b3b563a1a759bf10783f",
+      "bytes": 4094,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:volibear": {
+      "path": "/rift/assets/wr-circles-2026-10-17/volibear.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Volibear_OriginalCircle_WR.png?e07ed",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Volibear_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.859Z",
+      "sha256": "e423acbae6af81059030e5cee6460c8bb7bbcf907ff8c5152db13f4610262c5d",
+      "bytes": 3834,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:xayah": {
+      "path": "/rift/assets/wr-circles-2026-10-17/xayah.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Xayah_OriginalCircle_WR.png?bea9f",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Xayah_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.934Z",
+      "sha256": "b770e1d201618efa84aa52eb849ed330389330bb55e746a8ff1e31ed0ed19cde",
+      "bytes": 3496,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:yunara": {
+      "path": "/rift/assets/wr-circles-2026-10-17/yunara.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Yunara_OriginalCircle_WR.png?d699d",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Yunara_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:41.970Z",
+      "sha256": "adf2f00e3eee14b2ef9bec7bfef7555c112b7c2b85514d77683e6a9e9db233e4",
+      "bytes": 3930,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:yuumi": {
+      "path": "/rift/assets/wr-circles-2026-10-17/yuumi.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_OriginalCircle_WR.png?12766",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Yuumi_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.086Z",
+      "sha256": "735fa9637d5a90e7a9781d17a01bda805b461e5bf4566ea625089fbb4e2d6d5a",
+      "bytes": 4258,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:zeri": {
+      "path": "/rift/assets/wr-circles-2026-10-17/zeri.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Zeri_OriginalCircle_WR.png?66dce",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Zeri_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.199Z",
+      "sha256": "059cd1d47106b21e43affc719ac5cf822bdaa2071f782d3c7021c354fd04dc59",
+      "bytes": 3832,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:yasuo": {
+      "path": "/rift/assets/wr-circles-2026-10-17/yasuo.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_OriginalCircle_WR.png?45022",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Yasuo_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.295Z",
+      "sha256": "d478e9d78d34aeeed967776df0e3d60df4e41b84ac59ff694e507048623676aa",
+      "bytes": 4524,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:yone": {
+      "path": "/rift/assets/wr-circles-2026-10-17/yone.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Yone_OriginalCircle_WR.png?f24da",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Yone_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.328Z",
+      "sha256": "60673fc6f858a6f04c49ed8fd34bfe0edda5947326e6491c2beb29bfdbfde70a",
+      "bytes": 4072,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:zed": {
+      "path": "/rift/assets/wr-circles-2026-10-17/zed.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Zed_OriginalCircle_WR.png?81726",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Zed_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.350Z",
+      "sha256": "64209649ea754b5a127210e3a4e0314a4773d84134ed4e65315ade51a8ef4ae8",
+      "bytes": 4408,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:zilean": {
+      "path": "/rift/assets/wr-circles-2026-10-17/zilean.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Zilean_OriginalCircle_WR.png?ab34c",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Zilean_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.439Z",
+      "sha256": "47df5cb11038eb23dc72adeb6d1289068fdc97d3341c2efc3890ee42f56f98d7",
+      "bytes": 4544,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:ziggs": {
+      "path": "/rift/assets/wr-circles-2026-10-17/ziggs.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_OriginalCircle_WR.png?9f128",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Ziggs_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.529Z",
+      "sha256": "a74e6999e694a6a03971223d4c4b8d8f9c25b9bbba011941926fa67071bf2d17",
+      "bytes": 4858,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:zoe": {
+      "path": "/rift/assets/wr-circles-2026-10-17/zoe.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Zoe_OriginalCircle_WR.png?5a418",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Zoe_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.538Z",
+      "sha256": "965490a86b3f1230bea0def92514ee51d694b84c6f373105c8b86872b0b4fe38",
+      "bytes": 3418,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "wr:zyra": {
+      "path": "/rift/assets/wr-circles-2026-10-17/zyra.webp",
+      "url": "https://wiki.leagueoflegends.com/en-us/images/Zyra_OriginalCircle_WR.png?4fe03",
+      "descriptionUrl": "https://wiki.leagueoflegends.com/en-us/File:Zyra_OriginalCircle_WR.png",
+      "retrievedAt": "2026-10-17T17:12:42.603Z",
+      "sha256": "129932b8d5e42764388290387457073afa9969ab74138fe571c1d762328ca5be",
+      "bytes": 4236,
+      "scope": "Explicit Wild Rift original-circle reference. Riot artwork via League of Legends Wiki. Skins not covered."
+    },
+    "item:armored-advance": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-armored-advance.webp",
+      "url": "https://www.wildriftmeta.com/assets/item/icon/item-armored-advance-icon.png",
+      "descriptionUrl": "https://www.wildriftmeta.com/items/armored-advance/",
+      "retrievedAt": "2026-10-17T17:31:29.710Z",
+      "sha256": "bb09f8eab7bf38f4c01557060064f18c96e224f55d4f821ef65d40534b7ee57d",
+      "bytes": 4060,
+      "scope": "Wild Rift community item icon. Original WildRiftFire 404 retained in failures; recovered from source HTML. Mechanics remain governed by pinned snapshot."
+    },
+    "item:chainlaced-crushers": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-chainlaced-crushers.webp",
+      "url": "https://www.wildriftmeta.com/assets/item/icon/item-chainlaced-crushers-icon.png",
+      "descriptionUrl": "https://www.wildriftmeta.com/items/chainlaced-crushers/",
+      "retrievedAt": "2026-10-17T17:31:30.315Z",
+      "sha256": "e570d7b90f9ca2827323b80f2d12fac293430b5ea3b7c1298f8bda21081de62f",
+      "bytes": 3792,
+      "scope": "Wild Rift community item icon. Original WildRiftFire 404 retained in failures; recovered from source HTML. Mechanics remain governed by pinned snapshot."
+    },
+    "item:crimson-lucidity": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-crimson-lucidity.webp",
+      "url": "https://www.wildriftmeta.com/assets/item/icon/item-crimson-lucidity-icon.png",
+      "descriptionUrl": "https://www.wildriftmeta.com/items/crimson-lucidity/",
+      "retrievedAt": "2026-10-17T17:31:30.903Z",
+      "sha256": "c6b5744a6226e4c82cfd67804fb698890d102820e780a69383a2340a28a07523",
+      "bytes": 3974,
+      "scope": "Wild Rift community item icon. Original WildRiftFire 404 retained in failures; recovered from source HTML. Mechanics remain governed by pinned snapshot."
+    },
+    "item:gunmetal-greaves": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-gunmetal-greaves.webp",
+      "url": "https://www.wildriftmeta.com/assets/item/icon/item-gunmetal-greaves-icon.png",
+      "descriptionUrl": "https://www.wildriftmeta.com/items/gunmetal-greaves/",
+      "retrievedAt": "2026-10-17T17:31:31.485Z",
+      "sha256": "7659949a8f34a3c01c9ae326bfb4e9e8abbd3e6de94b4b9be1a6a2da9598bc8f",
+      "bytes": 3876,
+      "scope": "Wild Rift community item icon. Original WildRiftFire 404 retained in failures; recovered from source HTML. Mechanics remain governed by pinned snapshot."
+    },
+    "item:spellslingers-shoes": {
+      "path": "/rift/assets/wr-guide-icons-2026-10-17/item-spellslingers-shoes.webp",
+      "url": "https://www.wildriftmeta.com/assets/item/icon/item-spellslingers-shoes-icon.png",
+      "descriptionUrl": "https://www.wildriftmeta.com/items/spellslingers-shoes/",
+      "retrievedAt": "2026-10-17T17:31:32.049Z",
+      "sha256": "2ff7752fbb6451bccb88204f752481ff19d90d79f9dc26ba4b820ea4d7f7ee45",
+      "bytes": 3782,
+      "scope": "Wild Rift community item icon. Original WildRiftFire 404 retained in failures; recovered from source HTML. Mechanics remain governed by pinned snapshot."
+    }
+  },
+  "failures": [
+    {
+      "key": "item:armored-advance",
+      "url": "https://www.wildriftfire.com/images/items/armored-advance.png",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "key": "item:chainlaced-crushers",
+      "url": "https://www.wildriftfire.com/images/items/chainlaced-crushers.png",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "key": "item:crimson-lucidity",
+      "url": "https://www.wildriftfire.com/images/items/crimson-lucidity.png",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "key": "item:gunmetal-greaves",
+      "url": "https://www.wildriftfire.com/images/items/gunmetal-greaves.png",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "key": "item:spellslingers-shoes",
+      "url": "https://www.wildriftfire.com/images/items/spellslingers-shoes.png",
+      "error": "Error: HTTP 404"
+    }
+  ]
+}

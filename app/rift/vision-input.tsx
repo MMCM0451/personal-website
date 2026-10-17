@@ -16,9 +16,10 @@ import {
   type Crop,
 } from "@/lib/rift/vision";
 import s from "./rift.module.css";
+import ScreenshotInput from "./screenshot-input";
 
 type Match = Awaited<ReturnType<typeof matchCrop>>;
-export default function VisionInput({
+function ManualCropInput({
   retain,
   setRetain,
   confirm,
@@ -529,5 +530,19 @@ export default function VisionInput({
         </p>
       )}
     </section>
+  );
+}
+
+export default function VisionInput(
+  props: Parameters<typeof ManualCropInput>[0],
+) {
+  return (
+    <>
+      <ScreenshotInput />
+      <details className={s.details}>
+        <summary>Manual portrait crop & labelled dataset tools</summary>
+        <ManualCropInput {...props} />
+      </details>
+    </>
   );
 }

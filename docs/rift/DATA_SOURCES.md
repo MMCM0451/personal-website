@@ -26,6 +26,16 @@ Active snapshot `.3` repairs `.2`'s empty-stat extraction; it retains item HTML 
 
 ## Riot and privacy
 
+### Recognition/UI visual snapshot added in local repair
+
+`lib/rift/data/visual-assets.json` pins `wr-circles-2026-10-17`, 242 hashed artifacts: 142 explicit WR original-circle portraits from the League of Legends Wiki public image metadata API, 77 item icons and 23 rune icons. Images are Riot property; source hosting and software licences do not establish unrestricted art rights. Each circle has its file description URL (`File:… OriginalCircle WR.png`) and retrieval clock. This is image-reference provenance, not a claim that wiki mechanics override the official/community game-data snapshot.
+
+WildRiftFire guide imagery supplied item/rune icons. Five Tier 3 boot icon URLs returned 404; those failures are preserved and icons recovered from the actual `hero-icon` URL on each existing WildRiftMeta item page. All final item slots have acquired icons. The initial shared square-art experiment (5/10 matching) was moved into ignored private evidence and removed from runtime/public artifacts. No PC mechanics or square-art classifier remains in the critical path.
+
+Developer acquisition scripts are `acquire-rift-icons.ts`, `acquire-rift-circles.ts`, and `finalize-rift-visuals.mjs`. They document this staged acquisition and refuse to overwrite an already advanced/finalised snapshot. For a future refresh, choose **new snapshot IDs/paths and manifest**, review changes/source rights, verify every artifact hash, update explicit imports and benchmark again. Do not run against historical IDs or silently replace old receipts. Game mechanics snapshots remain immutable and independent.
+
+Real handoff images/expected labels stay in a private fixture directory selected by `RIFT_FIXTURE_DIR`; browser exports/overlays and failed-art evidence live in Git/Vercel-ignored `private/`. No private fixtures are deployed or used as shipped recognition templates.
+
 Release packaging keeps raw acquisition `sources/` folders local and excludes them from Git/Vercel uploads. Normalized game facts, curated strategy data, source URLs/receipts/manifests and reference portraits are versioned for the app. No screenshot dataset is shipped. On a checkout with the local source archive, `npm run verify:rift-data` verifies it as well; on a fresh clone, use `npm run verify:rift-data -- --normalized-only` to check the 148 shipped artifacts while explicitly reporting that raw source pages were not checked. The ignored local archive is not cloud backup.
 
 [General policies](https://developer.riotgames.com/policies/general) require registration/audit, a visible non-endorsement notice and game integrity. [Legal Jibber Jabber](https://www.riotgames.com/en/legal) and asset permissions must be reviewed for public release; wrapper software licenses do not license Riot art. Local cached portraits retain original URLs/hashes and are Riot property. Registration/approval has not happened. No overlay, client control, memory access, hidden information collection, de-anonymisation or API key is used. Screenshots stay on device; no upload by default. Private browser data is not durable cloud backup.

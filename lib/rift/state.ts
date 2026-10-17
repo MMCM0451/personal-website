@@ -20,6 +20,7 @@ export function emptyDraft(): Draft {
     gameMinutes: 0,
     gold: 0,
     owned: [],
+    buildChoice: null,
   };
 }
 export function defaultProfile(id = "max", name = "Max"): Profile {
@@ -103,6 +104,8 @@ export function validateProfile(value: unknown): asserts value is Profile {
   member(value.objective, OBJECTIVES);
   member(value.queue, ["solo", "duo", "team"]);
   number(value.risk, 0, 100);
+  if (value.bootTiming !== undefined)
+    member(value.bootTiming, ["core-first", "earlier-tier2"]);
   if (value.duoPartner !== null && typeof value.duoPartner !== "string")
     throw Error("Invalid duo partner");
   if (!Array.isArray(value.pool) || value.pool.length > 150)
@@ -129,7 +132,46 @@ export function validateDraft(value: unknown): asserts value is Draft {
   if (!Array.isArray(value.bans) || value.bans.length > 20)
     throw Error("Invalid bans");
   value.bans.forEach((c) => champion(c));
+  if (value.slotEvidence !== undefined) {
+    object(value.slotEvidence);
+    for (const side of ["allies", "enemies"]) {
+      const evidence: unknown = (value.slotEvidence as Record<string, unknown>)[
+        side
+      ];
+      if (evidence === undefined) continue;
+      if (!Array.isArray(evidence) || evidence.length !== 5)
+        throw Error("Invalid slot evidence");
+      const rows: unknown[] = evidence;
+      for (const row of rows) {
+        if (row === null) continue;
+        object(row);
+        member(row.source, ["manual", "screenshot"]);
+        if (typeof row.corrected !== "boolean")
+          throw Error("Invalid correction evidence");
+        if (
+          row.sourceHash !== undefined &&
+          (typeof row.sourceHash !== "string" ||
+            !/^[a-f0-9]{64}$/.test(row.sourceHash))
+        )
+          throw Error("Invalid source hash");
+        if (row.similarity !== undefined) number(row.similarity, 0, 1);
+        if (
+          row.recognizerVersion !== undefined &&
+          (typeof row.recognizerVersion !== "string" ||
+            row.recognizerVersion.length > 100)
+        )
+          throw Error("Invalid recognizer version");
+      }
+    }
+  }
   champion(value.selected, true);
+  if (
+    value.buildChoice !== undefined &&
+    value.buildChoice !== null &&
+    (typeof value.buildChoice !== "string" ||
+      !/^[a-z0-9-]{1,80}$/.test(value.buildChoice))
+  )
+    throw Error("Invalid build choice");
   member(value.stage, STAGES);
   if (typeof value.patch !== "string" || value.patch.length > 32)
     throw Error("Invalid patch");

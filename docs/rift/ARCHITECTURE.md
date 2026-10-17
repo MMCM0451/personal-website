@@ -1,5 +1,9 @@
 # Rift Lab architecture
 
+Current repair addition (2026-10-17): `/rift/quick` is another client view over `useRift` and the same `recommend(Profile, Draft)`. `screenshot.ts` is pure pixel/layout/template math; `screenshot-browser.ts` owns bounded decoding and same-origin reference preparation; `scan-state.ts` owns reviewed merging/provenance/protection. `screenshot-input.tsx` is shared by Quick and full draft, with the old precise-crop tool retained separately. `quick-advice.ts` only adapts existing engine outputs and kit tactics for display; it is not a second strategy model. See RECOGNITION_STATUS for actual supported layouts and QUICK_MODE_DESIGN for controls.
+
+This repair uses a local branch/checkout inside the writable task workspace. The original canonical checkout and production remain unchanged. Current Next version is 16.4.2; the audit below describes the original starting point. Next dev now generates a local AGENTS.md directing agents to bundled version-specific docs; it was read before implementation.
+
 Audit date: 2026-10-17. Local implementation; production publication requires Max's approval.
 
 ## Repository audit

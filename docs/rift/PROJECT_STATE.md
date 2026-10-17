@@ -1,5 +1,21 @@
 # Rift Lab state
 
+## Current local repair — 2026-10-17
+
+The sections below record the earlier release. Current branch `rift/vision-quick-mode` is a checkout of the same repository in this writable task workspace (`website/`). **No repair push or deployment has occurred.**
+
+Implemented: real scoreboard pixels → layout/crops/portrait proposals → explicit review/search correction → existing shared draft/engine; manual/screenshot provenance; protected manual IDs and intentional unknowns; unsupported-image abstention; crop debugger/raw exports; optional local labelled crops. `/rift/quick` integrates the supplied design with real builds/runes, comparison/detail sheets, threats, purchase path and Copy/Full analysis. Existing detailed routes and manual controls remain. Scoreboard context is postgame; locked runes/spells are informational.
+
+Actual defect: the old upload decoded only, then waited for a manually drawn crop. It had no automatic team pipeline. Wild Rift circle references fix artwork mismatch on the supplied fixture. See [RECOGNITION_STATUS.md](RECOGNITION_STATUS.md) for diagnosis, evidence and limits, and [QUICK_MODE_DESIGN.md](QUICK_MODE_DESIGN.md) for integration.
+
+Validation: **49 TypeScript tests** including private real fixtures and derived-resolution/occlusion checks; **4 supplied Python evaluator tests**. Typecheck, affected-code lint, normalized snapshot integrity and local Next production build pass. First browser scan: 387.2 ms, ten correct proposals on **one development scoreboard**. Warm desktop n=20 p50 123.7 / p95 126.6 ms including rules/frame waits, not Android or React commit time. Website and single-character negatives populate no team. Removing Veigar removes his specific warning while items remain justified by other threats. Rules become `rift-rules-2` for survival-component priority, core-first Tier 3 timing and optional earlier Tier 2. Original game snapshots remain unchanged; visual artifacts have separate hash receipts.
+
+Limits: independent held-out accuracy/calibration, automatic acceptance, physical Android timing, broad skin/UI coverage, ranked draft/loading detection, OCR/stat analytics, PWA/share target and multiuser sync remain unproven or unimplemented. Automatic acceptance coverage is 0%. Fixture pixels/private evidence are Git/Vercel excluded. Collect independent sessions/layouts and calibrate before enabling auto-accept.
+
+Preview: `npm run dev -- --port 4181`, `/rift/quick`. Set `RIFT_FIXTURE_DIR` to the private extracted `fixtures` directory for portable tests. This checkout lacks ignored raw acquisition archives; use `npm run verify:rift-data -- --normalized-only`. Recognition documentation has reproduction commands.
+
+## Earlier milestone and release record
+
 2026-10-17 initial audit — M0 complete. Existing canonical site and read-only MMCM patterns inspected. The initial milestone made no deployment, cloud provisioning or MMCM modifications. Local MMCM infrastructure files/docs are accessible. A read-only named-profile AWS identity check returned an expired session; cloud access was not reauthenticated and live resource health is unverified.
 
 ## Built and validated

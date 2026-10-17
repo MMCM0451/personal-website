@@ -16,7 +16,7 @@ import { MODES, TRAITS } from "./types";
 
 export const PATCH = "7.3b";
 export const DATA_VERSION = "7.3b-2026-10-17.3+official-review-1";
-export const RULE_VERSION = "rift-rules-1";
+export const RULE_VERSION = "rift-rules-2";
 // Authored 0..3 qualitative properties, based on WR kit descriptions, not win-rate data.
 type Kit = [Partial<Record<Role, number>>, boolean, Partial<Combat>];
 const traits: Record<string, Kit> = {

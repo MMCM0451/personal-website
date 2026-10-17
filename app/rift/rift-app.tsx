@@ -34,6 +34,7 @@ import {
 import s from "./rift.module.css";
 import VisionInput from "./vision-input";
 import { deleteCorrections } from "@/lib/rift/vision-browser";
+import { setManualSlot } from "@/lib/rift/scan-state";
 
 type View = "dashboard" | "draft" | "build" | "history" | "settings";
 type Target =
@@ -220,10 +221,10 @@ function BuildPanel({
   profile: Profile;
   draft: Draft;
 }) {
-  const [tab, setTab] = useState("");
   const [message, setMessage] = useState("");
   const build =
-    recommendation.builds.find((b) => b.id === tab) ?? recommendation.builds[0];
+    recommendation.builds.find((b) => b.id === draft.buildChoice) ??
+    recommendation.builds[0];
   if (!build)
     return (
       <section className={s.card}>
@@ -255,7 +256,12 @@ function BuildPanel({
           <button
             key={b.id}
             className={b.id === build.id ? s.activeTab : ""}
-            onClick={() => setTab(b.id)}
+            onClick={() =>
+              updateState((st) => ({
+                ...st,
+                draft: { ...st.draft, buildChoice: b.id },
+              }))
+            }
             aria-pressed={b.id === build.id}
           >
             {b.name}
@@ -310,7 +316,11 @@ function BuildPanel({
       )}
       <div className={s.runeBox}>
         <div>
-          <p className={s.eyebrow}>FIVE LEGAL RUNES</p>
+          <p className={s.eyebrow}>
+            {draft.stage === "pre-lock"
+              ? "FIVE LEGAL RUNES"
+              : "RUNES · INFORMATIONAL AFTER LOCK"}
+          </p>
           <h3>{runes[build.runes.keystone].name}</h3>
           <p>
             Keystone + 3 {runes[build.runes.primary[0]].tree} rows + 1{" "}
@@ -335,7 +345,12 @@ function BuildPanel({
       </div>
       <p className={s.spells}>
         <b>Summoner spells</b> {build.spells.join(" + ")}{" "}
-        <small>· Review spell trade-offs before lock-in.</small>
+        <small>
+          ·{" "}
+          {draft.stage === "pre-lock"
+            ? "Review spell trade-offs before lock-in."
+            : "Locked/played spells and runes cannot be changed; this plan is informational."}
+        </small>
       </p>
       <details className={s.details} open={draft.stage === "loading"}>
         <summary>
@@ -530,8 +545,12 @@ export default function RiftApp({ view }: { view: View }) {
         setNotice("That champion is already in this team.");
         return;
       }
-      side[picker.index] = id;
-      changeDraft({ [picker.kind]: side });
+      const team = picker.kind,
+        index = picker.index;
+      updateState((st) => ({
+        ...st,
+        draft: setManualSlot(st.draft, team, index, id),
+      }));
     }
     setPicker(null);
     setNotice("");
@@ -563,6 +582,7 @@ export default function RiftApp({ view }: { view: View }) {
         </div>
       </header>
       <nav className={s.nav} aria-label="Rift Lab navigation">
+        <Link href="/rift/quick">ϟ Quick Mode</Link>
         {(["dashboard", "draft", "build", "history", "settings"] as const).map(
           (v) => (
             <Link
@@ -655,6 +675,9 @@ export default function RiftApp({ view }: { view: View }) {
                   leave hidden champions unknown.
                 </p>
                 <div className={s.actions}>
+                  <Link className={s.primary} href="/rift/quick">
+                    Open Quick Mode ↗
+                  </Link>
                   <Link className={s.primary} href="/rift/draft">
                     Open draft desk ↗
                   </Link>
@@ -724,9 +747,10 @@ export default function RiftApp({ view }: { view: View }) {
                           <button
                             className={s.clearSlot}
                             onClick={() => {
-                              const slots = [...draft[side]];
-                              slots[i] = null;
-                              changeDraft({ [side]: slots });
+                              updateState((st) => ({
+                                ...st,
+                                draft: setManualSlot(st.draft, side, i, null),
+                              }));
                             }}
                             aria-label={`Clear ${side} slot ${i + 1}`}
                           >
@@ -791,9 +815,10 @@ export default function RiftApp({ view }: { view: View }) {
                 confirm={(team, slot, id) => {
                   if (draft[team].some((c, i) => c === id && i !== slot))
                     return false;
-                  const slots = [...draft[team]];
-                  slots[slot] = id;
-                  changeDraft({ [team]: slots });
+                  updateState((st) => ({
+                    ...st,
+                    draft: setManualSlot(st.draft, team, slot, id),
+                  }));
                   return true;
                 }}
               />
