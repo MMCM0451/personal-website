@@ -1,0 +1,9 @@
+{
+  "id": "official-review-1",
+  "reviewedOn": "2026-10-17",
+  "patch": "7.3b",
+  "source": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3b/",
+  "note": "Official changes override stale community values. This review verifies these changed fields, not every inherited recipe/stat.",
+  "itemPrices": { "yun-tal-wildarrows": 3000, "thornmail": 2850 },
+  "mechanics": { "warmogs-armor": { "bonusHealthTrigger": 1250, "note": "Warmog's Heart threshold; verify activation against actual bonus health in client." } }
+}

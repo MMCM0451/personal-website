@@ -1,0 +1,719 @@
+{
+  "id": "7.3b-2026-10-17.2",
+  "game": "Wild Rift",
+  "patch": "7.3b",
+  "finalizedAt": "2026-10-17T14:54:29.546Z",
+  "status": "partial-verification",
+  "roster": 142,
+  "kits": 27,
+  "items": 133,
+  "acquisitionFailures": [
+    "Initial acquisition HTTP 404: item spirit-visage; excluded. New attempt used force-of-nature.",
+    "Second acquisition HTTP 404: patch URL 7-2e; normalized files retained; latest patch sources recovered."
+  ],
+  "clockNote": "savedAt is filesystem save time of extracted source JSON, not provider publication or original HTTP receipt. Original HTTP byte hashes were lost when acquisition stopped; hashes here cover retained JSON artifacts. Future acquisitions journal HTTP receipts incrementally.",
+  "artifacts": [
+    {
+      "file": "items.json",
+      "savedAt": "2026-10-17T14:52:20.966Z",
+      "sha256": "b829f4e8b5275c061c267af1163710940c1c027b8f479a26d0cf9c38b1b9321f",
+      "bytes": 32223
+    },
+    {
+      "file": "kits.json",
+      "savedAt": "2026-10-17T14:52:16.823Z",
+      "sha256": "79644c34a2ac7c768d836a81524b244b0c3ecfdd6fffc560631a5bc447b93c8f",
+      "bytes": 38602
+    },
+    {
+      "file": "roster.json",
+      "savedAt": "2026-10-17T14:52:14.383Z",
+      "sha256": "52ed0a6c5a2a0d62df4d774c736e99443446da75965e5911e1ba46568b66ea67",
+      "bytes": 40632
+    },
+    {
+      "file": "rune-pages.json",
+      "savedAt": "2026-10-17T14:52:22.006Z",
+      "sha256": "a23963cf6039aab2230b9eac36c50843768b53d083a8a37538dfb48e42f03a1a",
+      "bytes": 5161
+    },
+    {
+      "file": "sources/ahri.json",
+      "savedAt": "2026-10-17T14:52:15.091Z",
+      "sha256": "2c209798cfb6898ea1316344d77d2eaaa19f2836cadf153a8b66a6b4418e5177",
+      "bytes": 35435
+    },
+    {
+      "file": "sources/alistar.json",
+      "savedAt": "2026-10-17T14:52:16.694Z",
+      "sha256": "b2bfa9c55c8cdbbd9157d253a04bae1a75a817755b03c42f312d3c8c602395e1",
+      "bytes": 26484
+    },
+    {
+      "file": "sources/caitlyn.json",
+      "savedAt": "2026-10-17T14:52:14.920Z",
+      "sha256": "94b22421c6fe9ce2c5d5be807df334ceb3da6f8caebc0d903e1a08f7156fd928",
+      "bytes": 34049
+    },
+    {
+      "file": "sources/dr-mundo.json",
+      "savedAt": "2026-10-17T14:52:14.719Z",
+      "sha256": "85f76211749e14e7c861606fffd022f767d1adf219b94f251bd844b01e0e1653",
+      "bytes": 28451
+    },
+    {
+      "file": "sources/ekko.json",
+      "savedAt": "2026-10-17T14:52:15.857Z",
+      "sha256": "fc1369ef0041feb3f88ebd8f98a7318299c17fe8056d556f66fdad743601a4d6",
+      "bytes": 28153
+    },
+    {
+      "file": "sources/evelynn.json",
+      "savedAt": "2026-10-17T14:52:14.650Z",
+      "sha256": "0671574c0f640b80bc17699f06676748753df9a7e1ec6cfd1213dffbe2641f5c",
+      "bytes": 26271
+    },
+    {
+      "file": "sources/garen.json",
+      "savedAt": "2026-10-17T14:52:16.326Z",
+      "sha256": "1471ed8fcef50eab489675fea3bffe85d7465bfad89ac99e2bc405311b9b8946",
+      "bytes": 32380
+    },
+    {
+      "file": "sources/item-aether-wisp.json",
+      "savedAt": "2026-10-17T14:52:19.234Z",
+      "sha256": "24c633656b8c00811844194136da1165c121eee0677d82d6533149ed475fc121",
+      "bytes": 179
+    },
+    {
+      "file": "sources/item-amaranths-twinguard.json",
+      "savedAt": "2026-10-17T14:52:17.635Z",
+      "sha256": "4c9e5f0a8e67b6fe8abe67b4455a26ce5a5de14dee370d8d79c3663bdcd29475",
+      "bytes": 238
+    },
+    {
+      "file": "sources/item-amplifying-tome.json",
+      "savedAt": "2026-10-17T14:52:20.309Z",
+      "sha256": "7bdd4fbf87f7e14ab787be5de46479187456506636db6e5f405952367cfce1c7",
+      "bytes": 162
+    },
+    {
+      "file": "sources/item-armored-advance.json",
+      "savedAt": "2026-10-17T14:52:18.249Z",
+      "sha256": "2acdfc42cbdb82cfca4098a4c8ed874fc91e5464ff910d803feaf354f32edcac",
+      "bytes": 189
+    },
+    {
+      "file": "sources/item-b-f-sword.json",
+      "savedAt": "2026-10-17T14:52:20.165Z",
+      "sha256": "57aa274d1ad3680a1418ff6c2afdfc495bf10541ee63d1c301731e98710d4051",
+      "bytes": 173
+    },
+    {
+      "file": "sources/item-bamis-cinder.json",
+      "savedAt": "2026-10-17T14:52:19.505Z",
+      "sha256": "f7d17c8bad73ecc6071ce919b3d1fd42b8a4ab2ad648cdc235d50ba14fd57056",
+      "bytes": 211
+    },
+    {
+      "file": "sources/item-banshees-veil.json",
+      "savedAt": "2026-10-17T14:52:17.517Z",
+      "sha256": "1397fafb74f9ce8b496cf45911ac955845ccae469d396865100e2a2b8b00b549",
+      "bytes": 211
+    },
+    {
+      "file": "sources/item-berserkers-greaves.json",
+      "savedAt": "2026-10-17T14:52:18.084Z",
+      "sha256": "ec760629a7bbd44c7581e36b15200a71b4753d8ffd31338ab648f79d6c335d24",
+      "bytes": 213
+    },
+    {
+      "file": "sources/item-blasting-wand.json",
+      "savedAt": "2026-10-17T14:52:19.366Z",
+      "sha256": "223479e6ae167322c20c44a8c3cb012047bdcd43bf4ad8278599d635031455b5",
+      "bytes": 183
+    },
+    {
+      "file": "sources/item-bloodletters-curse.json",
+      "savedAt": "2026-10-17T14:52:17.346Z",
+      "sha256": "db9cbdb780bd634df6a1dbe0a32eae2382b415059b04281fd8a12372a9d89f43",
+      "bytes": 221
+    },
+    {
+      "file": "sources/item-bloodthirster.json",
+      "savedAt": "2026-10-17T14:52:17.805Z",
+      "sha256": "a9d08de00bb79f87314147fdf6b453bf424d14dab69376e1f2557f06dce29988",
+      "bytes": 202
+    },
+    {
+      "file": "sources/item-boots-of-mana.json",
+      "savedAt": "2026-10-17T14:52:18.076Z",
+      "sha256": "eb7d2d9352a8034563e3fae4ef8cd8d18d985688c22ced6128c430e1eab02590",
+      "bytes": 206
+    },
+    {
+      "file": "sources/item-boots-of-speed.json",
+      "savedAt": "2026-10-17T14:52:17.946Z",
+      "sha256": "24b33b1fff59efd1cf3522d773bc329f196332f990ffbaded3ecd20d7640ecf1",
+      "bytes": 160
+    },
+    {
+      "file": "sources/item-bramble-vest.json",
+      "savedAt": "2026-10-17T14:52:19.662Z",
+      "sha256": "f17155cb50556e2615e60e6ad5ec27fbacea17fd860f840dfb3daaadfff7e45a",
+      "bytes": 178
+    },
+    {
+      "file": "sources/item-brawlers-gloves.json",
+      "savedAt": "2026-10-17T14:52:20.302Z",
+      "sha256": "b60fe3012ec4ff862e29c4300f0b58bc5c974aa28b57551e502a1cfb652b7cb1",
+      "bytes": 168
+    },
+    {
+      "file": "sources/item-catalyst-of-aeons.json",
+      "savedAt": "2026-10-17T14:52:19.096Z",
+      "sha256": "cfe31fe58111b70da22fdc04e0cfb45c9c7a8912dcd747b54e2b40a16f1e6a02",
+      "bytes": 189
+    },
+    {
+      "file": "sources/item-chain-vest.json",
+      "savedAt": "2026-10-17T14:52:20.171Z",
+      "sha256": "f5dd7c65b86839afc2fa9d0c235c9f186234cae31fac1f8b3bf1f79eba65b908",
+      "bytes": 173
+    },
+    {
+      "file": "sources/item-chainlaced-crushers.json",
+      "savedAt": "2026-10-17T14:52:18.231Z",
+      "sha256": "30df1b4aad5c0cf5365e23bf34c1889e6ca8b15d61e4212c90fd96b2efe0f46a",
+      "bytes": 196
+    },
+    {
+      "file": "sources/item-cloth-armor.json",
+      "savedAt": "2026-10-17T14:52:20.941Z",
+      "sha256": "e1f5beaad2c1ed285f3d57c95d4480cf8dc4fe2e5e3012dc8bbf403aa8a1d31e",
+      "bytes": 154
+    },
+    {
+      "file": "sources/item-crimson-lucidity.json",
+      "savedAt": "2026-10-17T14:52:18.247Z",
+      "sha256": "39387dfa7cfc7845cfa8f615f6b018e16028ec1859f9327bed06f2ef00012f6a",
+      "bytes": 199
+    },
+    {
+      "file": "sources/item-dagger.json",
+      "savedAt": "2026-10-17T14:52:20.426Z",
+      "sha256": "5342d81de708bf25b61f6e000968eab497a6248f3254126656be3e9095a6f0f3",
+      "bytes": 144
+    },
+    {
+      "file": "sources/item-executioners-calling.json",
+      "savedAt": "2026-10-17T14:52:20.303Z",
+      "sha256": "797f6a7c124501f8b2a83150cb8796c881c8a002aea9b2153692b0038299696d",
+      "bytes": 198
+    },
+    {
+      "file": "sources/item-fated-ashes.json",
+      "savedAt": "2026-10-17T14:52:19.082Z",
+      "sha256": "161cf3a342e08d43859f59c955b38cf08665dfe07f4f3e18a54a112711aa38be",
+      "bytes": 179
+    },
+    {
+      "file": "sources/item-fiendish-codex.json",
+      "savedAt": "2026-10-17T14:52:18.838Z",
+      "sha256": "41f514116122ea4940a88d7f18307ee51fd4c1eddffe067c8e90b4ed3abdac56",
+      "bytes": 185
+    },
+    {
+      "file": "sources/item-force-of-nature.json",
+      "savedAt": "2026-10-17T14:52:17.641Z",
+      "sha256": "9d444c64dea3812318f6fe93a67f6421654b4c418d7fff87ec57719d4a2f2a95",
+      "bytes": 231
+    },
+    {
+      "file": "sources/item-giants-belt.json",
+      "savedAt": "2026-10-17T14:52:20.044Z",
+      "sha256": "db3bee8e3a0ca2bd57cd56c0bc3c3403e4b91f6a6426c6a62d011ddb70da84e3",
+      "bytes": 183
+    },
+    {
+      "file": "sources/item-guardian-angel.json",
+      "savedAt": "2026-10-17T14:52:17.938Z",
+      "sha256": "0c60aab2386225107f6ab0a7b0b5a5788546f6b2479e3842e68ac6c4398a0f1a",
+      "bytes": 198
+    },
+    {
+      "file": "sources/item-gunmetal-greaves.json",
+      "savedAt": "2026-10-17T14:52:18.222Z",
+      "sha256": "d5390b9d3884a55bf1a17d21e3aa84912f6d3ca36979f9254be4d6d948db1e3d",
+      "bytes": 193
+    },
+    {
+      "file": "sources/item-haunting-guise.json",
+      "savedAt": "2026-10-17T14:52:19.111Z",
+      "sha256": "6ca81a5823fe826e8c03150a5867665b2a07b3c20a89f6e56908c7d50aa07b10",
+      "bytes": 206
+    },
+    {
+      "file": "sources/item-heartsteel.json",
+      "savedAt": "2026-10-17T14:52:17.780Z",
+      "sha256": "6a5c91a383f2a261d505eccd43c40fa2b9c480f7b412b0243c95fcc638ba949b",
+      "bytes": 211
+    },
+    {
+      "file": "sources/item-hextech-alternator.json",
+      "savedAt": "2026-10-17T14:52:19.362Z",
+      "sha256": "066aa990c2d7825e1f81012552291e4fd728bc1ad9beb881bff2e7f6543d9c20",
+      "bytes": 194
+    },
+    {
+      "file": "sources/item-hextech-rocketbelt.json",
+      "savedAt": "2026-10-17T14:52:17.494Z",
+      "sha256": "b97ee77c0a6183d6f6b14fd071e9d0521ce9a15828d11c565dba72540e3c9450",
+      "bytes": 237
+    },
+    {
+      "file": "sources/item-infinity-edge.json",
+      "savedAt": "2026-10-17T14:52:17.785Z",
+      "sha256": "f7db69b7719a4132fd8567e567db291f0d6dbcd25541d9d3dd817f1aa1f3bd82",
+      "bytes": 216
+    },
+    {
+      "file": "sources/item-infinity-orb.json",
+      "savedAt": "2026-10-17T14:52:17.213Z",
+      "sha256": "dc9dbf000a7f69aa3d7fc0c7e649afde0071e4035ddb9f6831de3372f9eb40b8",
+      "bytes": 213
+    },
+    {
+      "file": "sources/item-ionian-boots-of-lucidity.json",
+      "savedAt": "2026-10-17T14:52:18.095Z",
+      "sha256": "b3017fabddb84c8a610eec4661d01d9dc006696de33cedb62d571fdf05f86a99",
+      "bytes": 231
+    },
+    {
+      "file": "sources/item-jaurims-fist.json",
+      "savedAt": "2026-10-17T14:52:19.784Z",
+      "sha256": "953eb0dcd67ba84a1f0bcb6e5651fd487660b45384e9192637631062da56aff3",
+      "bytes": 203
+    },
+    {
+      "file": "sources/item-kindlegem.json",
+      "savedAt": "2026-10-17T14:52:20.047Z",
+      "sha256": "998830ba4324ca0c14ec862b66866f8de6b8dd4aa9460c0d032815283cd7d697",
+      "bytes": 173
+    },
+    {
+      "file": "sources/item-kircheis-shard.json",
+      "savedAt": "2026-10-17T14:52:20.185Z",
+      "sha256": "ad5dd7fd4d43f2b26269af65e8bee9d3f6b64132f3d092500b9e6fe494314adf",
+      "bytes": 176
+    },
+    {
+      "file": "sources/item-last-whisper.json",
+      "savedAt": "2026-10-17T14:52:20.300Z",
+      "sha256": "26658616ea91e4256e0d72c970d2f47a6b8817d8e5539d0066d62dcf7961bc29",
+      "bytes": 177
+    },
+    {
+      "file": "sources/item-liandrys-torment.json",
+      "savedAt": "2026-10-17T14:52:17.361Z",
+      "sha256": "b1c3243282292bb039c3aa964f26d75d77c05dc3b9136c2079b686962590904b",
+      "bytes": 214
+    },
+    {
+      "file": "sources/item-lich-bane.json",
+      "savedAt": "2026-10-17T14:52:17.489Z",
+      "sha256": "6b5782610016b9d28bb23bddc8572018d516414974bb26cb8bf408f3b88a4dab",
+      "bytes": 208
+    },
+    {
+      "file": "sources/item-long-sword.json",
+      "savedAt": "2026-10-17T14:52:20.945Z",
+      "sha256": "080e9b71418aa729673edbaf90c790bdf2b406d5ed278a00e6342c89a7980c47",
+      "bytes": 152
+    },
+    {
+      "file": "sources/item-lost-chapter.json",
+      "savedAt": "2026-10-17T14:52:19.366Z",
+      "sha256": "b122c1813d9b22ea53fbe0957a717b8463c0f9c4458e1aecf35614c30894064a",
+      "bytes": 208
+    },
+    {
+      "file": "sources/item-ludens-echo.json",
+      "savedAt": "2026-10-17T14:52:17.507Z",
+      "sha256": "c9d28833d3b433494503e4f1c76acb54916902abbbcfc19b50c4e90112c0e886",
+      "bytes": 209
+    },
+    {
+      "file": "sources/item-malignance.json",
+      "savedAt": "2026-10-17T14:52:17.213Z",
+      "sha256": "08adf40cfaf4bb2c52dd7c59c5b154936c1083feab5fe0f1fbafd3aeefa2a55a",
+      "bytes": 196
+    },
+    {
+      "file": "sources/item-mercurys-treads.json",
+      "savedAt": "2026-10-17T14:52:18.074Z",
+      "sha256": "0426d275dc017357103c77207c825d26bd1eb0ee9bb993676396fe553e967d17",
+      "bytes": 213
+    },
+    {
+      "file": "sources/item-morellonomicon.json",
+      "savedAt": "2026-10-17T14:52:17.361Z",
+      "sha256": "0cf4585358497d78e20224c6b32f35f889cf916e0ee539a487fae508651afdae",
+      "bytes": 223
+    },
+    {
+      "file": "sources/item-mortal-reminder.json",
+      "savedAt": "2026-10-17T14:52:17.955Z",
+      "sha256": "871aac252c02e62ae1e6bec267619b975f8c8888dba4f1feae0175d32961a4c2",
+      "bytes": 236
+    },
+    {
+      "file": "sources/item-needlessly-large-rod.json",
+      "savedAt": "2026-10-17T14:52:18.957Z",
+      "sha256": "811fdc33914e38beb67aca31c502d14536e3b78b476aae34f9a1c1634148de07",
+      "bytes": 198
+    },
+    {
+      "file": "sources/item-negatron-cloak.json",
+      "savedAt": "2026-10-17T14:52:19.666Z",
+      "sha256": "21bfe513deaef0345069ef338906524a0cccc14a635ad14feb67cfb993293392",
+      "bytes": 187
+    },
+    {
+      "file": "sources/item-null-magic-mantle.json",
+      "savedAt": "2026-10-17T14:52:20.689Z",
+      "sha256": "60f33e8bd5a5795a426c2bb1a32493b60c33e516ca551afbcd80c4d8f2c3de99",
+      "bytes": 166
+    },
+    {
+      "file": "sources/item-oblivion-orb.json",
+      "savedAt": "2026-10-17T14:52:18.954Z",
+      "sha256": "97682b9e5b58ca710ef8705d4c2b60aef2aa47501c0e2f4d7886d0e7cf7c2661",
+      "bytes": 181
+    },
+    {
+      "file": "sources/item-oceanids-trident.json",
+      "savedAt": "2026-10-17T14:52:17.335Z",
+      "sha256": "e6e0b187a9c5d8f45fe494315875569ec653599664603fd9320731bf0ac7fe6b",
+      "bytes": 236
+    },
+    {
+      "file": "sources/item-pickaxe.json",
+      "savedAt": "2026-10-17T14:52:19.930Z",
+      "sha256": "9a4d7592824748fccbf980fe83ff54d00c6679b9463e20ebcd869e2157434276",
+      "bytes": 166
+    },
+    {
+      "file": "sources/item-plated-steelcaps.json",
+      "savedAt": "2026-10-17T14:52:18.100Z",
+      "sha256": "07a3d6934e99f9360375702e5b78490ca7e06a68f8a40377282fce21d96f902a",
+      "bytes": 209
+    },
+    {
+      "file": "sources/item-rabadons-deathcap.json",
+      "savedAt": "2026-10-17T14:52:17.174Z",
+      "sha256": "ccd4f7d54e680e254d6279f5bf66f11d0a7bd773423a4103f1bd26706644b3c7",
+      "bytes": 203
+    },
+    {
+      "file": "sources/item-rapid-firecannon.json",
+      "savedAt": "2026-10-17T14:52:17.950Z",
+      "sha256": "b5f8d6ce9121919376152b20703fec95e551139022b3d18124760410deb4c827",
+      "bytes": 201
+    },
+    {
+      "file": "sources/item-relic-shield.json",
+      "savedAt": "2026-10-17T14:52:18.398Z",
+      "sha256": "d65c83fea87dd70da5a81bfabf3dff67f0e4fa689eafa1ecee4e1d7ee471e41c",
+      "bytes": 156
+    },
+    {
+      "file": "sources/item-riftmaker.json",
+      "savedAt": "2026-10-17T14:52:17.199Z",
+      "sha256": "8c585307ed8b541cc5cd49972e703d4c723c58c738885bb948332059cf6b3dea",
+      "bytes": 197
+    },
+    {
+      "file": "sources/item-ring-of-revelation.json",
+      "savedAt": "2026-10-17T14:52:20.421Z",
+      "sha256": "0d262696f77ea379bb4cf3280c974f4cee3d24171e55784a65dbbc1e55307a9c",
+      "bytes": 168
+    },
+    {
+      "file": "sources/item-rod-of-ages.json",
+      "savedAt": "2026-10-17T14:52:17.489Z",
+      "sha256": "6c7f716efcfecc9dc8a163f7d7c9a30e01cfd18ccf8e30138ebbdb5c91d729ee",
+      "bytes": 203
+    },
+    {
+      "file": "sources/item-ruby-crystal.json",
+      "savedAt": "2026-10-17T14:52:20.430Z",
+      "sha256": "eac70f91ba08f79b0004b4159bc4b831a6ba0d3c7c6d0852f22c75c48f86ec99",
+      "bytes": 156
+    },
+    {
+      "file": "sources/item-runaans-hurricane.json",
+      "savedAt": "2026-10-17T14:52:17.792Z",
+      "sha256": "dc17e59659568b49f683a31314f46675bee81baa33314c29951d04633944be80",
+      "bytes": 209
+    },
+    {
+      "file": "sources/item-rylais-crystal-scepter.json",
+      "savedAt": "2026-10-17T14:52:17.160Z",
+      "sha256": "d2d63c8cdb9cbfd011dddf17232fc4102865e0b35c52f38d9d794215606e3626",
+      "bytes": 248
+    },
+    {
+      "file": "sources/item-seekers-armguard.json",
+      "savedAt": "2026-10-17T14:52:18.970Z",
+      "sha256": "6f0b6547ef1322153133c37d59f11a01a5163a507627ae62621b009508894d01",
+      "bytes": 215
+    },
+    {
+      "file": "sources/item-sheen.json",
+      "savedAt": "2026-10-17T14:52:19.228Z",
+      "sha256": "a0cf30cd6103402414b8c4b7ad9dfca068e8fd74bb2e4d877ec550be4de8ff55",
+      "bytes": 170
+    },
+    {
+      "file": "sources/item-spellslingers-shoes.json",
+      "savedAt": "2026-10-17T14:52:18.236Z",
+      "sha256": "57e745b02533b572548da68ea26485f45307541cf27bc71f7680ab83875ebe02",
+      "bytes": 200
+    },
+    {
+      "file": "sources/item-sunfire-aegis.json",
+      "savedAt": "2026-10-17T14:52:17.632Z",
+      "sha256": "781d8fd442f12a6d1e28c4b84cc5b80eee1d8dbdaac920aee87147ae040dd376",
+      "bytes": 199
+    },
+    {
+      "file": "sources/item-thornmail.json",
+      "savedAt": "2026-10-17T14:52:17.662Z",
+      "sha256": "61288dfd974e1f9570c71479931499b4d69fd0f6bb99f00b7e385283bc74f0bf",
+      "bytes": 191
+    },
+    {
+      "file": "sources/item-titanic-hydra.json",
+      "savedAt": "2026-10-17T14:52:17.662Z",
+      "sha256": "d967c2f465594aca4eff3afebecd034dea68fee49febdee77675b717e2f73746",
+      "bytes": 216
+    },
+    {
+      "file": "sources/item-vampiric-scepter.json",
+      "savedAt": "2026-10-17T14:52:20.046Z",
+      "sha256": "6e5134ffe7785416c466d93e6738127f20060292f0a3f76ef706d47004955d36",
+      "bytes": 185
+    },
+    {
+      "file": "sources/item-verdant-barrier.json",
+      "savedAt": "2026-10-17T14:52:19.362Z",
+      "sha256": "43afe3837e64f702f5290603dec8c0aa3c76a40ba2ca2dde65e2a07d1bcb013e",
+      "bytes": 213
+    },
+    {
+      "file": "sources/item-warmogs-armor.json",
+      "savedAt": "2026-10-17T14:52:17.807Z",
+      "sha256": "6a92e0dfaafc65f17c44be4e80400d80e2fdb2ed57fedae5e2d7bb25532fbe1d",
+      "bytes": 203
+    },
+    {
+      "file": "sources/item-winged-moonplate.json",
+      "savedAt": "2026-10-17T14:52:19.637Z",
+      "sha256": "100616d6a134ef3a3252bc5216d1d770649a5a5a858fce8e1374c15422a6f8d9",
+      "bytes": 186
+    },
+    {
+      "file": "sources/item-yun-tal-wildarrows.json",
+      "savedAt": "2026-10-17T14:52:17.922Z",
+      "sha256": "58d38085db8d1748dc9b0ad10008c01776817079b3e37d10efa946c78f859348",
+      "bytes": 210
+    },
+    {
+      "file": "sources/item-zeal.json",
+      "savedAt": "2026-10-17T14:52:20.179Z",
+      "sha256": "5d689e0ca6d73318b710c4424975c6c906a8f4d6153daded39c598719f727670",
+      "bytes": 180
+    },
+    {
+      "file": "sources/item-zhonyas-hourglass.json",
+      "savedAt": "2026-10-17T14:52:17.353Z",
+      "sha256": "28273e57f92fb83e00d08132082cbeed3edfcade6495887c229513ec41ed147b",
+      "bytes": 227
+    },
+    {
+      "file": "sources/jinx.json",
+      "savedAt": "2026-10-17T14:52:15.176Z",
+      "sha256": "6012174eb054952ef3131be2c994194ffbb152262f1b2b65fe57140370946bed",
+      "bytes": 35591
+    },
+    {
+      "file": "sources/leona.json",
+      "savedAt": "2026-10-17T14:52:16.321Z",
+      "sha256": "d8ed82802dca5aef75eb77504228df5fe0e871e7137e8b0bcdd3b21b777c3e40",
+      "bytes": 30986
+    },
+    {
+      "file": "sources/lillia.json",
+      "savedAt": "2026-10-17T14:52:15.884Z",
+      "sha256": "4644014e227236799419855204dd3f76b6c370730a38b4d35a32d75e563b1e5a",
+      "bytes": 27739
+    },
+    {
+      "file": "sources/lucian.json",
+      "savedAt": "2026-10-17T14:52:16.111Z",
+      "sha256": "3a6146939e2cf6573f668325c6698c6573cd434089b30f6d202b491430c23aa8",
+      "bytes": 29028
+    },
+    {
+      "file": "sources/lux.json",
+      "savedAt": "2026-10-17T14:52:15.888Z",
+      "sha256": "2c3332129f37506a2a3170417eb5cde3c82d1bef45430798e7a78077ba7380d3",
+      "bytes": 43025
+    },
+    {
+      "file": "sources/malphite.json",
+      "savedAt": "2026-10-17T14:52:16.491Z",
+      "sha256": "a587859bb55505e6467ce9b529707a8bbbc34e5f14255a712ffd083e3d44ab14",
+      "bytes": 27914
+    },
+    {
+      "file": "sources/miss-fortune.json",
+      "savedAt": "2026-10-17T14:52:14.954Z",
+      "sha256": "9bc11adcfbd9b00957e3ab141d31a57a1a1ec25857b78b376743c3e9748a3644",
+      "bytes": 35645
+    },
+    {
+      "file": "sources/mordekaiser.json",
+      "savedAt": "2026-10-17T14:52:14.642Z",
+      "sha256": "b8b8d13b338a2449f0bd5bbb1e4d795d70c4dcc4fe880efa009c70b7f6ba4030",
+      "bytes": 23324
+    },
+    {
+      "file": "sources/nunu-and-willump.json",
+      "savedAt": "2026-10-17T14:52:15.536Z",
+      "sha256": "3258be5b0c4bc99a2ba5e9a7be5510224af2c32a4d78a2281d212e67391dfc80",
+      "bytes": 25143
+    },
+    {
+      "file": "sources/patch-7-2.json",
+      "savedAt": "2026-10-17T14:52:22.553Z",
+      "sha256": "82f1cc7c863c2eec47bb4a693b37cb6f8c57bb5423dcbe53052a691be92b273e",
+      "bytes": 166768
+    },
+    {
+      "file": "sources/patch-7-2a.json",
+      "savedAt": "2026-10-17T14:52:22.848Z",
+      "sha256": "6718bbf6127c197ce5166b19004202ba5229fb3012a52caa4e2f340370a61ff5",
+      "bytes": 72233
+    },
+    {
+      "file": "sources/patch-7-2b.json",
+      "savedAt": "2026-10-17T14:52:23.232Z",
+      "sha256": "375df28884ca2a9e7884ea7ffb4eaecffb0d42d583bde105b35a60e297da825a",
+      "bytes": 87597
+    },
+    {
+      "file": "sources/patch-7-2c.json",
+      "savedAt": "2026-10-17T14:52:23.675Z",
+      "sha256": "f43bca24036c9daf60c429ecc0f90e7dd8e0de5efac6653f06d9e6afca4caa94",
+      "bytes": 83051
+    },
+    {
+      "file": "sources/patch-7-2d.json",
+      "savedAt": "2026-10-17T14:52:24.056Z",
+      "sha256": "28e06598316a37942195f85900798141fd4650c381d2de3fd9fcbf6dfcbc48d5",
+      "bytes": 88885
+    },
+    {
+      "file": "sources/patch-7-3.json",
+      "savedAt": "2026-10-17T14:54:28.879Z",
+      "sha256": "f2f3f48afc380d9184777a9a170cec5b9044e03f1febb35ac4ed3519d5898390",
+      "bytes": 322235
+    },
+    {
+      "file": "sources/patch-7-3a.json",
+      "savedAt": "2026-10-17T14:54:29.074Z",
+      "sha256": "7d172233902c61b57b1941edae292f4b37b46c8baef1441d8941920f2e4257a2",
+      "bytes": 96960
+    },
+    {
+      "file": "sources/patch-7-3b.json",
+      "savedAt": "2026-10-17T14:54:29.464Z",
+      "sha256": "601749e767029be6fa01abb77e6d577b6618d045ae06558714e0e43a6c1ee19c",
+      "bytes": 83067
+    },
+    {
+      "file": "sources/riot-roster.json",
+      "savedAt": "2026-10-17T14:52:12.696Z",
+      "sha256": "7c2f395f73afc9825a510acb81cb258175897c8ff5e47e23c45459295dc69971",
+      "bytes": 142467
+    },
+    {
+      "file": "sources/soraka.json",
+      "savedAt": "2026-10-17T14:52:16.329Z",
+      "sha256": "f4609e5fb001a06ebd8495937b4be835253abd6f5b76c1fecfb91fa87b4eb022",
+      "bytes": 29285
+    },
+    {
+      "file": "sources/swain.json",
+      "savedAt": "2026-10-17T14:52:14.561Z",
+      "sha256": "b3f0df54028b521f420d0592a86344186c537c46d6757527b24492f182daaba9",
+      "bytes": 26487
+    },
+    {
+      "file": "sources/tryndamere.json",
+      "savedAt": "2026-10-17T14:52:15.902Z",
+      "sha256": "dff42c6fc2ab3fd07b22c6aa5eb1990b90b26b2388f4e227a8845376f488d86c",
+      "bytes": 34113
+    },
+    {
+      "file": "sources/varus.json",
+      "savedAt": "2026-10-17T14:52:15.436Z",
+      "sha256": "f1234e8723917b013afbd4635dc7c59612d45addc23e2b5873a272ff86ba409a",
+      "bytes": 34062
+    },
+    {
+      "file": "sources/vayne.json",
+      "savedAt": "2026-10-17T14:52:16.823Z",
+      "sha256": "b5704b050097d2db77446b4653b55ef427d7adc7520c4047831fd5f931a4e4ca",
+      "bytes": 35685
+    },
+    {
+      "file": "sources/veigar.json",
+      "savedAt": "2026-10-17T14:52:14.963Z",
+      "sha256": "27d8a9971bf43c74cb3a56d66e090d7dc04177e9e4a7c22a1d8016d57d652eb3",
+      "bytes": 29338
+    },
+    {
+      "file": "sources/vladimir.json",
+      "savedAt": "2026-10-17T14:52:14.627Z",
+      "sha256": "8b5168aa914ea9325e6bdd3c3cfbf1335f80ceab098784895bcf244b5f7eb3d3",
+      "bytes": 24981
+    },
+    {
+      "file": "sources/xayah.json",
+      "savedAt": "2026-10-17T14:52:15.624Z",
+      "sha256": "331d4a9385dca08cfa444a649305c40c86233e09beef65094b8d05e78b3f2fcd",
+      "bytes": 33918
+    },
+    {
+      "file": "sources/yasuo.json",
+      "savedAt": "2026-10-17T14:52:16.338Z",
+      "sha256": "ca0af6734970516f0a4c4283422c05e770f27ee2e387f458ddac0590eae3d23a",
+      "bytes": 40369
+    },
+    {
+      "file": "sources/yuumi.json",
+      "savedAt": "2026-10-17T14:52:15.465Z",
+      "sha256": "6e624c3665929006b9f03f6060a6ecb9a0d2e65923d4be58e31a836e7f56bdc9",
+      "bytes": 28750
+    },
+    {
+      "file": "sources/zyra.json",
+      "savedAt": "2026-10-17T14:52:15.365Z",
+      "sha256": "5b6cd9ea127093221ae75379a3d269f3abdb219086c730111971b06389d3c547",
+      "bytes": 23709
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Preserve the exact bytes covered by immutable snapshot integrity hashes.
+lib/rift/data/** -text
+public/rift/assets/** -text

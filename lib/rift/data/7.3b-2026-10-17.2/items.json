@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "aether-wisp",
+    "name": "Aether Wisp",
+    "price": 950,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/aether-wisp/",
+    "status": "community"
+  },
+  {
+    "id": "amaranths-twinguard",
+    "name": "Amaranth&#x27;s Twinguard",
+    "price": 3200,
+    "recipe": [
+      "chain-vest",
+      "negatron-cloak",
+      "giants-belt"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amaranths-twinguard/",
+    "status": "community"
+  },
+  {
+    "id": "amplifying-tome",
+    "name": "Amplifying Tome",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amplifying-tome/",
+    "status": "community"
+  },
+  {
+    "id": "amplifying-tome",
+    "name": "Amplifying Tome",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amplifying-tome/",
+    "status": "community"
+  },
+  {
+    "id": "amplifying-tome",
+    "name": "Amplifying Tome",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amplifying-tome/",
+    "status": "community"
+  },
+  {
+    "id": "amplifying-tome",
+    "name": "Amplifying Tome",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amplifying-tome/",
+    "status": "community"
+  },
+  {
+    "id": "amplifying-tome",
+    "name": "Amplifying Tome",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/amplifying-tome/",
+    "status": "community"
+  },
+  {
+    "id": "armored-advance",
+    "name": "Armored Advance",
+    "price": 2200,
+    "recipe": [
+      "plated-steelcaps"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/armored-advance/",
+    "status": "community"
+  },
+  {
+    "id": "b-f-sword",
+    "name": "B. F. Sword",
+    "price": 1500,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/b-f-sword/",
+    "status": "community"
+  },
+  {
+    "id": "b-f-sword",
+    "name": "B. F. Sword",
+    "price": 1500,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/b-f-sword/",
+    "status": "community"
+  },
+  {
+    "id": "b-f-sword",
+    "name": "B. F. Sword",
+    "price": 1500,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/b-f-sword/",
+    "status": "community"
+  },
+  {
+    "id": "b-f-sword",
+    "name": "B. F. Sword",
+    "price": 1500,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/b-f-sword/",
+    "status": "community"
+  },
+  {
+    "id": "bamis-cinder",
+    "name": "Bami&#x27;s Cinder",
+    "price": 1200,
+    "recipe": [
+      "ring-of-revelation",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/bamis-cinder/",
+    "status": "community"
+  },
+  {
+    "id": "banshees-veil",
+    "name": "Banshee&#x27;s Veil",
+    "price": 3000,
+    "recipe": [
+      "blasting-wand",
+      "verdant-barrier"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/banshees-veil/",
+    "status": "community"
+  },
+  {
+    "id": "berserkers-greaves",
+    "name": "Berserker&#x27;s Greaves",
+    "price": 1200,
+    "recipe": [
+      "dagger",
+      "boots-of-speed"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/berserkers-greaves/",
+    "status": "community"
+  },
+  {
+    "id": "blasting-wand",
+    "name": "Blasting Wand",
+    "price": 800,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/blasting-wand/",
+    "status": "community"
+  },
+  {
+    "id": "blasting-wand",
+    "name": "Blasting Wand",
+    "price": 800,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/blasting-wand/",
+    "status": "community"
+  },
+  {
+    "id": "blasting-wand",
+    "name": "Blasting Wand",
+    "price": 800,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/blasting-wand/",
+    "status": "community"
+  },
+  {
+    "id": "blasting-wand",
+    "name": "Blasting Wand",
+    "price": 800,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/blasting-wand/",
+    "status": "community"
+  },
+  {
+    "id": "blasting-wand",
+    "name": "Blasting Wand",
+    "price": 800,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/blasting-wand/",
+    "status": "community"
+  },
+  {
+    "id": "bloodletters-curse",
+    "name": "Bloodletter&#x27;s Curse",
+    "price": 2900,
+    "recipe": [
+      "fiendish-codex",
+      "haunting-guise"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/bloodletters-curse/",
+    "status": "community"
+  },
+  {
+    "id": "bloodthirster",
+    "name": "Bloodthirster",
+    "price": 3200,
+    "recipe": [
+      "vampiric-scepter",
+      "b-f-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/bloodthirster/",
+    "status": "community"
+  },
+  {
+    "id": "boots-of-mana",
+    "name": "Boots of Mana",
+    "price": 1200,
+    "recipe": [
+      "amplifying-tome",
+      "boots-of-speed"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/boots-of-mana/",
+    "status": "community"
+  },
+  {
+    "id": "boots-of-speed",
+    "name": "Boots of Speed",
+    "price": 400,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/boots-of-speed/",
+    "status": "community"
+  },
+  {
+    "id": "bramble-vest",
+    "name": "Bramble Vest",
+    "price": 1000,
+    "recipe": [
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/bramble-vest/",
+    "status": "community"
+  },
+  {
+    "id": "brawlers-gloves",
+    "name": "Brawler&#x27;s Gloves",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/brawlers-gloves/",
+    "status": "community"
+  },
+  {
+    "id": "brawlers-gloves",
+    "name": "Brawler&#x27;s Gloves",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/brawlers-gloves/",
+    "status": "community"
+  },
+  {
+    "id": "catalyst-of-aeons",
+    "name": "Catalyst of Aeons",
+    "price": 1100,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/catalyst-of-aeons/",
+    "status": "community"
+  },
+  {
+    "id": "chain-vest",
+    "name": "Chain Vest",
+    "price": 900,
+    "recipe": [
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/chain-vest/",
+    "status": "community"
+  },
+  {
+    "id": "chain-vest",
+    "name": "Chain Vest",
+    "price": 900,
+    "recipe": [
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/chain-vest/",
+    "status": "community"
+  },
+  {
+    "id": "chain-vest",
+    "name": "Chain Vest",
+    "price": 900,
+    "recipe": [
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/chain-vest/",
+    "status": "community"
+  },
+  {
+    "id": "chain-vest",
+    "name": "Chain Vest",
+    "price": 900,
+    "recipe": [
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/chain-vest/",
+    "status": "community"
+  },
+  {
+    "id": "chainlaced-crushers",
+    "name": "Chainlaced Crushers",
+    "price": 2200,
+    "recipe": [
+      "mercurys-treads"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/chainlaced-crushers/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "cloth-armor",
+    "name": "Cloth Armor",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/cloth-armor/",
+    "status": "community"
+  },
+  {
+    "id": "crimson-lucidity",
+    "name": "Crimson Lucidity",
+    "price": 2000,
+    "recipe": [
+      "ionian-boots-of-lucidity"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/crimson-lucidity/",
+    "status": "community"
+  },
+  {
+    "id": "dagger",
+    "name": "Dagger",
+    "price": 400,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/dagger/",
+    "status": "community"
+  },
+  {
+    "id": "executioners-calling",
+    "name": "Executioner&#x27;s Calling",
+    "price": 800,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/executioners-calling/",
+    "status": "community"
+  },
+  {
+    "id": "fated-ashes",
+    "name": "Fated Ashes",
+    "price": 900,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/fated-ashes/",
+    "status": "community"
+  },
+  {
+    "id": "fiendish-codex",
+    "name": "Fiendish Codex",
+    "price": 900,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/fiendish-codex/",
+    "status": "community"
+  },
+  {
+    "id": "fiendish-codex",
+    "name": "Fiendish Codex",
+    "price": 900,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/fiendish-codex/",
+    "status": "community"
+  },
+  {
+    "id": "fiendish-codex",
+    "name": "Fiendish Codex",
+    "price": 900,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/fiendish-codex/",
+    "status": "community"
+  },
+  {
+    "id": "force-of-nature",
+    "name": "Force of Nature",
+    "price": 2800,
+    "recipe": [
+      "ruby-crystal",
+      "negatron-cloak",
+      "winged-moonplate"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/force-of-nature/",
+    "status": "community"
+  },
+  {
+    "id": "giants-belt",
+    "name": "Giant&#x27;s Belt",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/giants-belt/",
+    "status": "community"
+  },
+  {
+    "id": "giants-belt",
+    "name": "Giant&#x27;s Belt",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/giants-belt/",
+    "status": "community"
+  },
+  {
+    "id": "giants-belt",
+    "name": "Giant&#x27;s Belt",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/giants-belt/",
+    "status": "community"
+  },
+  {
+    "id": "giants-belt",
+    "name": "Giant&#x27;s Belt",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/giants-belt/",
+    "status": "community"
+  },
+  {
+    "id": "guardian-angel",
+    "name": "Guardian Angel",
+    "price": 3200,
+    "recipe": [
+      "b-f-sword",
+      "chain-vest"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/guardian-angel/",
+    "status": "community"
+  },
+  {
+    "id": "gunmetal-greaves",
+    "name": "Gunmetal Greaves",
+    "price": 2200,
+    "recipe": [
+      "berserkers-greaves"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/gunmetal-greaves/",
+    "status": "community"
+  },
+  {
+    "id": "haunting-guise",
+    "name": "Haunting Guise",
+    "price": 1300,
+    "recipe": [
+      "amplifying-tome",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/haunting-guise/",
+    "status": "community"
+  },
+  {
+    "id": "haunting-guise",
+    "name": "Haunting Guise",
+    "price": 1300,
+    "recipe": [
+      "amplifying-tome",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/haunting-guise/",
+    "status": "community"
+  },
+  {
+    "id": "haunting-guise",
+    "name": "Haunting Guise",
+    "price": 1300,
+    "recipe": [
+      "amplifying-tome",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/haunting-guise/",
+    "status": "community"
+  },
+  {
+    "id": "heartsteel",
+    "name": "Heartsteel",
+    "price": 2800,
+    "recipe": [
+      "ruby-crystal",
+      "kindlegem",
+      "giants-belt"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/heartsteel/",
+    "status": "community"
+  },
+  {
+    "id": "hextech-alternator",
+    "name": "Hextech Alternator",
+    "price": 1100,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/hextech-alternator/",
+    "status": "community"
+  },
+  {
+    "id": "hextech-alternator",
+    "name": "Hextech Alternator",
+    "price": 1100,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/hextech-alternator/",
+    "status": "community"
+  },
+  {
+    "id": "hextech-alternator",
+    "name": "Hextech Alternator",
+    "price": 1100,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/hextech-alternator/",
+    "status": "community"
+  },
+  {
+    "id": "hextech-rocketbelt",
+    "name": "Hextech Rocketbelt",
+    "price": 2700,
+    "recipe": [
+      "amplifying-tome",
+      "hextech-alternator",
+      "kindlegem"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/hextech-rocketbelt/",
+    "status": "community"
+  },
+  {
+    "id": "infinity-edge",
+    "name": "Infinity Edge",
+    "price": 3400,
+    "recipe": [
+      "brawlers-gloves",
+      "b-f-sword",
+      "pickaxe"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/infinity-edge/",
+    "status": "community"
+  },
+  {
+    "id": "infinity-orb",
+    "name": "Infinity Orb",
+    "price": 3100,
+    "recipe": [
+      "needlessly-large-rod",
+      "hextech-alternator"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/infinity-orb/",
+    "status": "community"
+  },
+  {
+    "id": "ionian-boots-of-lucidity",
+    "name": "Ionian Boots of Lucidity",
+    "price": 1000,
+    "recipe": [
+      "ring-of-revelation",
+      "boots-of-speed"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ionian-boots-of-lucidity/",
+    "status": "community"
+  },
+  {
+    "id": "jaurims-fist",
+    "name": "Jaurim&#x27;s Fist",
+    "price": 1200,
+    "recipe": [
+      "long-sword",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/jaurims-fist/",
+    "status": "community"
+  },
+  {
+    "id": "kindlegem",
+    "name": "Kindlegem",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kindlegem/",
+    "status": "community"
+  },
+  {
+    "id": "kindlegem",
+    "name": "Kindlegem",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kindlegem/",
+    "status": "community"
+  },
+  {
+    "id": "kindlegem",
+    "name": "Kindlegem",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kindlegem/",
+    "status": "community"
+  },
+  {
+    "id": "kindlegem",
+    "name": "Kindlegem",
+    "price": 1000,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kindlegem/",
+    "status": "community"
+  },
+  {
+    "id": "kircheis-shard",
+    "name": "Kircheis Shard",
+    "price": 800,
+    "recipe": [
+      "dagger"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kircheis-shard/",
+    "status": "community"
+  },
+  {
+    "id": "kircheis-shard",
+    "name": "Kircheis Shard",
+    "price": 800,
+    "recipe": [
+      "dagger"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kircheis-shard/",
+    "status": "community"
+  },
+  {
+    "id": "kircheis-shard",
+    "name": "Kircheis Shard",
+    "price": 800,
+    "recipe": [
+      "dagger"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/kircheis-shard/",
+    "status": "community"
+  },
+  {
+    "id": "last-whisper",
+    "name": "Last Whisper",
+    "price": 1200,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/last-whisper/",
+    "status": "community"
+  },
+  {
+    "id": "liandrys-torment",
+    "name": "Liandry&#x27;s Torment",
+    "price": 3000,
+    "recipe": [
+      "haunting-guise",
+      "fated-ashes"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/liandrys-torment/",
+    "status": "community"
+  },
+  {
+    "id": "lich-bane",
+    "name": "Lich Bane",
+    "price": 2800,
+    "recipe": [
+      "amplifying-tome",
+      "aether-wisp",
+      "sheen"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/lich-bane/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/long-sword/",
+    "status": "community"
+  },
+  {
+    "id": "lost-chapter",
+    "name": "Lost Chapter",
+    "price": 1200,
+    "recipe": [
+      "amplifying-tome",
+      "ring-of-revelation"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/lost-chapter/",
+    "status": "community"
+  },
+  {
+    "id": "lost-chapter",
+    "name": "Lost Chapter",
+    "price": 1200,
+    "recipe": [
+      "amplifying-tome",
+      "ring-of-revelation"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/lost-chapter/",
+    "status": "community"
+  },
+  {
+    "id": "ludens-echo",
+    "name": "Luden&#x27;s Echo",
+    "price": 2800,
+    "recipe": [
+      "lost-chapter",
+      "hextech-alternator"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ludens-echo/",
+    "status": "community"
+  },
+  {
+    "id": "malignance",
+    "name": "Malignance",
+    "price": 2700,
+    "recipe": [
+      "blasting-wand",
+      "lost-chapter"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/malignance/",
+    "status": "community"
+  },
+  {
+    "id": "mercurys-treads",
+    "name": "Mercury&#x27;s Treads",
+    "price": 1200,
+    "recipe": [
+      "ruby-crystal",
+      "boots-of-speed"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/mercurys-treads/",
+    "status": "community"
+  },
+  {
+    "id": "morellonomicon",
+    "name": "Morellonomicon",
+    "price": 2650,
+    "recipe": [
+      "amplifying-tome",
+      "oblivion-orb",
+      "kindlegem"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/morellonomicon/",
+    "status": "community"
+  },
+  {
+    "id": "mortal-reminder",
+    "name": "Mortal Reminder",
+    "price": 3000,
+    "recipe": [
+      "brawlers-gloves",
+      "last-whisper",
+      "executioners-calling"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/mortal-reminder/",
+    "status": "community"
+  },
+  {
+    "id": "needlessly-large-rod",
+    "name": "Needlessly Large Rod",
+    "price": 1400,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/needlessly-large-rod/",
+    "status": "community"
+  },
+  {
+    "id": "needlessly-large-rod",
+    "name": "Needlessly Large Rod",
+    "price": 1400,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/needlessly-large-rod/",
+    "status": "community"
+  },
+  {
+    "id": "needlessly-large-rod",
+    "name": "Needlessly Large Rod",
+    "price": 1400,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/needlessly-large-rod/",
+    "status": "community"
+  },
+  {
+    "id": "negatron-cloak",
+    "name": "Negatron Cloak",
+    "price": 900,
+    "recipe": [
+      "null-magic-mantle"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/negatron-cloak/",
+    "status": "community"
+  },
+  {
+    "id": "negatron-cloak",
+    "name": "Negatron Cloak",
+    "price": 900,
+    "recipe": [
+      "null-magic-mantle"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/negatron-cloak/",
+    "status": "community"
+  },
+  {
+    "id": "null-magic-mantle",
+    "name": "Null-Magic Mantle",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/null-magic-mantle/",
+    "status": "community"
+  },
+  {
+    "id": "null-magic-mantle",
+    "name": "Null-Magic Mantle",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/null-magic-mantle/",
+    "status": "community"
+  },
+  {
+    "id": "null-magic-mantle",
+    "name": "Null-Magic Mantle",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/null-magic-mantle/",
+    "status": "community"
+  },
+  {
+    "id": "oblivion-orb",
+    "name": "Oblivion Orb",
+    "price": 900,
+    "recipe": [
+      "amplifying-tome"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/oblivion-orb/",
+    "status": "community"
+  },
+  {
+    "id": "oceanids-trident",
+    "name": "Oceanid&#x27;s Trident",
+    "price": 2600,
+    "recipe": [
+      "fiendish-codex",
+      "blasting-wand",
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/oceanids-trident/",
+    "status": "community"
+  },
+  {
+    "id": "pickaxe",
+    "name": "Pickaxe",
+    "price": 800,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/pickaxe/",
+    "status": "community"
+  },
+  {
+    "id": "pickaxe",
+    "name": "Pickaxe",
+    "price": 800,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/pickaxe/",
+    "status": "community"
+  },
+  {
+    "id": "plated-steelcaps",
+    "name": "Plated Steelcaps",
+    "price": 1200,
+    "recipe": [
+      "ruby-crystal",
+      "boots-of-speed"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/plated-steelcaps/",
+    "status": "community"
+  },
+  {
+    "id": "rabadons-deathcap",
+    "name": "Rabadon&#x27;s Deathcap",
+    "price": 3400,
+    "recipe": [
+      "needlessly-large-rod"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/rabadons-deathcap/",
+    "status": "community"
+  },
+  {
+    "id": "rapid-firecannon",
+    "name": "Rapid Firecannon",
+    "price": 2650,
+    "recipe": [
+      "zeal",
+      "kircheis-shard"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/rapid-firecannon/",
+    "status": "community"
+  },
+  {
+    "id": "relic-shield",
+    "name": "Relic Shield",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/relic-shield/",
+    "status": "community"
+  },
+  {
+    "id": "riftmaker",
+    "name": "Riftmaker",
+    "price": 3100,
+    "recipe": [
+      "fiendish-codex",
+      "haunting-guise"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/riftmaker/",
+    "status": "community"
+  },
+  {
+    "id": "ring-of-revelation",
+    "name": "Ring of Revelation",
+    "price": 300,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ring-of-revelation/",
+    "status": "community"
+  },
+  {
+    "id": "rod-of-ages",
+    "name": "Rod of Ages",
+    "price": 2700,
+    "recipe": [
+      "blasting-wand",
+      "catalyst-of-aeons"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/rod-of-ages/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "ruby-crystal",
+    "name": "Ruby Crystal",
+    "price": 500,
+    "recipe": [],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/ruby-crystal/",
+    "status": "community"
+  },
+  {
+    "id": "runaans-hurricane",
+    "name": "Runaan&#x27;s Hurricane",
+    "price": 2650,
+    "recipe": [
+      "zeal",
+      "kircheis-shard"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/runaans-hurricane/",
+    "status": "community"
+  },
+  {
+    "id": "rylais-crystal-scepter",
+    "name": "Rylai&#x27;s Crystal Scepter",
+    "price": 2700,
+    "recipe": [
+      "amplifying-tome",
+      "blasting-wand",
+      "giants-belt"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/rylais-crystal-scepter/",
+    "status": "community"
+  },
+  {
+    "id": "seekers-armguard",
+    "name": "Seeker&#x27;s Armguard",
+    "price": 1400,
+    "recipe": [
+      "amplifying-tome",
+      "cloth-armor"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/seekers-armguard/",
+    "status": "community"
+  },
+  {
+    "id": "sheen",
+    "name": "Sheen",
+    "price": 800,
+    "recipe": [
+      "ring-of-revelation"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/sheen/",
+    "status": "community"
+  },
+  {
+    "id": "spellslingers-shoes",
+    "name": "Spellslinger&#x27;s Shoes",
+    "price": 2200,
+    "recipe": [
+      "boots-of-mana"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/spellslingers-shoes/",
+    "status": "community"
+  },
+  {
+    "id": "sunfire-aegis",
+    "name": "Sunfire Aegis",
+    "price": 2900,
+    "recipe": [
+      "chain-vest",
+      "bamis-cinder"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/sunfire-aegis/",
+    "status": "community"
+  },
+  {
+    "id": "thornmail",
+    "name": "Thornmail",
+    "price": 2700,
+    "recipe": [
+      "chain-vest",
+      "bramble-vest"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/thornmail/",
+    "status": "community"
+  },
+  {
+    "id": "titanic-hydra",
+    "name": "Titanic Hydra",
+    "price": 3000,
+    "recipe": [
+      "pickaxe",
+      "ruby-crystal",
+      "jaurims-fist"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/titanic-hydra/",
+    "status": "community"
+  },
+  {
+    "id": "vampiric-scepter",
+    "name": "Vampiric Scepter",
+    "price": 1200,
+    "recipe": [
+      "long-sword"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/vampiric-scepter/",
+    "status": "community"
+  },
+  {
+    "id": "verdant-barrier",
+    "name": "Verdant Barrier",
+    "price": 1600,
+    "recipe": [
+      "amplifying-tome",
+      "null-magic-mantle"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/verdant-barrier/",
+    "status": "community"
+  },
+  {
+    "id": "warmogs-armor",
+    "name": "Warmog&#x27;s Armor",
+    "price": 2850,
+    "recipe": [
+      "kindlegem",
+      "giants-belt"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/warmogs-armor/",
+    "status": "community"
+  },
+  {
+    "id": "winged-moonplate",
+    "name": "Winged Moonplate",
+    "price": 900,
+    "recipe": [
+      "ruby-crystal"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/winged-moonplate/",
+    "status": "community"
+  },
+  {
+    "id": "yun-tal-wildarrows",
+    "name": "Yun Tal Wildarrows",
+    "price": 3100,
+    "recipe": [
+      "b-f-sword",
+      "kircheis-shard"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/yun-tal-wildarrows/",
+    "status": "community"
+  },
+  {
+    "id": "zeal",
+    "name": "Zeal",
+    "price": 1400,
+    "recipe": [
+      "brawlers-gloves",
+      "dagger"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/zeal/",
+    "status": "community"
+  },
+  {
+    "id": "zeal",
+    "name": "Zeal",
+    "price": 1400,
+    "recipe": [
+      "brawlers-gloves",
+      "dagger"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/zeal/",
+    "status": "community"
+  },
+  {
+    "id": "zhonyas-hourglass",
+    "name": "Zhonya&#x27;s Hourglass",
+    "price": 3300,
+    "recipe": [
+      "needlessly-large-rod",
+      "seekers-armguard"
+    ],
+    "stats": "",
+    "source": "https://www.wildriftmeta.com/items/zhonyas-hourglass/",
+    "status": "community"
+  }
+]

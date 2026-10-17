@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Retained acquisition evidence stays local; normalized facts/manifests are versioned.
+/lib/rift/data/*/sources/

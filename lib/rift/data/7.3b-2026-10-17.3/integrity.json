@@ -1,0 +1,745 @@
+{
+  "recordedAt": "2026-10-17T15:06:28.642Z",
+  "files": [
+    {
+      "file": "lib/rift/data/7.3b-2026-10-17.3/roster.json",
+      "sha256": "52ed0a6c5a2a0d62df4d774c736e99443446da75965e5911e1ba46568b66ea67",
+      "bytes": 40632
+    },
+    {
+      "file": "lib/rift/data/7.3b-2026-10-17.3/kits.json",
+      "sha256": "79644c34a2ac7c768d836a81524b244b0c3ecfdd6fffc560631a5bc447b93c8f",
+      "bytes": 38602
+    },
+    {
+      "file": "lib/rift/data/7.3b-2026-10-17.3/items.json",
+      "sha256": "4bc2ce9d59c839157980471a6411be4c0273816325a23eb93f8329de65a61120",
+      "bytes": 22215
+    },
+    {
+      "file": "lib/rift/data/7.3b-2026-10-17.3/rune-pages.json",
+      "sha256": "a23963cf6039aab2230b9eac36c50843768b53d083a8a37538dfb48e42f03a1a",
+      "bytes": 5161
+    },
+    {
+      "file": "lib/rift/data/7.3b-2026-10-17.3/manifest.json",
+      "sha256": "3881f26875b928ee0212b10a12fff8a9529c5526eda03e6ce3b5c340c1130653",
+      "bytes": 22048
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/aatrox.webp",
+      "sha256": "dacda7a775c1318c56f66736fb8878c22a6ca734b80dbb76cdef34f26da4e76c",
+      "bytes": 2426
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ahri.webp",
+      "sha256": "c79faa551fc5f57129c1aab57118003b53855557826de211b054d978520c1b85",
+      "bytes": 4250
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/akali.webp",
+      "sha256": "d872c6b44c4f74ac97e6b19878f90bb98e9bbe09328e458a110c1a817fbca11f",
+      "bytes": 2910
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/akshan.webp",
+      "sha256": "a44657f112d501ef0bc2ff681e80b099eafe2f76976d19b2d5c44216a49ad2f0",
+      "bytes": 4286
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/alistar.webp",
+      "sha256": "e667f7ac2bf9b2829fdf265446d4d55cf6a48eaff6cc99a0cde4bcfca0d981d8",
+      "bytes": 3072
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ambessa.webp",
+      "sha256": "f68cade1f3572f4bae6f3708188fb7249196546383f320f2d1e282a609712f47",
+      "bytes": 2738
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/amumu.webp",
+      "sha256": "dc30123ccc701d8a268600427c39ce3ac6c932f1369a22629efc16b1d73d5c9b",
+      "bytes": 3470
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/annie.webp",
+      "sha256": "754333d884eb1f82823c07e9637a38c5c1ca9f97fa7679e420527a84723248f6",
+      "bytes": 3902
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ashe.webp",
+      "sha256": "66c4aeb85fdb6b1484236b3b6dfbde2e378c12fff975b00c22c827c1a815d6c1",
+      "bytes": 3814
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/aurelion-sol.webp",
+      "sha256": "31975303e15449dbba353106ed52c6ce187310b3f402be2fa876b15b2a0dac58",
+      "bytes": 3628
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/aurora.webp",
+      "sha256": "e13cb4f5024f84333c6a825689d48c8abf9496b5361257f70e180e3e16370ceb",
+      "bytes": 4532
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/bard.webp",
+      "sha256": "84355f00b5447a66dae819e175e2a35acc21689f5df230fa223ffe463cbd3f3b",
+      "bytes": 3094
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/blitzcrank.webp",
+      "sha256": "a3ff4ddb77c13721e9efae8724560a5f91666238a2d36512e1d57320fef7be7e",
+      "bytes": 4652
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/brand.webp",
+      "sha256": "0b390573ee36d72960b663ccd328556880267a409d8dd09ea2c6d183af422bf7",
+      "bytes": 4084
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/braum.webp",
+      "sha256": "9bc21e2f9e684fb6763ad7ded846b77341d6731cf6427f22678a6840899c59cd",
+      "bytes": 3534
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/caitlyn.webp",
+      "sha256": "24326abf5a61405247dfa407d6c7fbdfa590ffa45cdc3fb12b2c79d8b30e7b43",
+      "bytes": 3822
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/camille.webp",
+      "sha256": "6bfa698520bbc7dedae455934e5aa36aba8ab35993bb8c4fd36e69e104e4cc0d",
+      "bytes": 2542
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/chogath.webp",
+      "sha256": "5134bc502d2a16a6a09f09f2d2890ce0e7748125e93a91ecf88582b756a254ac",
+      "bytes": 3194
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/corki.webp",
+      "sha256": "c621dec050cabb1476e07edfb0cdb2930afa38aa12961d775df95eefc31bfe6b",
+      "bytes": 3054
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/darius.webp",
+      "sha256": "d73ca6b22324b2d1ce13816650314bcb52a1f6947431c7f77175ec239d0b61d6",
+      "bytes": 3574
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/diana.webp",
+      "sha256": "814768c6a1f37354caa40e5761aeab6904762acaf5886155e104f6935b23b751",
+      "bytes": 3374
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/dr-mundo.webp",
+      "sha256": "df36dfee1846d3c7ecd4fcce5f4f2c1acae70892959136821d73385a47de608b",
+      "bytes": 3052
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/draven.webp",
+      "sha256": "ed540ce2c12288e821b6c5cc227fecaf463fab52c76e808936985ff3d1b8c6a6",
+      "bytes": 2496
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ekko.webp",
+      "sha256": "2c7dc348065eeda34956813442a1f589a2d62db5b4f7aef4150c064f2afd53ad",
+      "bytes": 3542
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/evelynn.webp",
+      "sha256": "557b5b579bb2e29972c4883bf5b2785edd836f3d9c6e57bab95261979fec4bcc",
+      "bytes": 2882
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ezreal.webp",
+      "sha256": "786d5d3561202057f4ac381161893d1fd300b1e6cbcecf280e19f5e037a2718a",
+      "bytes": 3894
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/fiddlesticks.webp",
+      "sha256": "4834bb2c9cf22c030e96da0a8a60dac194d30893bd83665dc5ba65e844438e1d",
+      "bytes": 3120
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/fiora.webp",
+      "sha256": "d9ccba64570d82abbd809dc70ecd427482cefbf877314acf18f736f73e44763b",
+      "bytes": 3906
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/fizz.webp",
+      "sha256": "6f1bedbcf723c4fca3a2f7d18df242f16b36f4bdd2aed11c9da42a73a46e6000",
+      "bytes": 4224
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/galio.webp",
+      "sha256": "b311722caac7b4d1acae745706e2d7a8cac0dc9ca6e31e7abcba574837fc6aba",
+      "bytes": 3708
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/garen.webp",
+      "sha256": "331e9a63f4f0c76e70d519f1311ee07dfed102f51584ca6f4abec40b374cce79",
+      "bytes": 4892
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/gnar.webp",
+      "sha256": "df82e544bf4a7fb54b40e49419d1bf01182d4e6a9029d134abd67d3e233fe237",
+      "bytes": 3106
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/gragas.webp",
+      "sha256": "e8dd1ece5b7d4770369f754eec0bed7cfe4f1e3dcfc511e04716d12196d65b2c",
+      "bytes": 3012
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/graves.webp",
+      "sha256": "44dc9f8178e63d23f4922a837f7b27cd9f7b45f3511946c3b76a7c3c0533a408",
+      "bytes": 3490
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/gwen.webp",
+      "sha256": "7ed8f9d330fabf3edc32ffe0e8c69f0ec3b27694cf515d7503bc3e89c9f58800",
+      "bytes": 3618
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/hecarim.webp",
+      "sha256": "a92151f2e9357808a093b58abc949a7c3ff39eb57b20c7071b0708f9e2d4a4ef",
+      "bytes": 3258
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/heimerdinger.webp",
+      "sha256": "4985ce8b00c1ae199a1fd98ee99eb06f5b316b319e8d82da6c35e92957baca07",
+      "bytes": 4754
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/hwei.webp",
+      "sha256": "05fc91636a066a9c203b30c9808a61112e2bb3b25296b92953196a8d7d6aa828",
+      "bytes": 2822
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/irelia.webp",
+      "sha256": "afe38fe1d8dbb9c115f194f9796e843854320ed173e1db8797631673a310b49f",
+      "bytes": 3690
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/janna.webp",
+      "sha256": "2914ea7a77fb2132d5450430a85645912a4cab9c2021f063109ed046afae15b0",
+      "bytes": 4412
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/jarvan-iv.webp",
+      "sha256": "d7ce3eabc66194b3a0c46bdcde1755d55897b60e42af85736d2a0dc357442588",
+      "bytes": 4022
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/jax.webp",
+      "sha256": "11973da8092888bf1c7e598fd36bb5377df1cb7800d0777290cac5769884dc2e",
+      "bytes": 2650
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/jayce.webp",
+      "sha256": "3fe3c92cc679e9a28e0fc6de3b0cb5f99e2efe97ba831709d35d782562d6ad5b",
+      "bytes": 3438
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/jhin.webp",
+      "sha256": "25787ccde8ba7c8a8c1d582f047880c33765b01ce25a7b55c556d7f2e62ace96",
+      "bytes": 3144
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/jinx.webp",
+      "sha256": "9ada377a77567716635322b75498ad93fbb68f82f146db5c1064a746a6d44371",
+      "bytes": 3796
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ksante.webp",
+      "sha256": "a959d6e7627e3567f7f82e6fa554ad33f76038922739a95a8ff3741c595b3d4b",
+      "bytes": 3174
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kaisa.webp",
+      "sha256": "237dddf00a887b3338083d8dc48b8a3690e8d675460bbd4d553fe9eed652c4f0",
+      "bytes": 2708
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kalista.webp",
+      "sha256": "3cbc0c1014f553926151584e82b35c56d8ccb5465763e17f60f68722a7ba41e4",
+      "bytes": 3206
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/karma.webp",
+      "sha256": "5b6078966116986b66ec485e8195467aa889877d51a8741daa07be8c9c8b5603",
+      "bytes": 3790
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kassadin.webp",
+      "sha256": "eb444e36b2a73fa43fc8a665ce30e148aa608b06b99b40cce18c6929f9b341b9",
+      "bytes": 3458
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/katarina.webp",
+      "sha256": "ae87a157ea29330fe86eb20ad864b46099a36efc3297b571c35a15ec67eacea0",
+      "bytes": 3706
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kayle.webp",
+      "sha256": "52e57d27349c96eaf4c40d6bdcb20b943fd80658d99e37c9ea4db474377e7a60",
+      "bytes": 3542
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kayn.webp",
+      "sha256": "424d98124181bb5c242a739be17294ac40e591e9fd3722c2c8a7f5f3e328c2d5",
+      "bytes": 2772
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kennen.webp",
+      "sha256": "73a7e5e09546955074034d077f61a5e66c7473b6afe419b16a4c756023cc93ba",
+      "bytes": 3334
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/khazix.webp",
+      "sha256": "3147c083276c78f7a52aeab05841291bc3db074979d505212b96e5e28fe7fd05",
+      "bytes": 2842
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kindred.webp",
+      "sha256": "ddab3ea2f7e58a7e2aada21511d796b1f43dfcdd7dbe05e02cbed2715a15febd",
+      "bytes": 2758
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/kogmaw.webp",
+      "sha256": "4a877693af75ca8581daa524c753ee7a4a2f7c6164a43886656f8d86e97d6c05",
+      "bytes": 2398
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lee-sin.webp",
+      "sha256": "b8d697675c82c301af154a873bd6aa178888d608a5dd652930255a88262cd580",
+      "bytes": 3328
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/leona.webp",
+      "sha256": "a9f654faa66bb48da9145a27bdfbbf13995ea698fdd780866f0623a76d498d7c",
+      "bytes": 3852
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lillia.webp",
+      "sha256": "92d03d76d7ed86e8b7d6b3d41811990518e5bd53c9ed20e32b37a23551cb08fd",
+      "bytes": 3392
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lissandra.webp",
+      "sha256": "e796802392a2cc8558193bb0ebd2446c3c9222506219ffd78ff61f6afed52829",
+      "bytes": 3092
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lucian.webp",
+      "sha256": "af01a0227eef79a8efefc3d0bcf92c961b37302d8e41fda2afec2ac9646ef154",
+      "bytes": 2134
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lulu.webp",
+      "sha256": "b9cbfe4ea7a280d96592c3c8651a2fceec20df651e901d3faaaf4d49d2e5863c",
+      "bytes": 4108
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/lux.webp",
+      "sha256": "cd8b48331b892c9ce4ba869cf58bd8c3caf12ec01475da747009f2b174af1a96",
+      "bytes": 4326
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/malphite.webp",
+      "sha256": "deb6c9c1e6f183e788a0bbed06aeca20347bb605f99f658fb354b6006062dce1",
+      "bytes": 3018
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/maokai.webp",
+      "sha256": "f463545eb44f22fc48410e82769e7ea9944e32e543537945273b7737d0ddc737",
+      "bytes": 3574
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/master-yi.webp",
+      "sha256": "4735a13484452d44604c4e71f4082c00e892222928e2401b8ccd57acb119db84",
+      "bytes": 4188
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/mel.webp",
+      "sha256": "88ddf17da1fdea4a065792566cc9e2b325bb1b5ba30e7fbb587c3d8c32bbf1f1",
+      "bytes": 3412
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/milio.webp",
+      "sha256": "449581be77d02560d938b4d80663b5c3505c33ad6f0fd5b75d20085f19c9c680",
+      "bytes": 4764
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/miss-fortune.webp",
+      "sha256": "41551ece026aa76f8125129ac1d8c0d3d4ef06b06686a7994732ad8d0c71625f",
+      "bytes": 4104
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/mordekaiser.webp",
+      "sha256": "65611edb27ade02d36b3c6f49d636420ff2d85addbc780b3957c00e8b79cc9f0",
+      "bytes": 2006
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/morgana.webp",
+      "sha256": "99e316bb8ab571fdeec35aeacaadf351c231802b7e92d4e850d154b6b24cef40",
+      "bytes": 3250
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nami.webp",
+      "sha256": "d2d3997f14a8e511266aaabe4594f565499ae25614220d2f8ec11701448eca75",
+      "bytes": 4394
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nasus.webp",
+      "sha256": "5db8675cba1c7d0ca9dfa69047b228837bfcbb6d61778681f2d30df5b2cc65eb",
+      "bytes": 4650
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nautilus.webp",
+      "sha256": "f995ba1f4334bd8e87662da6c8fbbd494f97ec5e4f63fd82aedc2b63a88696ff",
+      "bytes": 2868
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nidalee.webp",
+      "sha256": "3ac2910cbb99646f0460140a1230391f76cb3bcc88be20669c251557a2d3d21d",
+      "bytes": 3116
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nilah.webp",
+      "sha256": "2a61501bd5e8d8488f61e454197d4b4b8a321692022ba2b0731bf9b08d7341f4",
+      "bytes": 4400
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nocturne.webp",
+      "sha256": "3779127770e726c62848fb1028cfbf5cbe8e0289865a7ba6858800878e363c4b",
+      "bytes": 2400
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/norra.webp",
+      "sha256": "c637452660b81c8b291c8b2463ebdba9b3f7b438b32d7aedd7674eaf8ac20376",
+      "bytes": 4716
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/nunu-and-willump.webp",
+      "sha256": "e35b05aeb328a7a4500d9b4c6a537f3559ab26dbd4095d0556b01c9e821282d1",
+      "bytes": 3704
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/olaf.webp",
+      "sha256": "09ff8b4b093fdf17bde9ba995880a2b0b956b433a666fb42b6dfa406452b6c00",
+      "bytes": 3928
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/orianna.webp",
+      "sha256": "3fc9a4e896833bca2b629ea612ccf083119493b7f29ceb9e2fd60e2408093636",
+      "bytes": 3202
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ornn.webp",
+      "sha256": "b8932f56f7bc1e6cff083cd142b643eb2e0f3f40d53cdf87798ccb4e79e3f3af",
+      "bytes": 2928
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/pantheon.webp",
+      "sha256": "7af9eef889a6dcb8bab186541eebbb25cb44285103b76a6aca83dd67a494e9c1",
+      "bytes": 2848
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/poppy.webp",
+      "sha256": "0c2f8c4873cb9001b9418fec9a865da420a438c726918b9e263e1ff03bb0f832",
+      "bytes": 3914
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/pyke.webp",
+      "sha256": "880bb8a5ba96ab789584c2f7ca66be23b9e386fc91f32837547b2142949af59e",
+      "bytes": 3958
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/rakan.webp",
+      "sha256": "7367720823c78773feb93e9c49ce13493e3d311c7388a3e6714d8091484b3d2b",
+      "bytes": 2948
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/rammus.webp",
+      "sha256": "8b6a490ce434f35ec109136dd00ea7ee88ba51136b0957779449015dedcf3996",
+      "bytes": 3126
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/rell.webp",
+      "sha256": "aa7d3bbd1f706df34a3a30ad2de56d78181edf99cef9a016673a0ed9e188eba3",
+      "bytes": 3250
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/renekton.webp",
+      "sha256": "71ed53be23f84d1114de8e74a9b5f203e7ff18f59c87ff901ea19b5d318c38c8",
+      "bytes": 4578
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/rengar.webp",
+      "sha256": "4149353851a34e99df271c98803c563cbdb35632153b0a572dfe6b4e8767522f",
+      "bytes": 4142
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/riven.webp",
+      "sha256": "2a5828b7acbb93764c837505f1c759bc893be32cd44668d7da51dd75c74e99fc",
+      "bytes": 4156
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/rumble.webp",
+      "sha256": "991ad317bbb5be920fb8df739e1b3395127685f2fb61c509a2a89f63a7a6aa54",
+      "bytes": 4778
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ryze.webp",
+      "sha256": "097290256a574f02d25c50f3f8087b1f833e07f15129a889f9c4a607731dd5ed",
+      "bytes": 2924
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/samira.webp",
+      "sha256": "37ce8114fbbe7174ea524f25a4aca988fb2e023d3a8513a80f6131fb837d5293",
+      "bytes": 3312
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/senna.webp",
+      "sha256": "981cd8e7bab46582943fc63155d8dae9b159e7c3f4da962ef8ed3c131d52b565",
+      "bytes": 2820
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/seraphine.webp",
+      "sha256": "f96b4ca2b8537d41bc38022c30e5930573bb33ca1f240564dc0f599035556b7a",
+      "bytes": 4086
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/sett.webp",
+      "sha256": "1674bbf245f91edb7a2f2fff7f2827cec412e4880795f61d225c3df98060b1e4",
+      "bytes": 2792
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/shen.webp",
+      "sha256": "0a425bbbe1489d60f097ac4e8868c7f6f78ea6de388dd2f2064995b5953f0c25",
+      "bytes": 3136
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/shyvana.webp",
+      "sha256": "9652aedd29d99b7d302d6ee0c121faaeff89e7e4e3715a910e0e8cba0f1f8606",
+      "bytes": 2934
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/singed.webp",
+      "sha256": "a380e3b47edbc4fe664f8f26e69fcddfc2424df0001123120eb5a3d3337e1197",
+      "bytes": 3796
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/sion.webp",
+      "sha256": "c046c0a2aa66bfd2d29a60959b9dbb887022411b5e2d0884ec0be82cc018401a",
+      "bytes": 3202
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/sivir.webp",
+      "sha256": "3a558c00776bf90a589f72ed34ed5ee1c2f1278f1e25f3a6613c86e6af2043de",
+      "bytes": 3074
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/skarner.webp",
+      "sha256": "d98c99172b685412283bb94b5cf3e2db68f4458874c55530fa66cdb5b2d17d21",
+      "bytes": 2840
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/smolder.webp",
+      "sha256": "492c83c011f670ed211e2184d1893563f4b5ac7e90bc67740e202a3bbd46900c",
+      "bytes": 4082
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/sona.webp",
+      "sha256": "e54da46680d3ab5217b97d854283c96c6ecb38e55afc0cde5cb7eec3a12a9881",
+      "bytes": 4266
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/soraka.webp",
+      "sha256": "fe34457de80732c5d6726b8eaf15fad6f6078f48aa0bf77225223b367e41b868",
+      "bytes": 4168
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/swain.webp",
+      "sha256": "5ef1d8efb66894fa53be6587d854931ea84cd99754c1e996ccfac3634e277694",
+      "bytes": 2670
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/syndra.webp",
+      "sha256": "c38b47e43b820b3569f15b1ab7a0b046c5b9af957a8b3e101bbab577f4f73662",
+      "bytes": 3282
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/taliyah.webp",
+      "sha256": "7be4ed07eebc1bc816c503b25bd7111e96d5e9b488cb9296464f018c5e7dd113",
+      "bytes": 3370
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/talon.webp",
+      "sha256": "918f72b78493896722ca0beb13a992e7195030e837d7cf819b748291d193926a",
+      "bytes": 3770
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/teemo.webp",
+      "sha256": "d331571788164739e6a6be880cd2328469ba95f916e5ad854dd307ef750522ca",
+      "bytes": 4094
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/thresh.webp",
+      "sha256": "0c73682bed6cec88d21fdc06bb6317f18c06096852a40edfae128f6afc770584",
+      "bytes": 3574
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/tristana.webp",
+      "sha256": "09f75aa76939836b50a82a3bd021ca300f82b3c8e3b57db4fe64b7d0d53691ba",
+      "bytes": 2884
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/tryndamere.webp",
+      "sha256": "298d63c20dc4e807e08d7546c4ec878b7237d8d76eeac9727794f695a7b7a9d2",
+      "bytes": 4244
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/twisted-fate.webp",
+      "sha256": "bdb8a23c91f23b6bd7cee077d9b549e107ab584d28b391f1497f3e04774c7b42",
+      "bytes": 2728
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/twitch.webp",
+      "sha256": "26243316a991f77648ae46d0c0d0f1c1e2aed714479954d580390ca7d6b1eee4",
+      "bytes": 3498
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/urgot.webp",
+      "sha256": "2d983598447d14a6668b44d7239a4df5cb393087f5b877b43c51f8acc380d350",
+      "bytes": 1934
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/varus.webp",
+      "sha256": "d91e913d9ddfca3236969ba24381c49c035007efc5711c99d73a171ecd35c3cd",
+      "bytes": 3584
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/vayne.webp",
+      "sha256": "e2f40976366aba7de397635df2589bfaad9f3f34a65866da5dce68136c8633b9",
+      "bytes": 4380
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/veigar.webp",
+      "sha256": "20fd0c856375be9b8719e862ddea7cc4c0c2b618e385324490531a18f4cb171c",
+      "bytes": 3712
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/velkoz.webp",
+      "sha256": "8a343b9e9dba0d59dc8f81c4c4e39429446d5359f079f0b18927dc0e5ebd8ab0",
+      "bytes": 2752
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/vex.webp",
+      "sha256": "cd23b8fcb5edec954f910dae3b35aca2ca71325e913033bb08b86df4e22bec89",
+      "bytes": 3168
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/vi.webp",
+      "sha256": "1f556acf4d7c2c57ac9a8a38c05bc54d380bc9074af9d7ee5f9caa1c2824de17",
+      "bytes": 4194
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/viego.webp",
+      "sha256": "e5af53b08b838a9545c8d110872b91d18bb40797bb92e982606705647ffdb037",
+      "bytes": 4428
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/viktor.webp",
+      "sha256": "adfb7d90045d05d38252615af7bfb35fa0a606f2f30a6c4098c084a9ed16b331",
+      "bytes": 3996
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/vladimir.webp",
+      "sha256": "dbe0ed1ad128d24926dd5f67abe0d789c3d23dcfd8d75ff2d31f7616aee4e7c1",
+      "bytes": 3690
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/volibear.webp",
+      "sha256": "34a75a6d56b6cac03db8ae4c9363d8f0b90e9c60841683627226eb867034e092",
+      "bytes": 3630
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/warwick.webp",
+      "sha256": "1af026d2ed1e45dfc74dc79ca5c9569dfc87f6176cb2c78eb34251f5de4cc548",
+      "bytes": 3520
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/wukong.webp",
+      "sha256": "686be88ff4323125a6a950941db7e17ade8eefdfadbb20fc1971dbdb6e775d02",
+      "bytes": 3810
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/xayah.webp",
+      "sha256": "88137af64aa4cefacc73f7193dc3be39fb3ca12bbfe08e4d28acc368bda66066",
+      "bytes": 3274
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/xin-zhao.webp",
+      "sha256": "515067dbd96ff3fe531636bb364873d1fba6f97201474c44b1eb24dde1782cca",
+      "bytes": 4538
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/yasuo.webp",
+      "sha256": "f38f4aa5ec9191bfc880a459e70960b70b43ca7fcfbaf8058544f113a1ce8c11",
+      "bytes": 4350
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/yone.webp",
+      "sha256": "fd3aff8ec4a44ae0dfe7cac715a64994f592beda7ab028baeec040b3fed73298",
+      "bytes": 3324
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/yunara.webp",
+      "sha256": "6b355f520d30af504cf8fa334de88676a43665566d6be5c9035e4c9adb491ca9",
+      "bytes": 4304
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/yuumi.webp",
+      "sha256": "281002c7246d34e553eb0e41c010535cd2f2d20945cd54acd85de9370e526451",
+      "bytes": 4084
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/zed.webp",
+      "sha256": "130de9743be1f5360ab285f8384d4ccd213caf7ce0a320a4f4c0438558a4b506",
+      "bytes": 4214
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/zeri.webp",
+      "sha256": "67f63c4675a2bf66e68e6c7e1f96602ec9b44e23e4a45863ee064e0e5959b004",
+      "bytes": 3720
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/ziggs.webp",
+      "sha256": "8830f199df4e65d3709eb4d4e01fd52e85eb9419b04f37b9ead175cffc33d0c0",
+      "bytes": 3650
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/zilean.webp",
+      "sha256": "ea1c5de9d3a8202cd0aaf2b99d871c1d95270559a3cf443c5dd72c794f62dae2",
+      "bytes": 4070
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/zoe.webp",
+      "sha256": "3346b049cb8dc8be206e3ad107c57e403420cb17da14682d834810b5a6f03162",
+      "bytes": 4260
+    },
+    {
+      "file": "public/rift/assets/7.3b-2026-10-17.2/zyra.webp",
+      "sha256": "02f5bbddf1b1c3fc08f3699b78366ed3dd294a49e1641588875808c2460e7d78",
+      "bytes": 3602
+    },
+    {
+      "file": "lib/rift/data/7.3b-official-review-1.json",
+      "sha256": "fca6a781077c43058dd6620fc5cd5d9911a6cd02de3f31eea86950fccddfb1bf",
+      "bytes": 553
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "id": "7.3b-2026-10-17.3",
+  "derivedFrom": "7.3b-2026-10-17.2",
+  "game": "Wild Rift",
+  "patch": "7.3b",
+  "finalizedAt": "2026-10-17T15:01:49.036Z",
+  "status": "partial-verification",
+  "correction": "Previous extraction omitted stats because of nested divs after headings. Re-fetched all 77 distinct item pages, retained original HTML/HTTP receipts and required nonempty stats. Prices and recipes inherited from prior snapshot; prior sources retained. Roster, kits, rune pages and cached portraits inherited without new retrieval claims.",
+  "items": 77,
+  "receipts": [
+    {
+      "url": "https://www.wildriftmeta.com/items/b-f-sword/",
+      "retrievedAt": "2026-10-17T15:01:46.862Z",
+      "sha256": "9dd6cd76dd3e59de2f67210056df08b4c300ccc3743026ae944afb78803956b7",
+      "bytes": 23645,
+      "file": "sources/b-f-sword.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/aether-wisp/",
+      "retrievedAt": "2026-10-17T15:01:47.051Z",
+      "sha256": "e6fa98aa0efb23f80e1036a9f928a2cbf97033fb9892cf31b4850499376c12e6",
+      "bytes": 23649,
+      "file": "sources/aether-wisp.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/bamis-cinder/",
+      "retrievedAt": "2026-10-17T15:01:47.061Z",
+      "sha256": "472818ea858741dd717eee4d593f0d9a238d5033194ac4e2c9d5e7d4f2b90ffc",
+      "bytes": 24176,
+      "file": "sources/bamis-cinder.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/amaranths-twinguard/",
+      "retrievedAt": "2026-10-17T15:01:47.068Z",
+      "sha256": "bd72d79dc1ab06b19b61b3ef103af738107c5d31b562acad09bfb5432e5d6977",
+      "bytes": 24846,
+      "file": "sources/amaranths-twinguard.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/amplifying-tome/",
+      "retrievedAt": "2026-10-17T15:01:47.071Z",
+      "sha256": "57bcc2fdfe2416b98ae2ece64100ec909395707face0c0ef40249cd51434783c",
+      "bytes": 23608,
+      "file": "sources/amplifying-tome.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/armored-advance/",
+      "retrievedAt": "2026-10-17T15:01:47.089Z",
+      "sha256": "2c041d2767731023c322f7b8f28c56231b8414699098f9645de3bedce64bc2ea",
+      "bytes": 23976,
+      "file": "sources/armored-advance.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/banshees-veil/",
+      "retrievedAt": "2026-10-17T15:01:47.208Z",
+      "sha256": "111ddcb6894d28a4f6839a4fed65ee3a2533c8ff8c3bb69002fb265e61c1094f",
+      "bytes": 24075,
+      "file": "sources/banshees-veil.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/bloodletters-curse/",
+      "retrievedAt": "2026-10-17T15:01:47.220Z",
+      "sha256": "fb28b0dce5a9ee5956409ce8d376fb03f77e24cc25b37fa16c89f7ada0e48fff",
+      "bytes": 24387,
+      "file": "sources/bloodletters-curse.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/boots-of-mana/",
+      "retrievedAt": "2026-10-17T15:01:47.224Z",
+      "sha256": "33fc8b184cd63406143b30258daff3f2cfe34f59bfc66019eab7e3a8177d1787",
+      "bytes": 24224,
+      "file": "sources/boots-of-mana.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/berserkers-greaves/",
+      "retrievedAt": "2026-10-17T15:01:47.228Z",
+      "sha256": "c19339943fdfcb8437df83caf0cfbb874675f9025c040508c6dbf1d013ccc0a2",
+      "bytes": 24257,
+      "file": "sources/berserkers-greaves.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/bloodthirster/",
+      "retrievedAt": "2026-10-17T15:01:47.229Z",
+      "sha256": "b3b3cccf571c5fd26526902d2714de2cfa1bdf449fb51a649902e1613c53b984",
+      "bytes": 24132,
+      "file": "sources/bloodthirster.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/blasting-wand/",
+      "retrievedAt": "2026-10-17T15:01:47.242Z",
+      "sha256": "9e8a9c1989bd46ca982a5d2bdc04a4f43857c1baf3eeeb9aae192f51aad45872",
+      "bytes": 23745,
+      "file": "sources/blasting-wand.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/boots-of-speed/",
+      "retrievedAt": "2026-10-17T15:01:47.378Z",
+      "sha256": "f0a5ca11c666abd87756a4c43e9c300bbc808d7cc763ebf325240b4ab6b3aade",
+      "bytes": 23504,
+      "file": "sources/boots-of-speed.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/chainlaced-crushers/",
+      "retrievedAt": "2026-10-17T15:01:47.378Z",
+      "sha256": "0450662b11596d38d8a2da64511421b821e5c01d136ecd7fc0759099c3096d84",
+      "bytes": 24082,
+      "file": "sources/chainlaced-crushers.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/brawlers-gloves/",
+      "retrievedAt": "2026-10-17T15:01:47.386Z",
+      "sha256": "b2f9820fdaf1ad9ecda7fb69544466ea29f1da767d1167b90cdf35b5330c6a62",
+      "bytes": 23622,
+      "file": "sources/brawlers-gloves.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/bramble-vest/",
+      "retrievedAt": "2026-10-17T15:01:47.387Z",
+      "sha256": "1c5c3e374d55294bb761ceabe0a6559419738d4d184a302f7f65046785b92489",
+      "bytes": 23887,
+      "file": "sources/bramble-vest.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/catalyst-of-aeons/",
+      "retrievedAt": "2026-10-17T15:01:47.390Z",
+      "sha256": "2995f6abd7c36178de0df4bdc46ad897720916cce7b9409a48dc451e44a368c7",
+      "bytes": 23933,
+      "file": "sources/catalyst-of-aeons.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/chain-vest/",
+      "retrievedAt": "2026-10-17T15:01:47.391Z",
+      "sha256": "b5fb93cc37dd83730bc993f78819779d55b90d62352de1bb41a2e55435e63d8f",
+      "bytes": 23639,
+      "file": "sources/chain-vest.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/cloth-armor/",
+      "retrievedAt": "2026-10-17T15:01:47.534Z",
+      "sha256": "e45f5b3b7a493e0f1e94e2a72e915c4272f69f7a5f39123d247492935d24b35c",
+      "bytes": 23486,
+      "file": "sources/cloth-armor.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/crimson-lucidity/",
+      "retrievedAt": "2026-10-17T15:01:47.536Z",
+      "sha256": "8226efcc6ef2d8395e803920e9554371f5fba0808f73be1cfaa218bb8b72d683",
+      "bytes": 24117,
+      "file": "sources/crimson-lucidity.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/fiendish-codex/",
+      "retrievedAt": "2026-10-17T15:01:47.535Z",
+      "sha256": "ce0573134003c98875c6a43ac90dc031b42a4a6ee840cc84fead4bf2eebd7c25",
+      "bytes": 23741,
+      "file": "sources/fiendish-codex.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/dagger/",
+      "retrievedAt": "2026-10-17T15:01:47.542Z",
+      "sha256": "c7282f77fd15812244f6970d5b0674ec43fe65f1fda7c23cbca0eff61c6c6e41",
+      "bytes": 23347,
+      "file": "sources/dagger.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/fated-ashes/",
+      "retrievedAt": "2026-10-17T15:01:47.544Z",
+      "sha256": "deb84dfa8032c591910e289a413ff9b3ec39bd920dcd30b15296e3609cfe22e9",
+      "bytes": 23611,
+      "file": "sources/fated-ashes.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/executioners-calling/",
+      "retrievedAt": "2026-10-17T15:01:47.544Z",
+      "sha256": "342a3dbcb3004fafd12e4bd934fce69a0b46f1e5c9fdf7f5864368acb9fcf576",
+      "bytes": 24120,
+      "file": "sources/executioners-calling.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/heartsteel/",
+      "retrievedAt": "2026-10-17T15:01:47.662Z",
+      "sha256": "80352410ad2a4b3698177d175341670be1c9680b38bc2830502ac8885a8f70aa",
+      "bytes": 24629,
+      "file": "sources/heartsteel.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/guardian-angel/",
+      "retrievedAt": "2026-10-17T15:01:47.662Z",
+      "sha256": "8266ca750030baf6c5dd7d28d77041ac4647212b91e68aa1124afd6f1a3423b9",
+      "bytes": 24189,
+      "file": "sources/guardian-angel.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/force-of-nature/",
+      "retrievedAt": "2026-10-17T15:01:47.677Z",
+      "sha256": "e2ce8e20c5e00b914303bde7e8f2a43360cb02c8d6ec127f72c3d631fde3c2ee",
+      "bytes": 24672,
+      "file": "sources/force-of-nature.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/giants-belt/",
+      "retrievedAt": "2026-10-17T15:01:47.677Z",
+      "sha256": "a62594dd127b2d297378246d45f112df624bb24675da1da01c76d9d2137a7b78",
+      "bytes": 23663,
+      "file": "sources/giants-belt.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/haunting-guise/",
+      "retrievedAt": "2026-10-17T15:01:47.684Z",
+      "sha256": "160ba544192cc105f12ead7e2cc4f25bcba542214886176dc1b15bf5b3502e4a",
+      "bytes": 24148,
+      "file": "sources/haunting-guise.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/gunmetal-greaves/",
+      "retrievedAt": "2026-10-17T15:01:47.691Z",
+      "sha256": "3e65b0ed538742282bdd25d0d63a12b400d81c6971d97d76a4f0db479e6d4143",
+      "bytes": 23980,
+      "file": "sources/gunmetal-greaves.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/hextech-alternator/",
+      "retrievedAt": "2026-10-17T15:01:47.807Z",
+      "sha256": "c4140bec9d69ed1ef7fe6e9b29e7b090f03b64cf4e5e3abfcff9f85f31ad653f",
+      "bytes": 23947,
+      "file": "sources/hextech-alternator.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/hextech-rocketbelt/",
+      "retrievedAt": "2026-10-17T15:01:47.813Z",
+      "sha256": "8eef64ce895b1f52b5041512e45240f25b0c5f1d0e92a041d661f7b3a269ba05",
+      "bytes": 24792,
+      "file": "sources/hextech-rocketbelt.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/jaurims-fist/",
+      "retrievedAt": "2026-10-17T15:01:47.818Z",
+      "sha256": "e7efde4175b9313f7dfe96032270f6ff7103aa98fd122070a0a0bc02074bc3ed",
+      "bytes": 24065,
+      "file": "sources/jaurims-fist.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/ionian-boots-of-lucidity/",
+      "retrievedAt": "2026-10-17T15:01:47.830Z",
+      "sha256": "2f2c91fffa1c9a98668e03ae551358fa5a19b7c94fb57acc27054de60da24636",
+      "bytes": 24480,
+      "file": "sources/ionian-boots-of-lucidity.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/infinity-edge/",
+      "retrievedAt": "2026-10-17T15:01:47.832Z",
+      "sha256": "f22439cd410dfd42edc44e0dd777e70f1dd43732718beabcf6ccff9cffc5b58f",
+      "bytes": 24350,
+      "file": "sources/infinity-edge.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/infinity-orb/",
+      "retrievedAt": "2026-10-17T15:01:47.835Z",
+      "sha256": "6f9eab8076ad2e45b5976d656be3721a6d1899d11ef53ef087e6541db7cd1bc6",
+      "bytes": 24202,
+      "file": "sources/infinity-orb.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/long-sword/",
+      "retrievedAt": "2026-10-17T15:01:47.964Z",
+      "sha256": "3a5e4fd35ad74939ae4a20238753cb98d6cdeebbccc47b16ec12292f44a9c6aa",
+      "bytes": 23467,
+      "file": "sources/long-sword.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/kindlegem/",
+      "retrievedAt": "2026-10-17T15:01:47.972Z",
+      "sha256": "e3d30a41e3ecd5e59b88e43974dd6f3572f056be91b81efb0cda8701dcc52451",
+      "bytes": 23582,
+      "file": "sources/kindlegem.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/lich-bane/",
+      "retrievedAt": "2026-10-17T15:01:47.973Z",
+      "sha256": "8d0fcdaed3e236fdef46c9c37b22641d1f463847ed51d55a5c2b6253c50c4f4a",
+      "bytes": 24467,
+      "file": "sources/lich-bane.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/kircheis-shard/",
+      "retrievedAt": "2026-10-17T15:01:47.973Z",
+      "sha256": "500fc64c413a66f1d52ad54b8aa8e94a478df5bab88fc1e3332f7cbd79dc6b9c",
+      "bytes": 23799,
+      "file": "sources/kircheis-shard.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/last-whisper/",
+      "retrievedAt": "2026-10-17T15:01:47.981Z",
+      "sha256": "55688fd0e0207fa96f7b09939bdc6575dddecb4911f35a3a75e0f70a47b72e53",
+      "bytes": 23685,
+      "file": "sources/last-whisper.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/liandrys-torment/",
+      "retrievedAt": "2026-10-17T15:01:48.167Z",
+      "sha256": "c9db9aaf1465fd4061ef2e8efeb319c5d579f29c5337855fea99238cdb25f144",
+      "bytes": 24364,
+      "file": "sources/liandrys-torment.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/malignance/",
+      "retrievedAt": "2026-10-17T15:01:48.285Z",
+      "sha256": "80bf4895e4d1fa0e61dfacbd150ac751c5b9bc76b930ab576820c44f98ede9cb",
+      "bytes": 24249,
+      "file": "sources/malignance.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/ludens-echo/",
+      "retrievedAt": "2026-10-17T15:01:48.286Z",
+      "sha256": "a77e4b24b384e484f55ef7ee29dcdfeed28a13fc09ad66a566daf2dd59e10bfb",
+      "bytes": 24327,
+      "file": "sources/ludens-echo.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/mercurys-treads/",
+      "retrievedAt": "2026-10-17T15:01:48.288Z",
+      "sha256": "397670947b50001a89f51be4779850553419558faef64a45249f4340fe3737af",
+      "bytes": 24197,
+      "file": "sources/mercurys-treads.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/lost-chapter/",
+      "retrievedAt": "2026-10-17T15:01:48.298Z",
+      "sha256": "c434ac7ae6bcb12b0c1ef1ba8203faabeca1796e5d41271d24a281da98d02ba0",
+      "bytes": 24105,
+      "file": "sources/lost-chapter.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/mortal-reminder/",
+      "retrievedAt": "2026-10-17T15:01:48.305Z",
+      "sha256": "7568da456ae1ca65129f6b40fc6031d271bb67bc7d285c9eec71116b9e4c3cd8",
+      "bytes": 24616,
+      "file": "sources/mortal-reminder.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/morellonomicon/",
+      "retrievedAt": "2026-10-17T15:01:48.312Z",
+      "sha256": "b5a4964f0d32ddd54eedde4f801c3363180ca0dca3d2e3852f368580d58eaeb2",
+      "bytes": 24491,
+      "file": "sources/morellonomicon.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/negatron-cloak/",
+      "retrievedAt": "2026-10-17T15:01:48.432Z",
+      "sha256": "735b58acbbfa5cb161d61267527ecb499793a6f3048ca908b58c3443f17aa266",
+      "bytes": 23720,
+      "file": "sources/negatron-cloak.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/null-magic-mantle/",
+      "retrievedAt": "2026-10-17T15:01:48.432Z",
+      "sha256": "c7883a2c37e1292e5dd9dbfa0040fb99bd7f9a65294c26b71c6dbcf3078bf74e",
+      "bytes": 23607,
+      "file": "sources/null-magic-mantle.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/pickaxe/",
+      "retrievedAt": "2026-10-17T15:01:48.439Z",
+      "sha256": "9271304945feb5bf05d5c7edcd81c3f77ba46c05e224be6010662d0d25f60897",
+      "bytes": 23455,
+      "file": "sources/pickaxe.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/needlessly-large-rod/",
+      "retrievedAt": "2026-10-17T15:01:48.442Z",
+      "sha256": "5ba38064a2c9e2890d2db77ea0de0cc83c399bd9d76ed6ced52b0a94c4b3d592",
+      "bytes": 23957,
+      "file": "sources/needlessly-large-rod.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/oceanids-trident/",
+      "retrievedAt": "2026-10-17T15:01:48.457Z",
+      "sha256": "844a03347df8a36dbf80d93692c81586523873413c358cd699631fccfe7cb2df",
+      "bytes": 24904,
+      "file": "sources/oceanids-trident.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/oblivion-orb/",
+      "retrievedAt": "2026-10-17T15:01:48.461Z",
+      "sha256": "878c15d3e44654bdeb72c9b7a9099e90eda06e6b4a29effac6e57f2fdcc6f969",
+      "bytes": 23835,
+      "file": "sources/oblivion-orb.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/ring-of-revelation/",
+      "retrievedAt": "2026-10-17T15:01:48.577Z",
+      "sha256": "215281ecb4bad30c33ce01a6525babf9d7ae59aec6a221f577aa23c3c613e832",
+      "bytes": 23632,
+      "file": "sources/ring-of-revelation.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/rapid-firecannon/",
+      "retrievedAt": "2026-10-17T15:01:48.577Z",
+      "sha256": "ab19848e142d37cd9b2d84b7dcd044654ea819ffc524ecd017a67cca84548aa3",
+      "bytes": 24169,
+      "file": "sources/rapid-firecannon.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/plated-steelcaps/",
+      "retrievedAt": "2026-10-17T15:01:48.592Z",
+      "sha256": "51d536bed65f6af825b80b6a2adccbe1698409da770a58c25316607027a0721b",
+      "bytes": 24195,
+      "file": "sources/plated-steelcaps.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/rabadons-deathcap/",
+      "retrievedAt": "2026-10-17T15:01:48.596Z",
+      "sha256": "e896f7becf811991720756ed7b85e37d938608002b70ee6d29167418915de605",
+      "bytes": 23911,
+      "file": "sources/rabadons-deathcap.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/riftmaker/",
+      "retrievedAt": "2026-10-17T15:01:48.596Z",
+      "sha256": "0998637f47658fb9cb34f265b942cf9b510510648ea88a3dea5918e9fe512f53",
+      "bytes": 24193,
+      "file": "sources/riftmaker.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/relic-shield/",
+      "retrievedAt": "2026-10-17T15:01:48.599Z",
+      "sha256": "4b683179685d00b9846e40a4720fd7fa4034ac9caf9c3a7980dc474fd491816e",
+      "bytes": 24452,
+      "file": "sources/relic-shield.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/seekers-armguard/",
+      "retrievedAt": "2026-10-17T15:01:48.715Z",
+      "sha256": "1f8c9667508382d8667576f9ce9f532bec04e59b852a6e7c7f3d3b09cd467abf",
+      "bytes": 24707,
+      "file": "sources/seekers-armguard.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/rod-of-ages/",
+      "retrievedAt": "2026-10-17T15:01:48.715Z",
+      "sha256": "2059403505f1baacd3386fed2f8ba401a1b99f7f495c22efb6f86c06aa84dca2",
+      "bytes": 24317,
+      "file": "sources/rod-of-ages.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/rylais-crystal-scepter/",
+      "retrievedAt": "2026-10-17T15:01:48.720Z",
+      "sha256": "f018b0b16544b4545bbe7a3abb68413c6f7ac06d777e02d3627d019bd2d00056",
+      "bytes": 24771,
+      "file": "sources/rylais-crystal-scepter.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/sheen/",
+      "retrievedAt": "2026-10-17T15:01:48.727Z",
+      "sha256": "c96bb25396bb02d16d976176d2f59217678f41f54a3f6ff239b853cc727d07ec",
+      "bytes": 23668,
+      "file": "sources/sheen.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/ruby-crystal/",
+      "retrievedAt": "2026-10-17T15:01:48.731Z",
+      "sha256": "f961d503ef98534a62439c11e51f4558ea947a845cbafbf2261f24afba6113d0",
+      "bytes": 23441,
+      "file": "sources/ruby-crystal.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/runaans-hurricane/",
+      "retrievedAt": "2026-10-17T15:01:48.739Z",
+      "sha256": "3ae3cdfe4eaf78eb35d6795a4ea4ac03a0f46b3fb77bc4b29c0687724f494815",
+      "bytes": 24370,
+      "file": "sources/runaans-hurricane.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/verdant-barrier/",
+      "retrievedAt": "2026-10-17T15:01:48.852Z",
+      "sha256": "09fa7d27e5085fadec8e2ac2b5b5cbf5c101193a2fcc373e49aa59589448df64",
+      "bytes": 24059,
+      "file": "sources/verdant-barrier.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/spellslingers-shoes/",
+      "retrievedAt": "2026-10-17T15:01:48.854Z",
+      "sha256": "2248edc581ef3e68068090859905bdcda59c0575f534f1453703a8a18e497e1d",
+      "bytes": 24124,
+      "file": "sources/spellslingers-shoes.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/sunfire-aegis/",
+      "retrievedAt": "2026-10-17T15:01:48.868Z",
+      "sha256": "19debb3655884501663066b6cd73f0e38c0bfc060e888092fcc902bd04c1de02",
+      "bytes": 24208,
+      "file": "sources/sunfire-aegis.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/titanic-hydra/",
+      "retrievedAt": "2026-10-17T15:01:48.869Z",
+      "sha256": "5d65066e4d837a1d742a7762b6ae89e99ca9f81112d5f648c233b1d7e2123105",
+      "bytes": 24564,
+      "file": "sources/titanic-hydra.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/vampiric-scepter/",
+      "retrievedAt": "2026-10-17T15:01:48.877Z",
+      "sha256": "c97263fab36bde95c6c711c71aa36d6e51c8e41bd5a084a031e7253058268e38",
+      "bytes": 23787,
+      "file": "sources/vampiric-scepter.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/thornmail/",
+      "retrievedAt": "2026-10-17T15:01:48.878Z",
+      "sha256": "1f6846516a6f41b74a7a004330985de7c7d68a079d0f8e91a1e6bd8182e83ff2",
+      "bytes": 24148,
+      "file": "sources/thornmail.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/warmogs-armor/",
+      "retrievedAt": "2026-10-17T15:01:48.994Z",
+      "sha256": "8b558a2acf257b35ff05dae63ffc34dd0ed1fc97615bf64b1d5e183b27a9bb13",
+      "bytes": 24336,
+      "file": "sources/warmogs-armor.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/winged-moonplate/",
+      "retrievedAt": "2026-10-17T15:01:49.000Z",
+      "sha256": "2d04562828319e6e93d0df7b155864fa5e4a7912e5036fe8f37749d4260d7469",
+      "bytes": 23785,
+      "file": "sources/winged-moonplate.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/yun-tal-wildarrows/",
+      "retrievedAt": "2026-10-17T15:01:49.002Z",
+      "sha256": "6b341a582731b07269e07e79307c64ade46b062aacaaa9e4f01019a14e027d79",
+      "bytes": 24407,
+      "file": "sources/yun-tal-wildarrows.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/zhonyas-hourglass/",
+      "retrievedAt": "2026-10-17T15:01:49.020Z",
+      "sha256": "a053f6a3079eccfbaeba9c1adf38da27debcb511810a9f6638816aa4d62b36ce",
+      "bytes": 24399,
+      "file": "sources/zhonyas-hourglass.html"
+    },
+    {
+      "url": "https://www.wildriftmeta.com/items/zeal/",
+      "retrievedAt": "2026-10-17T15:01:49.022Z",
+      "sha256": "681302b6baac17f4e0e3efeccc9b0d0504cda65fc9bfc3468170a62779b76ee4",
+      "bytes": 23829,
+      "file": "sources/zeal.html"
+    }
+  ]
+}

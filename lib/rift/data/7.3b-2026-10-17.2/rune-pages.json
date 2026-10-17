@@ -1,0 +1,250 @@
+[
+  {
+    "champion": "swain",
+    "source": "https://www.wildriftfire.com/guide/swain",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "conqueror",
+        "name": "Conqueror"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "axiom-arcanist",
+        "name": "Axiom Arcanist"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "transcendence",
+        "name": "Transcendence"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "nimbus-cloak",
+        "name": "Nimbus Cloak"
+      },
+      {
+        "tree": "Precision",
+        "id": "legend-haste",
+        "name": "Legend: Haste"
+      }
+    ]
+  },
+  {
+    "champion": "vladimir",
+    "source": "https://www.wildriftfire.com/guide/vladimir",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "phase-rush",
+        "name": "Phase Rush"
+      },
+      {
+        "tree": "Precision",
+        "id": "battle-zeal",
+        "name": "Battle Zeal"
+      },
+      {
+        "tree": "Precision",
+        "id": "last-stand",
+        "name": "Last Stand"
+      },
+      {
+        "tree": "Precision",
+        "id": "legend-haste",
+        "name": "Legend: Haste"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "transcendence",
+        "name": "Transcendence"
+      }
+    ]
+  },
+  {
+    "champion": "mordekaiser",
+    "source": "https://www.wildriftfire.com/guide/mordekaiser",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "conqueror",
+        "name": "Conqueror"
+      },
+      {
+        "tree": "Resolve",
+        "id": "demolish",
+        "name": "Demolish"
+      },
+      {
+        "tree": "Resolve",
+        "id": "second-wind",
+        "name": "Second Wind"
+      },
+      {
+        "tree": "Resolve",
+        "id": "overgrowth",
+        "name": "Overgrowth"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "transcendence",
+        "name": "Transcendence"
+      }
+    ]
+  },
+  {
+    "champion": "dr-mundo",
+    "source": "https://www.wildriftfire.com/guide/dr-mundo",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "grasp-of-the-undying",
+        "name": "Grasp of the Undying"
+      },
+      {
+        "tree": "Resolve",
+        "id": "demolish",
+        "name": "Demolish"
+      },
+      {
+        "tree": "Resolve",
+        "id": "second-wind",
+        "name": "Second Wind"
+      },
+      {
+        "tree": "Resolve",
+        "id": "overgrowth",
+        "name": "Overgrowth"
+      },
+      {
+        "tree": "Precision",
+        "id": "last-stand",
+        "name": "Last Stand"
+      }
+    ]
+  },
+  {
+    "champion": "evelynn",
+    "source": "https://www.wildriftfire.com/guide/evelynn",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "electrocute",
+        "name": "Electrocute"
+      },
+      {
+        "tree": "Domination",
+        "id": "sudden-impact",
+        "name": "Sudden Impact"
+      },
+      {
+        "tree": "Domination",
+        "id": "chain-assault",
+        "name": "Chain Assault"
+      },
+      {
+        "tree": "Domination",
+        "id": "eyeball-collector",
+        "name": "Eyeball Collector"
+      },
+      {
+        "tree": "Sorcery",
+        "id": "absolute-focus",
+        "name": "Absolute Focus"
+      }
+    ]
+  },
+  {
+    "champion": "ahri",
+    "source": "https://www.wildriftfire.com/guide/ahri",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "electrocute",
+        "name": "Electrocute"
+      },
+      {
+        "tree": "Domination",
+        "id": "empowered-attack",
+        "name": "Empowered Attack"
+      },
+      {
+        "tree": "Domination",
+        "id": "chain-assault",
+        "name": "Chain Assault"
+      },
+      {
+        "tree": "Domination",
+        "id": "eyeball-collector",
+        "name": "Eyeball Collector"
+      },
+      {
+        "tree": "Resolve",
+        "id": "bone-plating",
+        "name": "Bone Plating"
+      }
+    ]
+  },
+  {
+    "champion": "jinx",
+    "source": "https://www.wildriftfire.com/guide/jinx",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "lethal-tempo",
+        "name": "Lethal Tempo"
+      },
+      {
+        "tree": "Precision",
+        "id": "brutal",
+        "name": "Brutal"
+      },
+      {
+        "tree": "Precision",
+        "id": "cut-down",
+        "name": "Cut Down"
+      },
+      {
+        "tree": "Precision",
+        "id": "legend-bloodline",
+        "name": "Legend: Bloodline"
+      },
+      {
+        "tree": "Resolve",
+        "id": "bone-plating",
+        "name": "Bone Plating"
+      }
+    ]
+  },
+  {
+    "champion": "caitlyn",
+    "source": "https://www.wildriftfire.com/guide/caitlyn",
+    "runes": [
+      {
+        "tree": "keystone",
+        "id": "lethal-tempo",
+        "name": "Lethal Tempo"
+      },
+      {
+        "tree": "Precision",
+        "id": "brutal",
+        "name": "Brutal"
+      },
+      {
+        "tree": "Precision",
+        "id": "cut-down",
+        "name": "Cut Down"
+      },
+      {
+        "tree": "Precision",
+        "id": "legend-bloodline",
+        "name": "Legend: Bloodline"
+      },
+      {
+        "tree": "Resolve",
+        "id": "bone-plating",
+        "name": "Bone Plating"
+      }
+    ]
+  }
+]

@@ -2,6 +2,14 @@ import Link from 'next/link'
 
 const projects = [
   {
+    slug: 'rift-lab',
+    href: '/rift',
+    title: 'Rift Lab',
+    date: '2026',
+    description: 'A personal Wild Rift strategy companion: visible drafts, transparent recommendations, and local screenshot experiments.',
+    tags: ['Wild Rift', 'TypeScript', 'Local-first'],
+  },
+  {
     slug: 'personal-website',
     title: 'Personal Website',
     date: '2026',
@@ -24,7 +32,7 @@ export default function Projects() {
           <article key={project.slug}>
             <p className="text-sm text-gray-400 mb-1">{project.date}</p>
             <h2 className="text-xl font-semibold mb-1">
-              <Link href={`/projects/${project.slug}`} className="hover:underline">
+              <Link href={project.href ?? `/projects/${project.slug}`} className="hover:underline">
                 {project.title}
               </Link>
             </h2>

@@ -1,0 +1,839 @@
+[
+  {
+    "id": "swain",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/swain/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Ravenous Flock",
+        "description": "Swain's ravens collect Soul Fragments that heal him and permanently increase his maximum health and scaling with Ability Power."
+      },
+      {
+        "slot": "q",
+        "name": "Death's Hand",
+        "description": "Swain unleashes several bolts of eldritch power that pierce through enemies. Enemies hit take more damage for each bolt they are struck by."
+      },
+      {
+        "slot": "w",
+        "name": "Vision of Empire",
+        "description": "Swain opens a demon eye that deals damage and slows enemies. Champions hit are revealed and also grant Swain a Soul Fragment."
+      },
+      {
+        "slot": "e",
+        "name": "Nevermove",
+        "description": "Swain launches a wave of demonic power forward. It then returns to Swain and roots enemies it hits. Swain can then choose to pull all rooted champions closer."
+      },
+      {
+        "slot": "r",
+        "name": "Demonic Ascension",
+        "description": "Swain transforms into a demon and drains health from nearby enemy champions, minions, and neutral monsters. Swain can cast Demonflare to decimate multiple times and slow nearby enemies with a nova of soulfire. This form is indefinite as long as Swain drains enemy champions."
+      }
+    ]
+  },
+  {
+    "id": "vladimir",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/vladimir/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "CRIMSON PACT",
+        "description": "Every 30 points of bonus Health gives Vladimir 1 Ability Power and every 1 point of Ability Power gives Vladimir 1.6 bonus Health (does not stack with itself)."
+      },
+      {
+        "slot": "q",
+        "name": "TRANSFUSION",
+        "description": "Vladimir steals life from the target enemy. When Vladimir's resource is full, Transfusion will benefit from massively increased damage and healing for a brief time."
+      },
+      {
+        "slot": "w",
+        "name": "SANGUINE POOL",
+        "description": "Vladimir sinks into a pool of blood, becoming untargetable for 2 seconds. Additionally, enemies on the pool are slowed and Vladimir siphons life from them."
+      },
+      {
+        "slot": "e",
+        "name": "TIDES OF BLOOD",
+        "description": "Vladimir pays his own health to charge up a reservoir of blood which, when released, deals damage in the area around him but can be blocked by enemy units."
+      },
+      {
+        "slot": "r",
+        "name": "HEMOPLAGUE",
+        "description": "Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit."
+      }
+    ]
+  },
+  {
+    "id": "mordekaiser",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/mordekaiser/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "DARKNESS RISE",
+        "description": "Mordekaiser gains a powerful damage aura and Move Speed after landing 3 attacks or spells against champions or monsters."
+      },
+      {
+        "slot": "q",
+        "name": "OBLITERATE",
+        "description": "Mordekaiser smashes the ground with his mace dealing damage to each enemy struck. Damage is increased when hitting a single enemy."
+      },
+      {
+        "slot": "w",
+        "name": "INDESTRUCTIBLE",
+        "description": "Mordekaiser stores damage he deals and takes to create a shield. He may consume the shield to heal."
+      },
+      {
+        "slot": "e",
+        "name": "DEATH'S GRASP",
+        "description": "Mordekaiser pulls all enemies in an area."
+      },
+      {
+        "slot": "r",
+        "name": "REALM OF DEATH",
+        "description": "Mordekaiser drags his victim to a different dimension with him and steals a portion of their stats. If he kills them, he keeps the stats until the victim respawns."
+      }
+    ]
+  },
+  {
+    "id": "dr-mundo",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/dr-mundo/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "GOES WHERE HE PLEASES",
+        "description": "Dr. Mundo resists the first Immobilizing effect that hits him, instead losing Health and dropping a chemical cannister nearby. Dr. Mundo can pick it up by walking over it, restoring Health and reducing this Ability's Cooldown. Dr. Mundo also has significantly increased Health regeneration."
+      },
+      {
+        "slot": "q",
+        "name": "INFECTED BONESAW",
+        "description": "Dr. Mundo throws an infected bonesaw, dealing damage to the first enemy hit based on their current health and slowing them."
+      },
+      {
+        "slot": "w",
+        "name": "HEART ZAPPER",
+        "description": "Dr. Mundo electrocutes himself, dealing persistent damage to nearby enemies and storing a portion of damage he takes. At the end of the duration or on Recast, Dr. Mundo deals a burst of damage to nearby enemies. If the burst hit an enemy, he heals a percentage of the stored damage."
+      },
+      {
+        "slot": "e",
+        "name": "BLUNT FORCE TRAUMA",
+        "description": "Passive - Dr. Mundo gains bonus Attack Damage, increasing based on his missing Health. Active - Dr. Mundo slams his “medical” bag into an enemy, dealing additional damage based on his missing Health. If the enemy dies they are swatted away, dealing damage to enemies they pass through."
+      },
+      {
+        "slot": "r",
+        "name": "MAXIMUM DOSAGE",
+        "description": "Dr. Mundo pumps himself with chemicals, instantly healing a percent of his missing Health. He then gains bonus Attack Damage and Move Speed, and regenerates a portion of his maximum Health over a long duration."
+      }
+    ]
+  },
+  {
+    "id": "evelynn",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/evelynn/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "DEMON SHADE",
+        "description": "When out of combat, Evelynn enters Demon Shade. Demon Shade heals Evelynn when she is low on health and grants Camouflage after level 5."
+      },
+      {
+        "slot": "q",
+        "name": "HATE SPIKE",
+        "description": "Evelynn strikes out with her lasher twice, dealing damage to the first unit hit. Then, Evelynn can re-cast to shoot another line of spikes at nearby foes."
+      },
+      {
+        "slot": "w",
+        "name": "ALLURE",
+        "description": "Evelynn curses her target, causing her next attack or spell after a delay to slow or charm her target, based on time cursed, and reduce their magic resist."
+      },
+      {
+        "slot": "e",
+        "name": "WHIPLASH",
+        "description": "Evelynn whips her target with her Lasher, dealing damage. She then gains movement speed for a short duration. When exiting Demon Shade, Whiplash pulls Evelynn to her target."
+      },
+      {
+        "slot": "r",
+        "name": "LAST CARESS",
+        "description": "Evelynn briefly goes untargetable and decimates the area in front of her before warping backwards a long distance."
+      }
+    ]
+  },
+  {
+    "id": "ahri",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/ahri/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Essence Theft",
+        "description": "Whenever Ahri hits a target with a spell, she gains a stack of Essence Theft. When she has enough stacks, her next spell that hits an enemy also heals her."
+      },
+      {
+        "slot": "q",
+        "name": "Orb of Deception",
+        "description": "Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back."
+      },
+      {
+        "slot": "w",
+        "name": "Fox-Fire",
+        "description": "Ahri gains a brief burst of movement speed and releases three fox-fires, that lock onto and attack nearby enemies."
+      },
+      {
+        "slot": "e",
+        "name": "Charm",
+        "description": "Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her. The target temporarily takes increased damage from Ahri."
+      },
+      {
+        "slot": "r",
+        "name": "Spirit Rush",
+        "description": "Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown."
+      }
+    ]
+  },
+  {
+    "id": "jinx",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/jinx/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Get Excited!",
+        "description": "Jinx receives massively increased Movement Speed and Attack Speed whenever she helps kill or destroy an enemy champions epic jungle monster, or structure."
+      },
+      {
+        "slot": "q",
+        "name": "Switcheroo!",
+        "description": "Jinx modifies her basic attacks by swapping between Pow-Pow, her minigun and Fishbones, her rocket launcher. Attacks with Pow-Pow grant Attack Speed, while attacks with Fishbones deal area of effect damage, gain increased range, and drain Mana."
+      },
+      {
+        "slot": "w",
+        "name": "Zap!",
+        "description": "Jinx uses Zapper, her shock pistol, to fire a blast that deals damage to the first enemy hit, slowing and revealing it."
+      },
+      {
+        "slot": "e",
+        "name": "Flame Chompers!",
+        "description": "Jinx throws out a line of snare grenades that explode after 5 seconds, lighting enemies on fire. Flame Chompers will bite enemy champions who walk over them, rooting them in place."
+      },
+      {
+        "slot": "r",
+        "name": "Super Mega Death Rocket!",
+        "description": "Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health."
+      }
+    ]
+  },
+  {
+    "id": "caitlyn",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/caitlyn/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "HEADSHOT",
+        "description": "Every few basic attacks, or against a target she has trapped or netted, Caitlyn will fire a headshot dealing bonus damage that scales with her critical strike chance. On trapped or netted targets, Caitlyn's Headshot attack range is doubled."
+      },
+      {
+        "slot": "q",
+        "name": "PILTOVER PEACEMAKER",
+        "description": "Caitlyn revs up her rifle for 1 second to unleash a penetrating shot that deals physical damage (deals less damage to subsequent targets)."
+      },
+      {
+        "slot": "w",
+        "name": "YORDLE SNAP TRAP",
+        "description": "Caitlyn sets a trap to find sneaky yordles. When sprung, the trap reveals and immobilizes the enemy champion for brief period, granting Caitlyn an empowered Headshot."
+      },
+      {
+        "slot": "e",
+        "name": "90 CALIBER NET",
+        "description": "Caitlyn fires a heavy net to slow her target. The recoil knocks Caitlyn back."
+      },
+      {
+        "slot": "r",
+        "name": "ACE IN THE HOLE",
+        "description": "Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally."
+      }
+    ]
+  },
+  {
+    "id": "miss-fortune",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/miss-fortune/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Love Tap",
+        "description": "Miss Fortune deals bonus physical damage whenever she basic attacks a new target."
+      },
+      {
+        "slot": "q",
+        "name": "Double Up",
+        "description": "Miss Fortune fires a bullet, damaging an enemy and critically striking a target behind them. Applies on-hit effects."
+      },
+      {
+        "slot": "w",
+        "name": "Strut",
+        "description": "Miss Fortune passively gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut."
+      },
+      {
+        "slot": "e",
+        "name": "Make It Rain",
+        "description": "Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them."
+      },
+      {
+        "slot": "r",
+        "name": "Bullet Time",
+        "description": "Miss Fortune channels a barrage of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike"
+      }
+    ]
+  },
+  {
+    "id": "veigar",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/veigar/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "PHENOMENAL EVIL POWER",
+        "description": "Veigar now gains passive stacks by hitting enemy champions once again."
+      },
+      {
+        "slot": "q",
+        "name": "BALEFUL STRIKE",
+        "description": "Veigar unleashes a bolt of dark energy that deals magic damage to the first two enemies hit. Units killed by this bolt grant Veigar some ability power permanently."
+      },
+      {
+        "slot": "w",
+        "name": "DARK MATTER",
+        "description": "Veigar calls a great mass of dark matter to fall from the sky to the target location, dealing magic damage when it lands. Stacks of Phenomenal Evil reduce Dark Matter's cooldown."
+      },
+      {
+        "slot": "e",
+        "name": "EVENT HORIZON",
+        "description": "Veigar twists the edges of space, creating a cage that Stuns enemies that pass through."
+      },
+      {
+        "slot": "r",
+        "name": "PRIMORDIAL BURST",
+        "description": "Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health."
+      }
+    ]
+  },
+  {
+    "id": "nunu-and-willump",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/nunu-and-willump/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "CALL OF THE FRELJORD",
+        "description": "Nunu increases the attack speed and movement speed of Willump and a nearby ally, and causes Willump's basic attacks to damage enemies around the target."
+      },
+      {
+        "slot": "q",
+        "name": "CONSUME",
+        "description": "Willump takes a bite out of a minion, monster, or enemy champion, dealing damage and healing himself."
+      },
+      {
+        "slot": "w",
+        "name": "BIGGEST SNOWBALL EVER!",
+        "description": "Willump creates a snowball that grows in size and speed as he rolls it. The snowball damages and knocks up enemies."
+      },
+      {
+        "slot": "e",
+        "name": "SNOWBALL BARRAGE",
+        "description": "Nunu throws multiple snowballs that damage enemies. When he's finished, Willump roots any champions or large monsters that were hit by a snowball."
+      },
+      {
+        "slot": "r",
+        "name": "ABSOLUTE ZERO",
+        "description": "Nunu & Willump create a powerful blizzard in an area that slows enemies and deals massive damage at the end."
+      }
+    ]
+  },
+  {
+    "id": "varus",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/varus/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Living Vengeance",
+        "description": "On kill or assist, Varus temporarily gains Attack Speed. This bonus is larger if the enemy is a champion."
+      },
+      {
+        "slot": "q",
+        "name": "Piercing Arrow",
+        "description": "Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire."
+      },
+      {
+        "slot": "w",
+        "name": "Blighted Quiver",
+        "description": "Passive: Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum Health. Active: Varus empowers his next Piercing Arrow."
+      },
+      {
+        "slot": "e",
+        "name": "Hail of Arrows",
+        "description": "Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' Movement Speed and reduces their self healing and regeneration."
+      },
+      {
+        "slot": "r",
+        "name": "Chain of Corruption",
+        "description": "Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact."
+      }
+    ]
+  },
+  {
+    "id": "zyra",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/zyra/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "GARDEN OF THORNS",
+        "description": "When hitting enemies with Grasping Roots, Zyra spawns Thorn Spitters who fight for her. If it misses, a Thorn Spitter will spawn at the end of the root’s travel path instead. Thorn Spitters automatically attack Zyra’s target, dealing Magic Damage. Deadly Spines or Stranglethorns spawn additional Thorn Spitters for each extra enemy champion, large monster, or epic monster hit."
+      },
+      {
+        "slot": "q",
+        "name": "DEADLY SPINES",
+        "description": "Thick vines spread through the ground and explode into spines, dealing magic damage to enemies within the area. Zyra will also spawn a Thorn Spitter, dealing damage. For each enemy hit the number of Thorn Spitters will increase."
+      },
+      {
+        "slot": "w",
+        "name": "RAMPANT GROWTH",
+        "description": "Zyra enrages all Thorn Spitters near her. Enraged Thorn Spitters’ duration get reset and they gain bonus Health and bonus Attack Damage."
+      },
+      {
+        "slot": "e",
+        "name": "GRASPING ROOTS",
+        "description": "Zyra sends forth vines through the ground to ensnare her target, dealing Magic Damage and rooting enemies they come across. Zyra spawns a Thorn Spitter when the vines hit the first enemy, or after the skill is cast if no enemy is hit."
+      },
+      {
+        "slot": "r",
+        "name": "STRANGLETHORNS",
+        "description": "Zyra summons a massive thicket at a target location, dealing Magic Damage to enemies as it expands and knocking them airborne as it contracts. When enemy champions are hit, a Thorn Spitter will spawn."
+      }
+    ]
+  },
+  {
+    "id": "xayah",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/xayah/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "CLEAN CUTS",
+        "description": "After using an ability, Xayah's next basic attacks will hit all targets along their path and leave a Feather.\n\nLover's Leap: Xayah can join Rakan's recall."
+      },
+      {
+        "slot": "q",
+        "name": "DOUBLE DAGGERS",
+        "description": "Xayah throws two damaging daggers that also drop Feathers she can recall."
+      },
+      {
+        "slot": "w",
+        "name": "DEADLY PLUMAGE",
+        "description": "Xayah creates a storm of blades that increase her basic attack speed and damage while granting her movement speed if she attacks a champion.\n\nIf an ally Rakan is nearby, he also gains the effects of this ability."
+      },
+      {
+        "slot": "e",
+        "name": "BLADECALLER",
+        "description": "Xayah calls back all her dropped Feathers dealing damage and rooting enemies if hit with 3 or more."
+      },
+      {
+        "slot": "r",
+        "name": "FEATHERSTORM",
+        "description": "Xayah leaps into the air becoming untargetable and throwing out a fan of daggers, dropping Feathers she can recall."
+      }
+    ]
+  },
+  {
+    "id": "yuumi",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/yuumi/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Feline Friendship",
+        "description": "Periodically, Yuumi’s Basic Attacks and Abilities will Shield Yuumi. If Yuumi is Attached to an ally or attaches within a few seconds they are Shielded for the same amount. While Attached to an ally, Yuumi grants them Friendship stacks when they kill enemy champions or minions. The ally with the highest Friendship stack becomes Yuumi’s Best Friend, which empowers her abilities towards them."
+      },
+      {
+        "slot": "q",
+        "name": "PROWLING PROJECTILE",
+        "description": "Yuumi fires a missile, dealing Magic Damage to the first target hit. It deals bonus damage and Slows if it takes at least 1 second to get to its target. While Attached, the missile can be controlled with your cursor. Best Friend Bonus: Applies Slow on hit, and when hitting an enemy champion, Yuumi’s Attached ally gains bonus Magic Damage toward them."
+      },
+      {
+        "slot": "w",
+        "name": "YOU AND ME!",
+        "description": "Passive: While Yuumi is Attached to her Best Friend, She gains bonus Healing and Shielding, and her Best Friend also receives additional Healing effects. Active: Yuumi dashes to a target ally, becoming untargetable from everything except turrets."
+      },
+      {
+        "slot": "e",
+        "name": "ZOOMIES",
+        "description": "Yuumi grants herself a Shield and gains Attack Speed. She also gains Move Speed while the Shield is active. If Yuumi is Attached, Zoomies affect her ally."
+      },
+      {
+        "slot": "r",
+        "name": "FINAL CHAPTER",
+        "description": "Yuumi launches five waves in the target direction. While Attached Yuumi can steer the direction of the waves. Detaching stops this bonus effect. Allied champions hit by the waves are Healed, with increased Healing for the Best Friend. Excess Healing converts into a Shield. Enemies struck by the waves take Magic Damage and are Slowed. The Slow stacks and refreshes on each hit."
+      }
+    ]
+  },
+  {
+    "id": "lillia",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/lillia/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "DREAM-LADEN BOUGH",
+        "description": "Hitting a champion or monster with a skill will deal additional max Health damage over time."
+      },
+      {
+        "slot": "q",
+        "name": "BLOOMING BLOWS",
+        "description": "Passively, Lillia gains stacking Move Speed when hitting enemies with spells. She can activate this to deal magic damage to nearby enemies, dealing extra true damage on the edge."
+      },
+      {
+        "slot": "w",
+        "name": "WATCH OUT! EEP!",
+        "description": "Lillia deals damage in a nearby area, dealing heavy damage in the center."
+      },
+      {
+        "slot": "e",
+        "name": "SWIRLSEED",
+        "description": "Lillia hurls a seed that damages and slows those it lands on. If it doesn't hit anything, it will continue rolling until it hits a wall or target."
+      },
+      {
+        "slot": "r",
+        "name": "LILTING LULLABY",
+        "description": "Lillia causes all enemies with Dream Dust on them to become Drowsy before falling asleep. Those enemies will take extra damage on being forcibly woken up."
+      }
+    ]
+  },
+  {
+    "id": "tryndamere",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/tryndamere/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Battle Fury",
+        "description": "Tryndamere gains Fury for each attack, critical strike, and killing blow he makes. Fury passively increases his Critical Strike Chance and can be consumed with his Bloodlust spell."
+      },
+      {
+        "slot": "q",
+        "name": "Bloodlust",
+        "description": "Tryndamere thrives on the thrills of combat, increasing his Attack Damage as he is more and more wounded. He can cast Bloodlust to consume his Fury and heal himself."
+      },
+      {
+        "slot": "w",
+        "name": "Mocking Shout",
+        "description": "Tryndamere lets out an insulting cry, decreasing surrounding champions' Attack Damage. Enemies with their backs turned to Tryndamere also have their Movement Speed reduced."
+      },
+      {
+        "slot": "e",
+        "name": "Spinning Slash",
+        "description": "Tryndamere slices toward a target unit, dealing damage to enemies in his path."
+      },
+      {
+        "slot": "r",
+        "name": "Undying Rage",
+        "description": "Tryndamere's lust for battle becomes so strong that he is unable to die, no matter how wounded he becomes."
+      }
+    ]
+  },
+  {
+    "id": "lucian",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/lucian/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "LIGHTSLINGER",
+        "description": "Whenever Lucian uses an ability, his next attack becomes a double-shot."
+      },
+      {
+        "slot": "q",
+        "name": "PIERCING LIGHT",
+        "description": "Lucian shoots a bolt of piercing light through a target."
+      },
+      {
+        "slot": "w",
+        "name": "ARDENT BLAZE",
+        "description": "Lucian shoots a missile that explodes in a star shape, marking and briefly revealing enemies. Lucian gains Movement Speed for attacking marked enemies."
+      },
+      {
+        "slot": "e",
+        "name": "RELENTLESS PURSUIT",
+        "description": "Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown."
+      },
+      {
+        "slot": "r",
+        "name": "THE CULLING",
+        "description": "Lucian unleashes a torrent of shots from his weapons."
+      }
+    ]
+  },
+  {
+    "id": "lux",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/lux/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Illumination",
+        "description": "Lux's damaging spells charge the target with energy for 5 seconds. Lux's next attack ignites the energy, dealing bonus magic damage (depending on Lux's level) to the target."
+      },
+      {
+        "slot": "q",
+        "name": "Light Binding",
+        "description": "Lux releases a sphere of light that binds and deals damage to up to two enemy units."
+      },
+      {
+        "slot": "w",
+        "name": "Prismatic Barrier",
+        "description": "Lux throws her wand and bends the light around any friendly target it touches, protecting them from enemy damage."
+      },
+      {
+        "slot": "e",
+        "name": "Lucent Singularity",
+        "description": "Fires an anomaly of twisted light to an area, which slows nearby enemies. Lux can detonate it to damage enemies in the area of effect."
+      },
+      {
+        "slot": "r",
+        "name": "Final Spark",
+        "description": "After gathering energy, Lux fires a beam of light that deals damage to all targets in the area. In addition, triggers Lux's passive ability and refreshes the Illumination debuff duration."
+      }
+    ]
+  },
+  {
+    "id": "ekko",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/ekko/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Z-DRIVE RESONANCE",
+        "description": "Every third attack or damaging spell on the same target deals bonus magic damage, and grants Ekko a burst of speed if the target is a champion."
+      },
+      {
+        "slot": "q",
+        "name": "TIMEWINDER",
+        "description": "Ekko throws a temporal grenade that expands into a time-distortion field upon hitting an enemy champion, slowing and damaging anyone caught inside. After a delay, the grenade rewinds back to Ekko, dealing damage on its return."
+      },
+      {
+        "slot": "w",
+        "name": "PARALLEL CONVERGENCE",
+        "description": "Ekko's basic attacks deal bonus magic damage to low health enemies. He can cast Parallel Convergence to split the timeline, creating an anomaly after a few seconds that slows enemies caught inside. If Ekko enters the anomaly, he gains shielding and stuns enemies by suspending them in time."
+      },
+      {
+        "slot": "e",
+        "name": "PHASE DIVE",
+        "description": "Ekko rolls evasively while charging up his Z-Drive. His next attack deals bonus damage and warps reality, teleporting him to his target."
+      },
+      {
+        "slot": "r",
+        "name": "CHRONOBREAK",
+        "description": "Ekko shatters his timeline, becoming untargetable and rewinding to a more favorable point in time. He returns to whenever he was a few seconds ago, and heals for a percentage of the damage received in that duration. Enemies near his arrival zone take massive damage."
+      }
+    ]
+  },
+  {
+    "id": "malphite",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/malphite/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Granite Shield",
+        "description": "Malphite is shielded by a layer of rock which absorbs damage up to 10% of his maximum Health. If Malphite has not been hit for 8 seconds, this effect recharges."
+      },
+      {
+        "slot": "q",
+        "name": "Seismic Shard",
+        "description": "Using his primal elemental magic, Malphite sends a shard of the earth through the ground at his foe, dealing damage upon impact and stealing Movement Speed for 3 seconds."
+      },
+      {
+        "slot": "w",
+        "name": "Thunderclap",
+        "description": "Malphite passively gains armor. When Malphite activates Thunderclap, he attacks with such force that it creates a sonic boom. For the next few seconds, his attacks create aftershocks in front of him."
+      },
+      {
+        "slot": "e",
+        "name": "Ground Slam",
+        "description": "Malphite slams the ground, sending out a shockwave that deals magic damage based on his Armor as damage and reduces the Attack Speed of enemies for a short duration."
+      },
+      {
+        "slot": "r",
+        "name": "Unstoppable Force",
+        "description": "Malphite ferociously charges to a location, damaging enemies and knocking them into the air."
+      }
+    ]
+  },
+  {
+    "id": "soraka",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/soraka/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Salvation",
+        "description": "Soraka runs faster towards nearby low health allies."
+      },
+      {
+        "slot": "q",
+        "name": "Starcall",
+        "description": "A star falls from the sky at the target location dealing magic damage and slowing enemies. If an enemy champion is hit by Starcall, Soraka is rejuvenated and recovers Health. After healing 3 ally champions, her next Starcall is empowered and deals more damage in a larger area."
+      },
+      {
+        "slot": "w",
+        "name": "Astral Infusion",
+        "description": "Soraka heals a friendly champion. Excess healing is converted into a shield."
+      },
+      {
+        "slot": "e",
+        "name": "Equinox",
+        "description": "Creates a zone at a location that damages and silences all enemies inside. When the zone expires, all enemies still inside are rooted."
+      },
+      {
+        "slot": "r",
+        "name": "Wish",
+        "description": "Soraka fills her allies with hope, instantly restoring health to herself and all friendly champions."
+      }
+    ]
+  },
+  {
+    "id": "leona",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/leona/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "SUNLIGHT",
+        "description": "Damaging spells afflict enemies with Sunlight. When allied Champions deal damage to those targets, they consume the Sunlight to deal additional magic damage."
+      },
+      {
+        "slot": "q",
+        "name": "SHIELD OF DAYBREAK",
+        "description": "Leona uses her shield to perform her next basic attack, dealing bonus magic damage and stunning the target."
+      },
+      {
+        "slot": "w",
+        "name": "ECLIPSE",
+        "description": "Leona raises her shield to gain Armor, and Magic Resist. When the duration first ends, if there are nearby enemies, she will deal magic damage to them and prolong the duration of the effect."
+      },
+      {
+        "slot": "e",
+        "name": "ZENITH BLADE",
+        "description": "Leona projects a solar image of her sword, dealing magic damage to all enemies in a line. When the image fades, the last enemy champion struck will be briefly rooted and Leona will dash to them."
+      },
+      {
+        "slot": "r",
+        "name": "SOLAR FLARE",
+        "description": "Leona calls down a beam of solar energy, dealing damage to enemies in an area. Enemies in the center of the area are stunned, while enemies on the outside are slowed."
+      }
+    ]
+  },
+  {
+    "id": "yasuo",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/yasuo/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Way of the Wanderer",
+        "description": "Yasuo's Critical Strike Chance is doubled. Additionally, Yasuo builds toward a shield whenever he is moving. The shield triggers when he takes damage from a champion or monster."
+      },
+      {
+        "slot": "q",
+        "name": "Steel Tempest",
+        "description": "Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathering Storm for a few seconds. At 2 stacks, Steel Tempest fires a whirlwind that knocks Airborne. Steel Tempest is treated as a basic attack and scales with all the same things."
+      },
+      {
+        "slot": "w",
+        "name": "Wind Wall",
+        "description": "Creates a moving wall that blocks all enemy projectiles for 4 seconds."
+      },
+      {
+        "slot": "e",
+        "name": "Sweeping Blade",
+        "description": "Dashes through target enemy, dealing magic damage. Each cast increases your next dash's base Damage, up to a max amount. Cannot be re-cast on the same enemy for a few seconds. If Steel Tempest is cast while dashing, it will strike as a circle."
+      },
+      {
+        "slot": "r",
+        "name": "Last Breath",
+        "description": "Blinks to an Airborne enemy champion, dealing physical damage and holding all Airborne enemies in the area in the air. Grants maximum Flow but resets all stacks of Gathering Storm. For a moderate time afterwards, Yasuo's critical strikes gain significant Bonus Armor Penetration."
+      }
+    ]
+  },
+  {
+    "id": "garen",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/garen/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Perseverance",
+        "description": "If Garen has not recently been struck by damage or enemy abilities, he regenerates a percentage of his total health each second."
+      },
+      {
+        "slot": "q",
+        "name": "Decisive Strike",
+        "description": "Garen gains a burst of movement speed, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and silencing them."
+      },
+      {
+        "slot": "w",
+        "name": "Courage",
+        "description": "Garen reduces damage taken for a short time, and gains bonus resistance to crowd control."
+      },
+      {
+        "slot": "e",
+        "name": "Judgment",
+        "description": "Garen rapidly spins his sword around his body, dealing physical damage to nearby enemies. Enemies hit by the bladestorm's edge are critically struck."
+      },
+      {
+        "slot": "r",
+        "name": "Demacian Justice",
+        "description": "Garen calls upon the might of Demacia to attempt to execute an enemy champion, dealing damage in an area around his target."
+      }
+    ]
+  },
+  {
+    "id": "vayne",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/vayne/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Night Hunter",
+        "description": "Vayne ruthlessly hunts evil-doers, gaining 30 Move Speed when moving toward nearby enemy champions."
+      },
+      {
+        "slot": "q",
+        "name": "Tumble",
+        "description": "Vayne tumbles, maneuvering to carefully place her next shot. Her next attack deals bonus damage."
+      },
+      {
+        "slot": "w",
+        "name": "Silver Bolts",
+        "description": "Vayne tips her bolts with a rare metal, toxic to evil things. The third consecutive attack or ability against the same target deals a percentage of the target's max health as bonus true damage. Activating this ability gives Vayne bonus Attack Speed and she heals for some of Silver Bolts' damage."
+      },
+      {
+        "slot": "e",
+        "name": "Condemn",
+        "description": "Vayne draws a heavy crossbow from her back, and fires a huge bolt at her target, knocking them back and dealing damage. If they collide with terrain, they are impaled, dealing bonus damage and stunning them."
+      },
+      {
+        "slot": "r",
+        "name": "Final Hour",
+        "description": "Readying herself for an epic confrontation, Vayne gains increased Attack Damage, Invisibility during Tumble, and more bonus Movement Speed from Night Hunter. When an enemy champion damaged by Vayne dies within a few seconds, Final Hour's duration is extended."
+      }
+    ]
+  },
+  {
+    "id": "alistar",
+    "source": "https://wildrift.leagueoflegends.com/en-us/champions/alistar/",
+    "abilities": [
+      {
+        "slot": "passive",
+        "name": "Triumphant Roar",
+        "description": "Alistar charges his roar by stunning or displacing enemy champions or when nearby enemies die. When fully charged he heals himself all nearby allied champions."
+      },
+      {
+        "slot": "q",
+        "name": "Pulverize",
+        "description": "Alistar smashes the ground, dealing damage to nearby enemies and tossing them into the air."
+      },
+      {
+        "slot": "w",
+        "name": "Headbutt",
+        "description": "Alistar rams a target with his head, dealing damage and knocking the target back. May also target turrets to deal bonus damage."
+      },
+      {
+        "slot": "e",
+        "name": "Trample",
+        "description": "Alistar tramples nearby enemy units, ignoring unit collision and gaining stacks if he damages an enemy champion. At full stacks Alistar's next basic attack against an enemy champion deals additional magic damage and stuns them."
+      },
+      {
+        "slot": "r",
+        "name": "Unbreakable Will",
+        "description": "Alistar lets out a wild roar, removing all crowd control effects on himself, and reducing incoming physical and magical damage for the duration."
+      }
+    ]
+  }
+]

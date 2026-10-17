@@ -1,0 +1,10 @@
+{
+  "measuredAt": "2026-10-17T15:06:51.080Z",
+  "runtime": "v24.13.1",
+  "platform": "win32",
+  "scope": "Warm deterministic engine only, Node on development PC; not phone, UI, image decode, or recognition latency",
+  "samples": 1000,
+  "p50Ms": 0.030400000000042837,
+  "p95Ms": 0.06479999999999109,
+  "maxMs": 0.5550000000000068
+}
