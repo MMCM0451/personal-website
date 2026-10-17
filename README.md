@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Rift Lab
 
-Repair branch adds `/rift/quick`: real local scoreboard recognition with explicit review, compact builds/runes/threats/purchases, and shared state with full analysis. Draft/loading recognition remains unsupported. Actual fixtures, confidence policy and measured timing: [RECOGNITION_STATUS.md](docs/rift/RECOGNITION_STATUS.md). Supply private fixtures using `RIFT_FIXTURE_DIR`; they are never public assets. No production deployment of this repair is authorised.
+Rift Lab adds `/rift/quick`: real local scoreboard recognition with explicit review, compact builds/runes/threats/purchases, and shared state with full analysis. Draft/loading recognition remains unsupported. Actual fixtures, confidence policy and measured timing: [RECOGNITION_STATUS.md](docs/rift/RECOGNITION_STATUS.md). Supply private fixtures using `RIFT_FIXTURE_DIR`; they are never public assets. Max authorised production deployment of this repair on 2026-10-17; deployment completion requires successful Vercel status and live verification.
 
 Local Wild Rift companion at `/rift` (draft/build/history/settings). Start with `npm run dev`; run `npm run test:rift`, `npm run typecheck`, and `npm run build` before release. `npm run benchmark:rift` records engine-only PC timing. Architecture, data provenance, rules, vision limits and handover are in [docs/rift/PROJECT_STATE.md](docs/rift/PROJECT_STATE.md).
 

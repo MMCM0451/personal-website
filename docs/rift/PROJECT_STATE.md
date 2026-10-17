@@ -1,8 +1,12 @@
 # Rift Lab state
 
-## Current local repair — 2026-10-17
+## Quick Mode repair release approval — 2026-10-17
 
-The sections below record the earlier release. Current branch `rift/vision-quick-mode` is a checkout of the same repository in this writable task workspace (`website/`). **No repair push or deployment has occurred.**
+Max explicitly requested deployment of the tested repair. Publish the repair through the existing GitHub `main` / Vercel integration, with entrypoint `https://www.maxma.me/rift/quick` accessible from `/rift`. Check the canonical production routes and the real local screenshot review workflow after Vercel completes. Private fixtures and labelled evidence remain excluded from Git and Vercel. The records below describe validation before this approval; approval alone is not deployment evidence.
+
+## Repair validation before release approval — 2026-10-17
+
+The repair was developed on branch `rift/vision-quick-mode`, a checkout of the same repository in this writable task workspace (`website/`). At the end of the local validation recorded here, no repair push or deployment had occurred.
 
 Implemented: real scoreboard pixels → layout/crops/portrait proposals → explicit review/search correction → existing shared draft/engine; manual/screenshot provenance; protected manual IDs and intentional unknowns; unsupported-image abstention; crop debugger/raw exports; optional local labelled crops. `/rift/quick` integrates the supplied design with real builds/runes, comparison/detail sheets, threats, purchase path and Copy/Full analysis. Existing detailed routes and manual controls remain. Scoreboard context is postgame; locked runes/spells are informational.
 
