@@ -6,7 +6,7 @@ import {readFileSync} from 'node:fs'
 import {spawn} from 'node:child_process'
 const {encode}=createRequire(import.meta.url)('next-auth/jwt')
 let phase='configuration'
-process.on('uncaughtException',error=>{console.error(JSON.stringify({passed:false,phase,errorType:error.name}));process.exitCode=1})
+process.on('uncaughtException',error=>{const causeCode=error.cause?.code;console.error(JSON.stringify({passed:false,phase,errorType:error.name,...(typeof causeCode==='string'&&/^[A-Z0-9_]+$/.test(causeCode)?{causeCode}:{})}));process.exitCode=1})
 const config=JSON.parse(readFileSync(0,'utf8')),origin=new URL(config.origin)
 assert.equal(origin.protocol,'https:');assert.equal(origin.pathname,'/')
 assert.ok(origin.hostname==='www.maxma.me'||origin.hostname.endsWith('-mingchuanlife-6670s-projects.vercel.app'))
@@ -16,6 +16,7 @@ const expired=await encode({secret:config.secret,token:{sub:config.ownerId,obser
 const cookie=token=>'__Host-observatory-session='+token
 const checks=[]
 async function request(path,{method='GET',headers={},body}={}){
+ phase=method+' '+path
  if(!config.vercelEntry){const response=await fetch(new URL(path,origin),{method,headers,body,redirect:'manual',signal:AbortSignal.timeout(60000)});return {status:response.status,headers:response.headers,text:await response.text()}}
  const lines=['silent','show-error','include','max-time = 60','request = '+JSON.stringify(method),'write-out = "\\n__OBS_STATUS__%{http_code}"',...Object.entries(headers).map(([name,value])=>'header = '+JSON.stringify(name+': '+value)),...(body?['data = '+JSON.stringify(body)]:[])]
  const args=[config.vercelEntry,'curl',new URL(path,origin).href,'--scope','mingchuanlife-6670s-projects','--','--config','-']
